@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="GBK"?>
+
+<modules>
+  <module module_id="b15240fcf451469ca3982c32ff24db6d">
+    <create_date>2018-07-13 13:45:21</create_date>
+    <modified_date>2018-07-13 13:45:21</modified_date>
+    <modified_by>admin</modified_by>
+    <create_by>admin</create_by>
+    <description>商户信息管理模块</description>
+    <name>商户管理</name>
+    <module_no>m_db6d_58</module_no>
+    <version_id>b462ecc420e242aca87edc6f824c09a5</version_id>
+    <module_type_id>4744dcfbfa8c4bb4adf75b3feb9a965e</module_type_id>
+  </module>
+  <module_type module_type_id="4744dcfbfa8c4bb4adf75b3feb9a965e">
+    <module_type_no>author_group</module_type_no>
+    <module_type_name>权限相关模块</module_type_name>
+    <create_date>2016/09/26 19:18:39</create_date>
+    <modified_date>2016/09/26 19:18:39</modified_date>
+    <modified_by></modified_by>
+    <create_by></create_by>
+    <parent_id>0</parent_id>
+  </module_type>
+</modules>

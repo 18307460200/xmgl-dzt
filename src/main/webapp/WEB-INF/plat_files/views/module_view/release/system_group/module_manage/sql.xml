@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="GBK"?>
+
+<sqls>
+  <sql sql_id="266005a0095141e7b5194504319ac9ae">
+    <sql_type>5</sql_type>
+    <result_type></result_type>
+    <orderline>1494849523542</orderline>
+    <modified_date></modified_date>
+    <create_by>admin</create_by>
+    <state></state>
+    <event_id></event_id>
+    <result_number>0</result_number>
+    <version_id>b2e8961ff06546feb1875a4912ce91e9</version_id>
+    <create_date>2016-10-20 11:01:25</create_date>
+    <module_id>9A3E1C18B37E48F48D1A194B564AE952</module_id>
+    <sql_value><![CDATA[sqls/266005a0095141e7b5194504319ac9ae.sql]]></sql_value>
+    <modified_by></modified_by>
+    <sql_no></sql_no>
+    <datasource>plat</datasource>
+  </sql>
+  <sql sql_id="4ef8333517864c5f9abd825265245e7d">
+    <sql_type>5</sql_type>
+    <result_type>1</result_type>
+    <orderline>1494849523274</orderline>
+    <modified_date></modified_date>
+    <create_by></create_by>
+    <state></state>
+    <event_id></event_id>
+    <result_number>0</result_number>
+    <version_id>b2e8961ff06546feb1875a4912ce91e9</version_id>
+    <create_date></create_date>
+    <module_id>9A3E1C18B37E48F48D1A194B564AE952</module_id>
+    <sql_value><![CDATA[sqls/4ef8333517864c5f9abd825265245e7d.sql]]></sql_value>
+    <modified_by></modified_by>
+    <sql_no></sql_no>
+    <datasource>plat</datasource>
+  </sql>
+  <sql sql_id="af81d96b082248ae8456538006be5d16">
+    <sql_type>5</sql_type>
+    <result_type>1</result_type>
+    <orderline>1494849523034</orderline>
+    <modified_date></modified_date>
+    <create_by></create_by>
+    <state></state>
+    <event_id></event_id>
+    <result_number>0</result_number>
+    <version_id>b2e8961ff06546feb1875a4912ce91e9</version_id>
+    <create_date></create_date>
+    <module_id>9A3E1C18B37E48F48D1A194B564AE952</module_id>
+    <sql_value><![CDATA[sqls/af81d96b082248ae8456538006be5d16.sql]]></sql_value>
+    <modified_by></modified_by>
+    <sql_no></sql_no>
+    <datasource>plat</datasource>
+  </sql>
+  <sql sql_id="c5a406100cfa4e2db6e176ed97404666">
+    <sql_type>5</sql_type>
+    <result_type>1</result_type>
+    <orderline>1494849523429</orderline>
+    <modified_date></modified_date>
+    <create_by></create_by>
+    <state></state>
+    <event_id></event_id>
+    <result_number>0</result_number>
+    <version_id>b2e8961ff06546feb1875a4912ce91e9</version_id>
+    <create_date></create_date>
+    <module_id>9A3E1C18B37E48F48D1A194B564AE952</module_id>
+    <sql_value><![CDATA[sqls/c5a406100cfa4e2db6e176ed97404666.sql]]></sql_value>
+    <modified_by></modified_by>
+    <sql_no></sql_no>
+    <datasource>plat</datasource>
+  </sql>
+</sqls>

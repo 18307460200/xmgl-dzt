@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="GBK"?>
+<system>
+    <category name="system" description="系统配置">
+    	<item name="machineId" value="po-zhu" descript="机器ID，方便发布时的开发调试" />
+    	<item name="isOracleSequence" value="0" description="使用oracle生成序列" />
+    	<item name="isAutoIncrement" value="1" description="返回自增ID" />
+        <item name="service_conf_path" value="workplat_standard.xml|spring_bean_xmgl.xml" description="服务类映射配置文件" />
+        <item name="fileSaveAddr" value="" description="上传文件保存地址，如果为空，默认保存在工程目录下" />
+        <item name="isParamFormatHtml" value="0" description="是否将参数格式化成html，解决跨站脚本攻击,0或空,不格式化 1:格式化" />
+    	<item name="isProduction" value="0" description="是否生产环境0或空:不是 1:是"></item>
+    	<item name="expire_request" value="1" description="是否验证请求失效，1验证，其他的不验证"></item>
+    	<item name="ismd5orsm" value="0" description="采用国密算法还是MD5加密，0默认是MD5,1是国密算法"/>
+    	<item name="regex_script" value="onabort|onerror" description="解决跨站脚本问题,去掉js事件,例如下面是所有的事件 onabort|onactivate|onafterprint|onafterupdate|onbeforeactivate|onbeforecopy|onbeforecut|onbeforedeactivate|onbeforeeditfocus|onbeforepaste|onbeforeprint|onbeforeunload|onbeforeupdate|onblur|onbounce|oncellchange|onchange|onclick|oncontextmenu|oncontrolselect|oncopy|oncut|ondataavailable|ondatasetchanged|ondatasetcomplete|ondblclick|ondeactivate|ondrag|ondragend|ondragenter|ondragleave|ondragover|ondragstart|ondrop|onerror|onerrorupdate|onfilterchange|onfinish|onfocus|onfocusin|onfocusout|onhelp|onkeydown|onkeypress|onkeyup|onlayoutcomplete|onload|onlosecapture|onmousedown|onmouseenter|onmouseleave|onmousemove|onmouseout|onmouseover|onmouseup|onmousewheel|onmove|onmoveend|onmovestart|onpaste|onpropertychange|onreadystatechange|onreset|onresize|onresizeend|onresizestart|onrowenter|onrowexit|onrowsdelete|onrowsinserted|onscroll|onselect|onselectionchange|onselectstart|onstart|onstop|onsubmit|onunload"/>
+    </category>
+    <category name="user_ip" description="登录限制ip配置"> 
+    	<item name="netmark" value="" descript="指定子网掩码" />
+    </category>
+    <category name="module" description="模块相关配置">
+    	<item name="login_version_id" value="a6fe52a7c4664274aac98862a5a80729" descript="登录页面对应的版本编号" />
+    	<item name="index_version_id" value="4fb60c7d09354ba1aecd52e02cc06e8c" descript="首页对应的版本编号" />
+    </category>   
+    <category name="eventLog" description="事件日志相关配置">
+    	<item name="not_event" value="e_tree_catalog|e_query_system_log"  descript="不记录操作日志的事件编号,多个事件以竖线分割" />
+    </category>   
+    
+     <category name="eventNotFormatHtml" description="事件转义配置">
+     	<!-- name="事件编号"   value=”不进行转义的字段值，多个用|分隔“ -->
+    	<item name="article_event_add_article" value="content|brief" description="不进行转义的字段值，多个用|分隔" />
+    	<item name="article_event_edit_article" value="content|brief" description="不进行转义的字段值，多个用|分隔" />
+    	<item name="article_event_edit_articlecontent" value="content" description="不进行转义的字段值，多个用|分隔" />
+    	<item name="e_add_template" value="content" description="不进行转义的字段值，多个用|分隔" />
+    	<item name="e_edite_template" value="content" description="不进行转义的字段值，多个用|分隔" />
+    	<item name="e_add_js" value="content" description="不进行转义的字段值，多个用|分隔" />
+    	<item name="e_add_sql" value="sql_value" description="不进行转义的字段值，多个用|分隔" />
+    	<item name="e_add_sitetemplate" value="content" description="不进行转义的字段值，多个用|分隔" />
+    	<item name="e_edit_sitetemplate" value="content" description="不进行转义的字段值，多个用|分隔" />
+    	<item name="e_edit_sitecontent" value="content" description="不进行转义的字段值，多个用|分隔" />
+    	<item name="e_add_knowledge" value="content" description="不进行转义的字段值，多个用|分隔" />
+    	<item name="e_edit_knowledge" value="content" description="不进行转义的字段值，多个用|分隔" />
+    	<item name="e_add_message" value="message_content" description="不进行转义的字段值，多个用|分隔" />
+    	<item name="e_edit_message" value="message_content" description="不进行转义的字段值，多个用|分隔" />
+    	<item name="e_add_version" value="agree_content" description="不进行转义的字段值，多个用|分隔" />
+    	<item name="e_add_problemhelp" value="content" description="不进行转义的字段值，多个用|分隔" />
+    	<item name="e_edit_problemhelp" value="content" description="不进行转义的字段值，多个用|分隔" />
+    	<item name="e_add_sitecatalog" value="description" description="不进行转义的字段值，多个用|分隔" />
+    	<item name="e_edit_sitecatalog" value="description" description="不进行转义的字段值，多个用|分隔" />
+    	<item name="e_add_enumsql" value="sql_value"  description="动态数据字典的sql不进行转义的字段值，多个用|分隔" />
+    </category>
+    
+    <category name="cache" description="缓存配置">
+    	<item name="type" value="1" description="缓存类型1:内存 默认,2:redis,3:memcached(说明:不支持动态数据字典)"/>
+    	<item name="sleeptimes" value="600000" description="缓存更新时间间隔(默认600000)毫秒(缓存类型为1时有效)" />
+    	<item name="expiretimes" value="1800" description="缓存过期时间，单位秒(默认1800秒)" />
+    	<item name="isCleanExpire" value="1" description="是否清理过期数据1:清理,0:不清理(默认:0),只有缓存类型为1时有效" />
+    </category> 
+    
+    <category name="xmgl_role" description="项目权限管理">
+    	<item name="all_jurisdiction" value="all_jurisdiction" description="项目管理菜单所有数据权限"/>
+    	<item name="dept_jurisdiction" value="dept_jurisdiction" description="缓项目管理菜单部门数据权限" />
+    	<item name="personage_jurisdiction" value="personage_jurisdiction" description="项目管理菜单个人数据权限" />
+    </category> 
+</system>

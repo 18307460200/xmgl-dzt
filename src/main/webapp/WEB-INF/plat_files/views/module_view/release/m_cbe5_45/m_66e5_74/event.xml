@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="GBK"?>
+
+<events>
+  <event event_id="e1a0481891a3487d891f5dd097fe0913">
+    <event_value><![CDATA[[{"func_impl":"com.thinkive.fxc.xmgl.event.action.impl.project.AddProjectAction"}]]]></event_value>
+    <orderline>1568529035693</orderline>
+    <modified_date>2019-12-14 16:44:44</modified_date>
+    <create_by>admin</create_by>
+    <event_type>2</event_type>
+    <version_id>c131c2f97abb4461b63a45a172f4d93d</version_id>
+    <data_rights>0</data_rights>
+    <window_width></window_width>
+    <create_date>2019-09-15 14:30:35</create_date>
+    <module_id>68a61f039dbd4e929e8426c681de66e5</module_id>
+    <modified_by>admin</modified_by>
+    <data_type></data_type>
+    <description></description>
+    <window_height></window_height>
+    <is_audit></is_audit>
+    <event_no>e_add_project</event_no>
+    <event_name>添加项目</event_name>
+    <is_rights>1</is_rights>
+    <is_index></is_index>
+  </event>
+  <event event_id="2b4413ed96bd40f0b0a49d9c59e0a116">
+    <event_value><![CDATA[[{"func_impl":"com.thinkive.fxc.xmgl.event.action.impl.project.DeleteProjectAction"}]]]></event_value>
+    <orderline>1568602716502</orderline>
+    <modified_date>2019-12-14 16:45:09</modified_date>
+    <create_by>admin</create_by>
+    <event_type>2</event_type>
+    <version_id>c131c2f97abb4461b63a45a172f4d93d</version_id>
+    <data_rights>0</data_rights>
+    <window_width></window_width>
+    <create_date>2019-09-16 10:58:36</create_date>
+    <module_id>68a61f039dbd4e929e8426c681de66e5</module_id>
+    <modified_by>admin</modified_by>
+    <data_type></data_type>
+    <description></description>
+    <window_height></window_height>
+    <is_audit></is_audit>
+    <event_no>e_delete_project</event_no>
+    <event_name>删除项目</event_name>
+    <is_rights>1</is_rights>
+    <is_index></is_index>
+  </event>
+  <event event_id="d51a70b177304dfda10bdda5065e749f">
+    <event_value><![CDATA[[{"func_impl":"com.thinkive.fxc.xmgl.event.action.impl.project.EditProjectAction"}]]]></event_value>
+    <orderline>1568531881325</orderline>
+    <modified_date>2020-02-26 11:06:42</modified_date>
+    <create_by>admin</create_by>
+    <event_type>2</event_type>
+    <version_id>c131c2f97abb4461b63a45a172f4d93d</version_id>
+    <data_rights>0</data_rights>
+    <window_width></window_width>
+    <create_date>2019-09-15 15:18:01</create_date>
+    <module_id>68a61f039dbd4e929e8426c681de66e5</module_id>
+    <modified_by>admin</modified_by>
+    <data_type></data_type>
+    <description></description>
+    <window_height></window_height>
+    <is_audit></is_audit>
+    <event_no>e_edite_project</event_no>
+    <event_name>修改项目</event_name>
+    <is_rights>1</is_rights>
+    <is_index></is_index>
+  </event>
+  <event event_id="31fd19731db64baba9d5fed8156114f1">
+    <event_value><![CDATA[[{"func_impl":"com.thinkive.fxc.xmgl.event.action.impl.project.QueryByIdProjectAction"}]]]></event_value>
+    <orderline>1585226474140</orderline>
+    <modified_date>2020-03-26 20:41:14</modified_date>
+    <create_by>admin</create_by>
+    <event_type>2</event_type>
+    <version_id>c131c2f97abb4461b63a45a172f4d93d</version_id>
+    <data_rights>0</data_rights>
+    <window_width></window_width>
+    <create_date>2020-03-26 20:41:14</create_date>
+    <module_id>68a61f039dbd4e929e8426c681de66e5</module_id>
+    <modified_by>admin</modified_by>
+    <data_type></data_type>
+    <description></description>
+    <window_height></window_height>
+    <is_audit></is_audit>
+    <event_no>e_get_one_project</event_no>
+    <event_name>根据ID查询项目信息</event_name>
+    <is_rights>1</is_rights>
+    <is_index></is_index>
+  </event>
+  <event event_id="8735a76ebfd94b34825777d295e1e2e9">
+    <event_value><![CDATA[[{"func_impl":"com.thinkive.fxc.xmgl.event.action.impl.project.QueryProductAffiliationAction"}]]]></event_value>
+    <orderline>1579250433595</orderline>
+    <modified_date>2020-01-17 16:40:33</modified_date>
+    <create_by>admin</create_by>
+    <event_type>2</event_type>
+    <version_id>c131c2f97abb4461b63a45a172f4d93d</version_id>
+    <data_rights>0</data_rights>
+    <window_width></window_width>
+    <create_date>2020-01-17 16:40:33</create_date>
+    <module_id>68a61f039dbd4e929e8426c681de66e5</module_id>
+    <modified_by>admin</modified_by>
+    <data_type></data_type>
+    <description></description>
+    <window_height></window_height>
+    <is_audit></is_audit>
+    <event_no>e_query_product_affiliation</event_no>
+    <event_name>产品归属查询</event_name>
+    <is_rights>1</is_rights>
+    <is_index></is_index>
+  </event>
+  <event event_id="024f7b29f763454bb10d264ab6cf16ad">
+    <event_value><![CDATA[[{"func_impl":"com.thinkive.fxc.xmgl.event.action.impl.project.QueryProjectAction"}]]]></event_value>
+    <orderline>1568527476886</orderline>
+    <modified_date>2020-02-24 07:00:58</modified_date>
+    <create_by>admin</create_by>
+    <event_type>2</event_type>
+    <version_id>c131c2f97abb4461b63a45a172f4d93d</version_id>
+    <data_rights>0</data_rights>
+    <window_width></window_width>
+    <create_date>2019-09-15 14:04:36</create_date>
+    <module_id>68a61f039dbd4e929e8426c681de66e5</module_id>
+    <modified_by>admin</modified_by>
+    <data_type></data_type>
+    <description></description>
+    <window_height></window_height>
+    <is_audit></is_audit>
+    <event_no>e_query_project</event_no>
+    <event_name>项目管理列表查询</event_name>
+    <is_rights>0</is_rights>
+    <is_index></is_index>
+  </event>
+  <event event_id="ce118ad9bb73495eac37c910058846c4">
+    <event_value><![CDATA[[{"func_impl":"com.thinkive.workplat.event.action.impl.user.DeptTreeAction"}]]]></event_value>
+    <orderline>1579241969217</orderline>
+    <modified_date>2020-01-17 14:19:29</modified_date>
+    <create_by>admin</create_by>
+    <event_type>2</event_type>
+    <version_id>c131c2f97abb4461b63a45a172f4d93d</version_id>
+    <data_rights>0</data_rights>
+    <window_width></window_width>
+    <create_date>2020-01-17 14:19:29</create_date>
+    <module_id>68a61f039dbd4e929e8426c681de66e5</module_id>
+    <modified_by>admin</modified_by>
+    <data_type></data_type>
+    <description></description>
+    <window_height></window_height>
+    <is_audit></is_audit>
+    <event_no>e_tree_dept</event_no>
+    <event_name>添加产品归属</event_name>
+    <is_rights>1</is_rights>
+    <is_index></is_index>
+  </event>
+</events>

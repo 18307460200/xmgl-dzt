@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<project name="maven-antrun-" default="main"  >
+<target name="main">
+  <copy todir="target/thinkive-xmgl-dzt-1.0.0-SNAPSHOT/WebRoot">
+    <fileset dir="src/main/webapp"></fileset>
+  </copy>
+  <copy todir="target/thinkive-xmgl-dzt-1.0.0-SNAPSHOT/WebRoot/WEB-INF/classes">
+    <fileset dir="target/classes"></fileset>
+  </copy>
+</target>
+</project>

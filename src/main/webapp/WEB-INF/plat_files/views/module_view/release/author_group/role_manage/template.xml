@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="GBK"?>
+
+<templates>
+  <template template_id="4ED6369E49BF4EAB84DB843E0023A45F">
+    <template_no>m_add_role</template_no>
+    <publish_date></publish_date>
+    <modified_date>2016-11-12 13:27:36</modified_date>
+    <publish_by></publish_by>
+    <create_by>admin</create_by>
+    <template_status>0</template_status>
+    <file_publish_path><![CDATA[/WEB-INF/plat_files/views/module_view/author_group/role_manage//publish/m_add_role.ftl]]></file_publish_path>
+    <template_url>/conf/plat/module/role_manage/template/m_add_role.ftl</template_url>
+    <version_id>710d01f9b0b246a7b1a4319989c15e46</version_id>
+    <template_type>1</template_type>
+    <publish_status>0</publish_status>
+    <parse_type>0</parse_type>
+    <file_type>1</file_type>
+    <content><![CDATA[template/m_add_role.ftl]]></content>
+    <template_name>添加角色</template_name>
+    <window_width></window_width>
+    <create_date>2016-11-12 13:27:36</create_date>
+    <module_id>1F7863FBE7A449D99BAB4358D6D2B544</module_id>
+    <file_encoding>UTF-8</file_encoding>
+    <modified_by>admin</modified_by>
+    <window_height></window_height>
+    <template_brief>添加角色</template_brief>
+    <is_index>0</is_index>
+  </template>
+  <template template_id="7f5e8b88014d4913b44e114811de8da4">
+    <template_no>m_add_role_sort</template_no>
+    <publish_date></publish_date>
+    <modified_date>2016-11-14 14:54:49</modified_date>
+    <publish_by></publish_by>
+    <create_by>admin</create_by>
+    <template_status>0</template_status>
+    <file_publish_path><![CDATA[/WEB-INF/plat_files/views/module_view/author_group/role_manage//publish/m_add_role_sort.ftl]]></file_publish_path>
+    <template_url>/conf/plat/module/role_manage/template/m_add_role_sort.ftl</template_url>
+    <version_id>710d01f9b0b246a7b1a4319989c15e46</version_id>
+    <template_type>1</template_type>
+    <publish_status>0</publish_status>
+    <parse_type>0</parse_type>
+    <file_type>1</file_type>
+    <content><![CDATA[template/m_add_role_sort.ftl]]></content>
+    <template_name>添加角色分类</template_name>
+    <window_width></window_width>
+    <create_date>2016-11-14 14:54:49</create_date>
+    <module_id>1F7863FBE7A449D99BAB4358D6D2B544</module_id>
+    <file_encoding>UTF-8</file_encoding>
+    <modified_by>admin</modified_by>
+    <window_height></window_height>
+    <template_brief></template_brief>
+    <is_index>0</is_index>
+  </template>
+  <template template_id="c89809d6c7f7483f83c397b28fdaeae1">
+    <template_no>m_add_role_user</template_no>
+    <publish_date></publish_date>
+    <modified_date>2016-11-12 20:26:06</modified_date>
+    <publish_by></publish_by>
+    <create_by>admin</create_by>
+    <template_status>0</template_status>
+    <file_publish_path><![CDATA[/WEB-INF/plat_files/views/module_view/author_group/role_manage//publish/m_add_role_user.ftl]]></file_publish_path>
+    <template_url>/conf/plat/module/role_manage/template/m_add_role_user.ftl</template_url>
+    <version_id>710d01f9b0b246a7b1a4319989c15e46</version_id>
+    <template_type>1</template_type>
+    <publish_status>0</publish_status>
+    <parse_type>0</parse_type>
+    <file_type>1</file_type>
+    <content><![CDATA[template/m_add_role_user.ftl]]></content>
+    <template_name>添加角色下面的用户</template_name>
+    <window_width></window_width>
+    <create_date>2016-11-12 20:26:06</create_date>
+    <module_id>1F7863FBE7A449D99BAB4358D6D2B544</module_id>
+    <file_encoding>UTF-8</file_encoding>
+    <modified_by>admin</modified_by>
+    <window_height></window_height>
+    <template_brief></template_brief>
+    <is_index>0</is_index>
+  </template>
+  <template template_id="6c997938c9ad4f9bb8ea3bb709fa414a">
+    <template_no>m_edit_role</template_no>
+    <publish_date></publish_date>
+    <modified_date>2016-11-12 18:09:44</modified_date>
+    <publish_by></publish_by>
+    <create_by>admin</create_by>
+    <template_status>0</template_status>
+    <file_publish_path><![CDATA[/WEB-INF/plat_files/views/module_view/author_group/role_manage//publish/m_edit_role.ftl]]></file_publish_path>
+    <template_url>/conf/plat/module/role_manage/template/m_edit_role.ftl</template_url>
+    <version_id>710d01f9b0b246a7b1a4319989c15e46</version_id>
+    <template_type>1</template_type>
+    <publish_status>0</publish_status>
+    <parse_type>0</parse_type>
+    <file_type>1</file_type>
+    <content><![CDATA[template/m_edit_role.ftl]]></content>
+    <template_name>修改角色</template_name>
+    <window_width></window_width>
+    <create_date>2016-11-12 18:09:44</create_date>
+    <module_id>1F7863FBE7A449D99BAB4358D6D2B544</module_id>
+    <file_encoding>UTF-8</file_encoding>
+    <modified_by>admin</modified_by>
+    <window_height></window_height>
+    <template_brief></template_brief>
+    <is_index>0</is_index>
+  </template>
+  <template template_id="d7869cb81dab41629423a39e393112da">
+    <template_no>m_edit_role_sort</template_no>
+    <publish_date></publish_date>
+    <modified_date>2016-11-14 14:55:47</modified_date>
+    <publish_by></publish_by>
+    <create_by>admin</create_by>
+    <template_status>0</template_status>
+    <file_publish_path><![CDATA[/WEB-INF/plat_files/views/module_view/author_group/role_manage//publish/m_edit_role_sort.ftl]]></file_publish_path>
+    <template_url>/conf/plat/module/role_manage/template/m_edit_role_sort.ftl</template_url>
+    <version_id>710d01f9b0b246a7b1a4319989c15e46</version_id>
+    <template_type>1</template_type>
+    <publish_status>0</publish_status>
+    <parse_type>0</parse_type>
+    <file_type>1</file_type>
+    <content><![CDATA[template/m_edit_role_sort.ftl]]></content>
+    <template_name>修改角色分类</template_name>
+    <window_width></window_width>
+    <create_date>2016-11-14 14:55:47</create_date>
+    <module_id>1F7863FBE7A449D99BAB4358D6D2B544</module_id>
+    <file_encoding>UTF-8</file_encoding>
+    <modified_by>admin</modified_by>
+    <window_height></window_height>
+    <template_brief></template_brief>
+    <is_index>0</is_index>
+  </template>
+  <template template_id="3134BC81EF5743BEA0736485DAA7F624">
+    <template_no>m_query_user_role</template_no>
+    <publish_date></publish_date>
+    <modified_date>2016-11-12 20:22:56</modified_date>
+    <publish_by></publish_by>
+    <create_by>admin</create_by>
+    <template_status>0</template_status>
+    <file_publish_path><![CDATA[/WEB-INF/plat_files/views/module_view/author_group/role_manage//publish/m_query_user_role.ftl]]></file_publish_path>
+    <template_url>/conf/plat/module/role_manage/template/m_query_user_role.ftl</template_url>
+    <version_id>710d01f9b0b246a7b1a4319989c15e46</version_id>
+    <template_type>1</template_type>
+    <publish_status>0</publish_status>
+    <parse_type>0</parse_type>
+    <file_type>1</file_type>
+    <content><![CDATA[template/m_query_user_role.ftl]]></content>
+    <template_name>查询角色下面的用户</template_name>
+    <window_width></window_width>
+    <create_date>2016-11-12 20:22:56</create_date>
+    <module_id>1F7863FBE7A449D99BAB4358D6D2B544</module_id>
+    <file_encoding>UTF-8</file_encoding>
+    <modified_by>admin</modified_by>
+    <window_height></window_height>
+    <template_brief>添加用户到角色</template_brief>
+    <is_index>0</is_index>
+  </template>
+  <template template_id="02EF00031D684D1499DB7F155FBD0C6E">
+    <template_no>role_manage_index</template_no>
+    <publish_date></publish_date>
+    <modified_date>2017-07-29 13:35:49</modified_date>
+    <publish_by></publish_by>
+    <create_by>admin</create_by>
+    <template_status>0</template_status>
+    <file_publish_path><![CDATA[/WEB-INF/plat_files/views/module_view/author_group/role_manage//publish/role_manage_index.ftl]]></file_publish_path>
+    <template_url>/conf/plat/module/role_manage/template/role_manage_index.ftl</template_url>
+    <version_id>710d01f9b0b246a7b1a4319989c15e46</version_id>
+    <template_type>1</template_type>
+    <publish_status>0</publish_status>
+    <parse_type>0</parse_type>
+    <file_type>1</file_type>
+    <content><![CDATA[template/role_manage_index.ftl]]></content>
+    <template_name>角色管理首页</template_name>
+    <window_width></window_width>
+    <create_date>2017-07-29 13:35:49</create_date>
+    <module_id>1F7863FBE7A449D99BAB4358D6D2B544</module_id>
+    <file_encoding>UTF-8</file_encoding>
+    <modified_by>admin</modified_by>
+    <window_height></window_height>
+    <template_brief>角色管理首页</template_brief>
+    <is_index>1</is_index>
+  </template>
+</templates>

@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="GBK"?>
+
+<events>
+  <event event_id="73C885E572FA4F72A790D6F9DA858D15">
+    <event_value><![CDATA[[{"func_impl":"com.thinkive.workplat.event.action.impl.user.AddUserAction"}]]]></event_value>
+    <orderline>1524725611516</orderline>
+    <modified_date></modified_date>
+    <create_by></create_by>
+    <event_type>2</event_type>
+    <data_rights></data_rights>
+    <create_date></create_date>
+    <module_id>C6C9413EA0FC4EB1B777884DFA8B62D6</module_id>
+    <modified_by></modified_by>
+    <data_type></data_type>
+    <description></description>
+    <is_audit></is_audit>
+    <event_no>e_add_user</event_no>
+    <event_name>添加用户</event_name>
+    <is_rights>1</is_rights>
+  </event>
+  <event event_id="6979e8debf2f4c40a633ba3b3f9dee71">
+    <event_value><![CDATA[[{"func_impl":"com.thinkive.workplat.event.action.impl.user.GetCatalogRightsTreeAction"}]]]></event_value>
+    <orderline>1478944600073</orderline>
+    <modified_date>2016-11-21 19:28:37</modified_date>
+    <create_by>admin</create_by>
+    <event_type>2</event_type>
+    <data_rights>0</data_rights>
+    <create_date>2016-11-12 17:56:40</create_date>
+    <module_id>C6C9413EA0FC4EB1B777884DFA8B62D6</module_id>
+    <modified_by>wanzj</modified_by>
+    <data_type></data_type>
+    <description></description>
+    <is_audit></is_audit>
+    <event_no>e_catalogrights_tree</event_no>
+    <event_name>用户功能权限树</event_name>
+    <is_rights>1</is_rights>
+  </event>
+  <event event_id="089d21ac08484b7783052601f167e966">
+    <event_value><![CDATA[[{"func_impl":"com.thinkive.workplat.event.action.impl.user.GetDataRightsTreeAction"}]]]></event_value>
+    <orderline>1478936241355</orderline>
+    <modified_date>2016-11-21 19:28:48</modified_date>
+    <create_by>admin</create_by>
+    <event_type>2</event_type>
+    <data_rights>0</data_rights>
+    <create_date>2016-11-12 15:37:21</create_date>
+    <module_id>C6C9413EA0FC4EB1B777884DFA8B62D6</module_id>
+    <modified_by>wanzj</modified_by>
+    <data_type></data_type>
+    <description></description>
+    <is_audit></is_audit>
+    <event_no>e_dataright_tree</event_no>
+    <event_name>用户数据权限树</event_name>
+    <is_rights>1</is_rights>
+  </event>
+  <event event_id="18918ACEB41B4CB68251EA26F42A97A4">
+    <event_value><![CDATA[[{"func_impl":"com.thinkive.workplat.event.action.impl.user.DeleteUserAction"}]]]></event_value>
+    <orderline>1524725611544</orderline>
+    <modified_date>2017-04-25 19:23:19</modified_date>
+    <create_by></create_by>
+    <event_type>2</event_type>
+    <data_rights>0</data_rights>
+    <create_date></create_date>
+    <module_id>C6C9413EA0FC4EB1B777884DFA8B62D6</module_id>
+    <modified_by>admin</modified_by>
+    <data_type></data_type>
+    <description></description>
+    <is_audit></is_audit>
+    <event_no>e_delete_user</event_no>
+    <event_name>删除用户</event_name>
+    <is_rights>1</is_rights>
+  </event>
+  <event event_id="FD45A425045A4E23BA0F590524AD94CC">
+    <event_value><![CDATA[[{"func_impl":"com.thinkive.workplat.event.action.impl.user.EditUserPwdAction"}]]]></event_value>
+    <orderline>1524725611554</orderline>
+    <modified_date></modified_date>
+    <create_by></create_by>
+    <event_type>2</event_type>
+    <data_rights></data_rights>
+    <create_date></create_date>
+    <module_id>C6C9413EA0FC4EB1B777884DFA8B62D6</module_id>
+    <modified_by></modified_by>
+    <data_type></data_type>
+    <description></description>
+    <is_audit></is_audit>
+    <event_no>e_edit_password</event_no>
+    <event_name>修改用户密码</event_name>
+    <is_rights>1</is_rights>
+  </event>
+  <event event_id="c2b710b0410849218838ba5f1bd80d89">
+    <event_value><![CDATA[[{"func_impl":"com.thinkive.workplat.event.action.impl.user.EditStateXAction"}]]]></event_value>
+    <orderline>1484136610567</orderline>
+    <modified_date>2017-01-11 20:10:10</modified_date>
+    <create_by>admin</create_by>
+    <event_type>2</event_type>
+    <data_rights>0</data_rights>
+    <create_date>2017-01-11 20:10:10</create_date>
+    <module_id>C6C9413EA0FC4EB1B777884DFA8B62D6</module_id>
+    <modified_by>admin</modified_by>
+    <data_type></data_type>
+    <description></description>
+    <is_audit></is_audit>
+    <event_no>e_edit_statex</event_no>
+    <event_name>设置用户状态无效</event_name>
+    <is_rights>1</is_rights>
+  </event>
+  <event event_id="d20b9482582f44c79afec60cc701286f">
+    <event_value><![CDATA[[{"func_impl":"com.thinkive.workplat.event.action.impl.user.EditStateYAction"}]]]></event_value>
+    <orderline>1484136533693</orderline>
+    <modified_date>2017-01-11 20:08:53</modified_date>
+    <create_by>admin</create_by>
+    <event_type>2</event_type>
+    <data_rights>0</data_rights>
+    <create_date>2017-01-11 20:08:53</create_date>
+    <module_id>C6C9413EA0FC4EB1B777884DFA8B62D6</module_id>
+    <modified_by>admin</modified_by>
+    <data_type></data_type>
+    <description></description>
+    <is_audit></is_audit>
+    <event_no>e_edit_statey</event_no>
+    <event_name>设置用户状态有效</event_name>
+    <is_rights>1</is_rights>
+  </event>
+  <event event_id="BF163193ABDF4834849C5AD2167BD969">
+    <event_value><![CDATA[[{"func_impl":"com.thinkive.workplat.event.action.impl.user.EditUserAction"}]]]></event_value>
+    <orderline>1524725611576</orderline>
+    <modified_date></modified_date>
+    <create_by></create_by>
+    <event_type>2</event_type>
+    <data_rights></data_rights>
+    <create_date></create_date>
+    <module_id>C6C9413EA0FC4EB1B777884DFA8B62D6</module_id>
+    <modified_by></modified_by>
+    <data_type></data_type>
+    <description></description>
+    <is_audit></is_audit>
+    <event_no>e_edit_user</event_no>
+    <event_name>修改用户</event_name>
+    <is_rights>1</is_rights>
+  </event>
+  <event event_id="e79e4ad1c3b94791b7a9c91e91fe6264">
+    <event_value><![CDATA[[{"func_impl":"com.thinkive.workplat.event.action.impl.user.ImportUser"}]]]></event_value>
+    <orderline>1508917631585</orderline>
+    <modified_date>2017-10-25 15:47:11</modified_date>
+    <create_by>admin</create_by>
+    <event_type>2</event_type>
+    <data_rights>0</data_rights>
+    <create_date>2017-10-25 15:47:11</create_date>
+    <module_id>C6C9413EA0FC4EB1B777884DFA8B62D6</module_id>
+    <modified_by>admin</modified_by>
+    <data_type></data_type>
+    <description></description>
+    <is_audit></is_audit>
+    <event_no>e_import_user</event_no>
+    <event_name>导入用户信息</event_name>
+    <is_rights>1</is_rights>
+  </event>
+  <event event_id="f72b66a1e96042c1bafd04a1f2768c9c">
+    <event_value><![CDATA[[{"func_impl":"com.thinkive.workplat.event.action.impl.user.QueryUserAccountAction"}]]]></event_value>
+    <orderline>1483091547556</orderline>
+    <modified_date>2016-12-30 17:52:27</modified_date>
+    <create_by>chengs</create_by>
+    <event_type>2</event_type>
+    <data_rights>0</data_rights>
+    <create_date>2016-12-30 17:52:27</create_date>
+    <module_id>C6C9413EA0FC4EB1B777884DFA8B62D6</module_id>
+    <modified_by>chengs</modified_by>
+    <data_type></data_type>
+    <description></description>
+    <is_audit></is_audit>
+    <event_no>e_query_account</event_no>
+    <event_name>查询资金账号</event_name>
+    <is_rights>1</is_rights>
+  </event>
+  <event event_id="2ca50c4969d24e83ae9c4749a327f758">
+    <event_value><![CDATA[[{"func_impl":"com.thinkive.workplat.event.action.impl.user.QueryLoginUserAction"}]]]></event_value>
+    <orderline>1483081413528</orderline>
+    <modified_date>2016-12-30 15:03:33</modified_date>
+    <create_by>chengs</create_by>
+    <event_type>2</event_type>
+    <data_rights>0</data_rights>
+    <create_date>2016-12-30 15:03:33</create_date>
+    <module_id>C6C9413EA0FC4EB1B777884DFA8B62D6</module_id>
+    <modified_by>chengs</modified_by>
+    <data_type></data_type>
+    <description></description>
+    <is_audit></is_audit>
+    <event_no>e_query_loginuser</event_no>
+    <event_name>查询账号信息</event_name>
+    <is_rights>1</is_rights>
+  </event>
+  <event event_id="f076152289c94a148d2b7fed4a5d5c11">
+    <event_value><![CDATA[[{"func_impl":"com.thinkive.workplat.event.action.impl.user.QueryRoleAction"}]]]></event_value>
+    <orderline>1477458844639</orderline>
+    <modified_date>2016-10-26 13:14:04</modified_date>
+    <create_by>admin</create_by>
+    <event_type>2</event_type>
+    <data_rights></data_rights>
+    <create_date>2016-10-26 13:14:04</create_date>
+    <module_id>C6C9413EA0FC4EB1B777884DFA8B62D6</module_id>
+    <modified_by>admin</modified_by>
+    <data_type></data_type>
+    <description></description>
+    <is_audit></is_audit>
+    <event_no>e_query_role</event_no>
+    <event_name>查询角色列表</event_name>
+    <is_rights>1</is_rights>
+  </event>
+  <event event_id="DBD973C4962B4BF7846CB1A92E362F18">
+    <event_value><![CDATA[[{"func_impl":"com.thinkive.workplat.event.action.impl.user.QueryUserListAction"}]]]></event_value>
+    <orderline>1524725611614</orderline>
+    <modified_date></modified_date>
+    <create_by></create_by>
+    <event_type>2</event_type>
+    <data_rights></data_rights>
+    <create_date></create_date>
+    <module_id>C6C9413EA0FC4EB1B777884DFA8B62D6</module_id>
+    <modified_by></modified_by>
+    <data_type></data_type>
+    <description></description>
+    <is_audit></is_audit>
+    <event_no>e_query_user</event_no>
+    <event_name>首页查询用户列表</event_name>
+    <is_rights>1</is_rights>
+  </event>
+  <event event_id="C581299B77524BFCA5E64E531CD01EED">
+    <event_value><![CDATA[[{"func_impl":"com.thinkive.workplat.event.action.impl.user.QueryUserInfoAction"}]]]></event_value>
+    <orderline>1524725611622</orderline>
+    <modified_date></modified_date>
+    <create_by></create_by>
+    <event_type>2</event_type>
+    <data_rights></data_rights>
+    <create_date></create_date>
+    <module_id>C6C9413EA0FC4EB1B777884DFA8B62D6</module_id>
+    <modified_by></modified_by>
+    <data_type></data_type>
+    <description></description>
+    <is_audit></is_audit>
+    <event_no>e_query_userinfo</event_no>
+    <event_name>查询用户详细信息</event_name>
+    <is_rights>1</is_rights>
+  </event>
+  <event event_id="f70f336b3ea04b0a8b2ea9c0b49eeb6d">
+    <event_value><![CDATA[[{"func_impl":"com.thinkive.workplat.event.action.impl.user.DeptTreeAction"}]]]></event_value>
+    <orderline>1477461448185</orderline>
+    <modified_date>2016-10-26 13:57:28</modified_date>
+    <create_by>admin</create_by>
+    <event_type>2</event_type>
+    <data_rights></data_rights>
+    <create_date>2016-10-26 13:57:28</create_date>
+    <module_id>C6C9413EA0FC4EB1B777884DFA8B62D6</module_id>
+    <modified_by>admin</modified_by>
+    <data_type></data_type>
+    <description></description>
+    <is_audit></is_audit>
+    <event_no>e_tree_dept</event_no>
+    <event_name>组织机构树查询</event_name>
+    <is_rights>1</is_rights>
+  </event>
+  <event event_id="62ebfa079f204c3992e13925b3ec481a">
+    <event_value><![CDATA[[{"func_impl":"com.thinkive.workplat.event.action.impl.user.RoleTreeAction"}]]]></event_value>
+    <orderline>1477451937165</orderline>
+    <modified_date>2016-10-26 11:18:57</modified_date>
+    <create_by>admin</create_by>
+    <event_type>2</event_type>
+    <data_rights></data_rights>
+    <create_date>2016-10-26 11:18:57</create_date>
+    <module_id>C6C9413EA0FC4EB1B777884DFA8B62D6</module_id>
+    <modified_by>admin</modified_by>
+    <data_type></data_type>
+    <description></description>
+    <is_audit></is_audit>
+    <event_no>e_tree_role</event_no>
+    <event_name>查询角色分类树</event_name>
+    <is_rights>1</is_rights>
+  </event>
+</events>

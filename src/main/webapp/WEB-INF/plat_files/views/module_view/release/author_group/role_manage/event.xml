@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="GBK"?>
+
+<events>
+  <event event_id="7da49de3b8b3495a97ff453a5a3223ec">
+    <event_value><![CDATA[[{"func_impl":"com.thinkive.workplat.event.action.impl.role.addRoleAction"}]]]></event_value>
+    <orderline>1478941205667</orderline>
+    <modified_date>2016-11-12 17:00:05</modified_date>
+    <create_by>admin</create_by>
+    <event_type>2</event_type>
+    <version_id>710d01f9b0b246a7b1a4319989c15e46</version_id>
+    <data_rights>0</data_rights>
+    <window_width></window_width>
+    <create_date>2016-11-12 17:00:05</create_date>
+    <module_id>1F7863FBE7A449D99BAB4358D6D2B544</module_id>
+    <modified_by>admin</modified_by>
+    <data_type></data_type>
+    <description></description>
+    <window_height></window_height>
+    <is_audit></is_audit>
+    <event_no>e_add_role</event_no>
+    <event_name>添加角色</event_name>
+    <is_rights>1</is_rights>
+    <is_index></is_index>
+  </event>
+  <event event_id="846b5c9ca5e4429fa677d5662fc75aed">
+    <event_value><![CDATA[[{"func_impl":"com.thinkive.workplat.event.action.impl.role.addRoleSortAction"}]]]></event_value>
+    <orderline>1479106646535</orderline>
+    <modified_date>2016-11-14 14:57:26</modified_date>
+    <create_by>admin</create_by>
+    <event_type>2</event_type>
+    <version_id>710d01f9b0b246a7b1a4319989c15e46</version_id>
+    <data_rights>0</data_rights>
+    <window_width></window_width>
+    <create_date>2016-11-14 14:57:26</create_date>
+    <module_id>1F7863FBE7A449D99BAB4358D6D2B544</module_id>
+    <modified_by>admin</modified_by>
+    <data_type></data_type>
+    <description></description>
+    <window_height></window_height>
+    <is_audit></is_audit>
+    <event_no>e_add_role_sort</event_no>
+    <event_name>添加角色分类</event_name>
+    <is_rights>1</is_rights>
+    <is_index></is_index>
+  </event>
+  <event event_id="a92972fd696b4384ac5d715fa76d9b49">
+    <event_value><![CDATA[[{"func_impl":"com.thinkive.workplat.event.action.impl.role.addRoleUserAction"}]]]></event_value>
+    <orderline>1478954485640</orderline>
+    <modified_date>2016-11-14 15:56:21</modified_date>
+    <create_by>admin</create_by>
+    <event_type>2</event_type>
+    <version_id>710d01f9b0b246a7b1a4319989c15e46</version_id>
+    <data_rights>0</data_rights>
+    <window_width></window_width>
+    <create_date>2016-11-12 20:41:25</create_date>
+    <module_id>1F7863FBE7A449D99BAB4358D6D2B544</module_id>
+    <modified_by>admin</modified_by>
+    <data_type></data_type>
+    <description></description>
+    <window_height></window_height>
+    <is_audit></is_audit>
+    <event_no>e_add_role_user</event_no>
+    <event_name>添加用户到角色</event_name>
+    <is_rights>1</is_rights>
+    <is_index></is_index>
+  </event>
+  <event event_id="41afed1327024acea9fc3a88caeb37c2">
+    <event_value><![CDATA[[{"func_impl":"com.thinkive.workplat.event.action.impl.role.deleteRoleAction"}]]]></event_value>
+    <orderline>1478948781633</orderline>
+    <modified_date>2016-11-12 19:06:21</modified_date>
+    <create_by>admin</create_by>
+    <event_type>2</event_type>
+    <version_id>710d01f9b0b246a7b1a4319989c15e46</version_id>
+    <data_rights>0</data_rights>
+    <window_width></window_width>
+    <create_date>2016-11-12 19:06:21</create_date>
+    <module_id>1F7863FBE7A449D99BAB4358D6D2B544</module_id>
+    <modified_by>admin</modified_by>
+    <data_type></data_type>
+    <description></description>
+    <window_height></window_height>
+    <is_audit></is_audit>
+    <event_no>e_delete_role</event_no>
+    <event_name>删除角色</event_name>
+    <is_rights>1</is_rights>
+    <is_index></is_index>
+  </event>
+  <event event_id="878ec639218c4cdd818e85ab0e5b2b9c">
+    <event_value><![CDATA[[{"func_impl":"com.thinkive.workplat.event.action.impl.role.deleteRoleSortAction"}]]]></event_value>
+    <orderline>1479108218506</orderline>
+    <modified_date>2016-11-14 15:23:38</modified_date>
+    <create_by>admin</create_by>
+    <event_type>2</event_type>
+    <version_id>710d01f9b0b246a7b1a4319989c15e46</version_id>
+    <data_rights>0</data_rights>
+    <window_width></window_width>
+    <create_date>2016-11-14 15:23:38</create_date>
+    <module_id>1F7863FBE7A449D99BAB4358D6D2B544</module_id>
+    <modified_by>admin</modified_by>
+    <data_type></data_type>
+    <description></description>
+    <window_height></window_height>
+    <is_audit></is_audit>
+    <event_no>e_delete_role_sort</event_no>
+    <event_name>删除角色分类</event_name>
+    <is_rights>1</is_rights>
+    <is_index></is_index>
+  </event>
+  <event event_id="09d418c2f16d4d6a84a46463d3aaea5e">
+    <event_value><![CDATA[[{"func_impl":"com.thinkive.workplat.event.action.impl.role.deleteRoleUserAction"}]]]></event_value>
+    <orderline>1479892445469</orderline>
+    <modified_date>2016-11-23 17:14:05</modified_date>
+    <create_by>chengs</create_by>
+    <event_type>2</event_type>
+    <version_id>710d01f9b0b246a7b1a4319989c15e46</version_id>
+    <data_rights>0</data_rights>
+    <window_width></window_width>
+    <create_date>2016-11-23 17:14:05</create_date>
+    <module_id>1F7863FBE7A449D99BAB4358D6D2B544</module_id>
+    <modified_by>chengs</modified_by>
+    <data_type></data_type>
+    <description></description>
+    <window_height></window_height>
+    <is_audit></is_audit>
+    <event_no>e_delete_role_user</event_no>
+    <event_name>删除角色用户</event_name>
+    <is_rights>1</is_rights>
+    <is_index></is_index>
+  </event>
+  <event event_id="6702b7e4ed6545aeb1527d62e94d8c52">
+    <event_value><![CDATA[[{"func_impl":"com.thinkive.workplat.event.action.impl.role.editRoleAction"}]]]></event_value>
+    <orderline>1478944372008</orderline>
+    <modified_date>2016-11-12 17:52:52</modified_date>
+    <create_by>admin</create_by>
+    <event_type>2</event_type>
+    <version_id>710d01f9b0b246a7b1a4319989c15e46</version_id>
+    <data_rights>0</data_rights>
+    <window_width></window_width>
+    <create_date>2016-11-12 17:52:52</create_date>
+    <module_id>1F7863FBE7A449D99BAB4358D6D2B544</module_id>
+    <modified_by>admin</modified_by>
+    <data_type></data_type>
+    <description></description>
+    <window_height></window_height>
+    <is_audit></is_audit>
+    <event_no>e_edit_role</event_no>
+    <event_name>修改角色信息</event_name>
+    <is_rights>1</is_rights>
+    <is_index></is_index>
+  </event>
+  <event event_id="6a28f82432394110b3cf3aacb9d6c3a4">
+    <event_value><![CDATA[[{"func_impl":"com.thinkive.workplat.event.action.impl.role.editRoleSortAction"}]]]></event_value>
+    <orderline>1479106694231</orderline>
+    <modified_date>2016-11-14 14:58:14</modified_date>
+    <create_by>admin</create_by>
+    <event_type>2</event_type>
+    <version_id>710d01f9b0b246a7b1a4319989c15e46</version_id>
+    <data_rights>0</data_rights>
+    <window_width></window_width>
+    <create_date>2016-11-14 14:58:14</create_date>
+    <module_id>1F7863FBE7A449D99BAB4358D6D2B544</module_id>
+    <modified_by>admin</modified_by>
+    <data_type></data_type>
+    <description></description>
+    <window_height></window_height>
+    <is_audit></is_audit>
+    <event_no>e_edit_role_sort</event_no>
+    <event_name>修改角色分类信息</event_name>
+    <is_rights>1</is_rights>
+    <is_index></is_index>
+  </event>
+  <event event_id="8407ae380ff345a694c58eeefda273a8">
+    <event_value><![CDATA[[{"func_impl":"com.thinkive.workplat.event.action.impl.role.queryByIdRole"}]]]></event_value>
+    <orderline>1478944605713</orderline>
+    <modified_date>2016-11-16 10:29:40</modified_date>
+    <create_by>admin</create_by>
+    <event_type>2</event_type>
+    <version_id>710d01f9b0b246a7b1a4319989c15e46</version_id>
+    <data_rights>0</data_rights>
+    <window_width></window_width>
+    <create_date>2016-11-12 17:56:45</create_date>
+    <module_id>1F7863FBE7A449D99BAB4358D6D2B544</module_id>
+    <modified_by>chengs</modified_by>
+    <data_type></data_type>
+    <description></description>
+    <window_height></window_height>
+    <is_audit></is_audit>
+    <event_no>e_query_rolebyid</event_no>
+    <event_name>根据id查询角色信息</event_name>
+    <is_rights>1</is_rights>
+    <is_index></is_index>
+  </event>
+  <event event_id="9b45417bf7b6432293902bcf4875ec19">
+    <event_value><![CDATA[[{"func_impl":"com.thinkive.workplat.event.action.impl.role.queryRoleList"}]]]></event_value>
+    <orderline>1478782934080</orderline>
+    <modified_date>2016-11-16 10:29:59</modified_date>
+    <create_by>admin</create_by>
+    <event_type>2</event_type>
+    <version_id>710d01f9b0b246a7b1a4319989c15e46</version_id>
+    <data_rights>0</data_rights>
+    <window_width></window_width>
+    <create_date>2016-11-10 21:02:14</create_date>
+    <module_id>1F7863FBE7A449D99BAB4358D6D2B544</module_id>
+    <modified_by>chengs</modified_by>
+    <data_type></data_type>
+    <description></description>
+    <window_height></window_height>
+    <is_audit></is_audit>
+    <event_no>e_query_rolelist</event_no>
+    <event_name>根据分类查询角色信息</event_name>
+    <is_rights>1</is_rights>
+    <is_index></is_index>
+  </event>
+  <event event_id="b7e9b84cf3d6413a9c57a8cb7e36f399">
+    <event_value><![CDATA[[{"func_impl":"com.thinkive.workplat.event.action.impl.role.queryRoleSortAction"}]]]></event_value>
+    <orderline>1479106740605</orderline>
+    <modified_date>2016-11-16 10:28:14</modified_date>
+    <create_by>admin</create_by>
+    <event_type>2</event_type>
+    <version_id>710d01f9b0b246a7b1a4319989c15e46</version_id>
+    <data_rights>0</data_rights>
+    <window_width></window_width>
+    <create_date>2016-11-14 14:59:00</create_date>
+    <module_id>1F7863FBE7A449D99BAB4358D6D2B544</module_id>
+    <modified_by>chengs</modified_by>
+    <data_type></data_type>
+    <description></description>
+    <window_height></window_height>
+    <is_audit></is_audit>
+    <event_no>e_query_rolesort</event_no>
+    <event_name>根据id查询角色分类信息</event_name>
+    <is_rights>1</is_rights>
+    <is_index></is_index>
+  </event>
+  <event event_id="16bb22561001411fb7c78512836bc9cf">
+    <event_value><![CDATA[[{"func_impl":"com.thinkive.workplat.event.action.impl.role.queryRoleUserAction"}]]]></event_value>
+    <orderline>1478951474690</orderline>
+    <modified_date>2016-11-12 19:51:14</modified_date>
+    <create_by>admin</create_by>
+    <event_type>2</event_type>
+    <version_id>710d01f9b0b246a7b1a4319989c15e46</version_id>
+    <data_rights>0</data_rights>
+    <window_width></window_width>
+    <create_date>2016-11-12 19:51:14</create_date>
+    <module_id>1F7863FBE7A449D99BAB4358D6D2B544</module_id>
+    <modified_by>admin</modified_by>
+    <data_type></data_type>
+    <description></description>
+    <window_height></window_height>
+    <is_audit></is_audit>
+    <event_no>e_query_roleuser</event_no>
+    <event_name>查询角色下面的用户</event_name>
+    <is_rights>1</is_rights>
+    <is_index></is_index>
+  </event>
+  <event event_id="0f025ed703a34333a8218bc551b0b673">
+    <event_value><![CDATA[[{"func_impl":"com.thinkive.workplat.event.action.impl.role.queryRoleUserList"}]]]></event_value>
+    <orderline>1478953674421</orderline>
+    <modified_date>2016-11-16 10:29:01</modified_date>
+    <create_by>admin</create_by>
+    <event_type>2</event_type>
+    <version_id>710d01f9b0b246a7b1a4319989c15e46</version_id>
+    <data_rights>0</data_rights>
+    <window_width></window_width>
+    <create_date>2016-11-12 20:27:54</create_date>
+    <module_id>1F7863FBE7A449D99BAB4358D6D2B544</module_id>
+    <modified_by>chengs</modified_by>
+    <data_type></data_type>
+    <description></description>
+    <window_height></window_height>
+    <is_audit></is_audit>
+    <event_no>e_query_roleuser_list</event_no>
+    <event_name>查询角色下面可以添加的用户</event_name>
+    <is_rights>1</is_rights>
+    <is_index></is_index>
+  </event>
+  <event event_id="3adfc285623d42c3a4a51356858524dd">
+    <event_value><![CDATA[[{"func_impl":"com.thinkive.workplat.event.action.impl.role.querySortTreeAction"}]]]></event_value>
+    <orderline>1478777511785</orderline>
+    <modified_date>2016-11-16 10:30:50</modified_date>
+    <create_by>admin</create_by>
+    <event_type>2</event_type>
+    <version_id>710d01f9b0b246a7b1a4319989c15e46</version_id>
+    <data_rights>0</data_rights>
+    <window_width></window_width>
+    <create_date>2016-11-10 19:31:51</create_date>
+    <module_id>1F7863FBE7A449D99BAB4358D6D2B544</module_id>
+    <modified_by>chengs</modified_by>
+    <data_type></data_type>
+    <description></description>
+    <window_height></window_height>
+    <is_audit></is_audit>
+    <event_no>e_query_sorttree</event_no>
+    <event_name>查询角色分类树</event_name>
+    <is_rights>1</is_rights>
+    <is_index></is_index>
+  </event>
+</events>

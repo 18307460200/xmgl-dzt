@@ -1,0 +1,46 @@
+.scroll_box{
+	padding: 5px 0;
+}
+.scrollbar {
+    position: absolute;
+    top: 5px;
+    right: 6px;
+    z-index: 50;
+    width: 8px;
+}
+.scrollbar .track{
+	background: #e4e8ee;
+	-moz-border-radius: 4px;
+	-webkit-border-radius: 4px;
+	border-radius: 4px;
+}
+.scrollbar .thumb{
+	width: 8px;
+    cursor: pointer;
+    overflow: hidden;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background: #cad3e0;
+    -moz-border-radius: 4px;
+	-webkit-border-radius: 4px;
+	border-radius: 4px;
+}
+.scrollbar .thumb .end{
+	background:#cad3e0;
+}
+.viewport{
+	width: 100%;
+	overflow: hidden;
+	position: relative;}	
+.overview{
+	list-style: none;
+	position: absolute;
+	left: 0;
+	top: 0;
+	width:100%;}
+.disable {
+	display:none;
+}
+	
+

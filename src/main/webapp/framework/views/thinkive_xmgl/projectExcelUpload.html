@@ -1,0 +1,147 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link href="/framework/css/thinkive_xmgl/common/style.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+<div id="uploadExcel">
+     <div class="layer_cont">
+     <table class="top_seletable" border="0" cellpadding="0" cellspacing="0">
+         <tr>
+             <th style="width: 70px;">模板下载</th>
+             <td>
+                 <a class="mb_link" href="/excel/ProjectExcelUploadModel.xlsx">excel模板下载</a>
+             </td>
+         </tr>
+         <tr>
+             <th>选择文件</th>
+             <td>
+                 <input class="cm_txt02 fl" type="text" id="file_path" readonly="readonly">
+                 <a class="sj_link" href="javascript:void(0);" onclick="browse_upload()">浏览</a>
+                   <form id="uploadForm" method="post"  enctype="multipart/form-data" action="/upload">
+                   <input type="file"  accept="application/vnd.ms-excel,application/vnd.openxmlformats-officedocument.spreadsheetml.sheet" id="file_upload" name="file_upload" style="display:none" onchange="file_path.value=file_upload.value">
+                   </form>
+             </td>
+         </tr>
+      </table>
+      </div>
+      <div class="layer_btn">
+          <a href="javascript:void(0);" id="upload" onclick="uploadFile()">上传</a>
+       </div>
+</div>
+<div id="waitForUpload" style="display:none">
+	<div class="layer_cont">
+	<div class="upload_tips">
+		<i class="icon"><img src="/framework/image/thinkive_xmgl/ic_ing.gif"/></i>
+		<div class="cont">
+			<h5>正在上传中，请勿关闭此窗口...</h5>
+		</div>
+	</div>
+       </div>
+       <div class="layer_btn">
+           <a class="icon-cancel" href="javascript:void(0);">确定</a>
+       </div>
+</div>
+<div id="uploadFail" style="display:none">
+	<div class="layer_cont">
+	<div class="upload_tips">
+		<i class="icon"><img src="/framework/image/thinkive_xmgl/ic_warn.png"/></i>
+		<div class="cont" id="err_msg">
+			<h5>导入<span class="success_num">0</span>行，失败<strong><span class="fail_num">0</span></strong>行</h5>
+			<p id="fail_msg"></p>
+		</div>
+	</div>
+       </div>
+       <div class="layer_btn">
+           <a href="javascript:void(0);" onclick="closePop()">确定</a>
+           <a href="javascript:void(0);" onclick="reUpload()">重新导入</a>
+       </div>
+</div>
+<div id="uploadSuccess" style="display:none">
+<div class="layer_cont">
+	<div class="upload_tips">
+	<i class="icon"><img src="/framework/image/thinkive_xmgl/ic_ok.png"/></i>
+	<div class="cont">
+		<h5>导入<span class="success_num"></span>行，失败<strong><span class="fail_num">0</span></strong>行</h5>
+	</div>
+</div>
+    </div>
+    <div class="layer_btn">
+        <a href="javascript:void(0);" onclick="closePop()">确定</a>
+    </div>
+</div>
+<script type="text/javascript" src="/framework/version.js"></script>
+<script src="/plugins/miniui/jquery.min.js"></script>
+<script src="/plugins/miniui/miniui.js"></script> 
+<script type="text/javascript" src="/thinkiveJs.min.js"></script>
+<script type="text/javascript" src="/framework/scripts/thinkive_xmgl/common/jquery-form.js"></script>
+<script type="text/javascript">
+function uploadFile(){
+	debugger;
+	var filePath = $("#file_path").val();
+	if(filePath==""){
+		alert("请选择文件");
+		return;
+	}
+	var form = $("#uploadForm");
+	var options = {
+		url : "/servlet/UploadProjectExcel?user_type=0",
+		type : "post",
+		success : function(data) {
+			var result = eval("("+data+")");
+			var err_no =  result.err_no;
+			var err_msg = result.err_msg;
+			if(err_no==0){
+				var fail_num = result.fail_num;
+				var success_num = result.success_num;
+				var fail_msg = result.fail_msg;
+				if(fail_num>0){
+					$(".success_num").html(success_num);
+					$(".fail_num").html(fail_num);
+					$("#fail_msg").html(fail_msg);
+					$("#uploadExcel").hide();
+					$("#waitForUpload").hide();
+					$("#uploadFail").show();
+				}else{
+					$(".success_num").html(success_num);
+					$(".fail_num").html(fail_num);
+					$("#uploadExcel").hide();
+					$("#waitForUpload").hide();
+					$("#uploadSuccess").show();
+				}
+			}else{
+				$("#waitForUpload").hide();
+				$("#uploadExcel").hide();
+				$("#uploadFail").show();
+				$("#fail_msg").html(err_msg)
+			}
+		},
+		error : function(){
+			$("#waitForUpload").hide();
+			$("#uploadExcel").hide();
+			$("#uploadFail").show();
+			$("#fail_msg").html("网络繁忙，请重试")
+		}
+	};
+	form.ajaxSubmit(options);
+	$("#uploadExcel").hide();
+	$("#waitForUpload").show();
+ }
+ function reUpload(){
+	 $("#waitForUpload").hide();
+	 $("#uploadFail").hide();
+	 $("#uploadExcel").show();
+ }
+ function closePop(){
+	 window.CloseOwnerWindow();
+ }
+ //浏览绑定事件
+ function browse_upload(){
+	$("#file_upload").click();
+ }
+</script>
+</body>
+
+	 

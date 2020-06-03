@@ -1,0 +1,1164 @@
+﻿
+/* base
+==========================================*/
+.app-header
+{
+    background:#fff;
+}
+.app-toolbar,
+.bg-toolbar
+{
+    background:#fff;
+}
+.mini-modal
+{
+    background:#fff;
+    opacity: .6;
+    filter: alpha(opacity=60);
+}
+.mini-mask-background
+{
+    background:#fff;
+    opacity: 0;
+    filter: alpha(opacity=0);
+}
+.mini-popup,
+.mini-window,
+.mini-menu-open
+{
+    /*box-shadow:rgba(0,​ 0,​ 0,​ 0.6) 0px 6px 12px 0px;*/
+    box-shadow: 0 3px 6px rgba(0, 0, 0, 0.3);
+}
+
+.mini-layout-region,
+.mini-layout-region-body {
+    overflow: visible;
+}
+
+/* tools
+==========================================*/
+
+/* popup
+==========================================*/
+.mini-popup
+{
+    border-color:#2277cc;
+}
+
+/* toolbar
+==========================================*/
+.mini-toolbar
+{
+    background:#f8fcff;
+    border-color:#dddddd;
+}
+.separator
+{
+    border-color:#c5c5c5;
+}
+body .mini-button-plain
+{
+    background: #415d79;
+    border-color: #415d79;
+    padding:1px;
+}
+
+body .mini-pager .mini-button-plain
+{
+    background: transparent;
+    border:0;
+}
+
+body .mini-toolbar .mini-button
+{
+    padding:0;
+    border:1px solid #2277cc;
+    background: none;
+    text-decoration:none;
+}
+
+body .mini-toolbar a:hover.mini-button
+{
+    padding:0;
+    border:1px solid transparent;
+    background: none;
+    text-decoration:none;
+}
+
+.mini-toolbar .mini-button-text
+{
+    font-size: 14px;
+    color:#333333;
+}
+
+body .mini-toolbar .mini-button-search .mini-button-text {
+    color:#ffffff;
+}
+
+body .mini-toolbar .mini-button-search
+{
+    background: #415d79;
+    border-color: #415d79;
+    color:#fff;
+}
+
+body .mini-toolbar a:hover.mini-button-search
+{
+    background:#2f86dc;
+    border-color:#2f86dc;
+}
+
+body .mini-toolbar a:hover.mini-button
+{
+    background:#f2f2f2!important;
+    border-color:#c5c5c5!important;
+}
+
+
+/* button
+==========================================*/
+.mini-button
+{
+    background: #415d79;
+    border-color: #415d79;
+    color: #444;
+    font-family: "PingFang SC","Helvetica Neue",Helvetica,Arial,"Hiragino Sans GB","Microsoft Yahei","微软雅黑",STHeiti,"华文细黑",sans-serif;
+    -moz-border-radius: 4px; -webkit-border-radius:4px; border-radius:4px;
+}
+.mini-button-text
+{
+    padding:6px 8px;
+    color:#ffffff;
+    white-space: nowrap;
+}
+body a:hover.mini-button
+{
+    background:#2f86dc;
+    border-color:#2f86dc;
+}
+body .mini-button-pressed, body a:hover.mini-button-pressed,
+body .mini-button-checked, body a:hover.mini-button-checked,
+body a.mini-button-popup, body a:hover.mini-button-popup
+{
+    background:#1c6cbc;
+    border-color:#1c6cbc;
+}
+body a.mini-button-disabled, body a:hover.mini-button-disabled
+{
+    background: #2277cc;
+    border-color: #2277cc;
+    opacity: 0.5;
+    filter: alpha(opacity=50);
+}
+
+.mini-button-allow
+{
+  margin-top: 6px;
+  margin-right:4px;
+}
+.mini-button-menu
+{
+  background: transparent url("images/down2.png") no-repeat  center;
+}
+body a:hover.mini-button .mini-button-menu
+{
+  background: transparent url("images/down2.png") no-repeat  center;
+}
+body .mini-button-pressed .mini-button-menu,
+body .mini-button-popup .mini-button-menu,
+body .mini-button-checked .mini-button-menu
+{
+  background: transparent url("images/down2.png") no-repeat center;
+}
+
+.mini-button .mini-button-icon-text {
+  padding-left: 30px;
+}
+
+body .mini-button-disabled *
+{
+    cursor: default;
+    opacity: 1;
+    -moz-opacity: 1;
+    filter: none;
+}
+
+/* textbox
+==========================================*/
+.mini-textbox
+{
+  height: 32px;
+}
+.mini-textbox-border
+{
+  height: 30px;
+    background:white;
+  border-color:#c5c5c5;
+  padding-left: 5px;
+}
+.mini-textbox-focus .mini-textbox-border
+{
+    /*background-color: #fff;*/
+    border-color: #c5c5c5;
+    color: #444;
+}
+body .mini-error .mini-textbox-border,
+body .mini-error .mini-buttonedit-border,
+body .mini-error .mini-textboxlist-border
+{
+    border-color: #ffa8a8;
+    background-color: #fff3f3;
+}
+.mini-placeholder-label
+{
+    position:absolute;
+    left:0;
+    top:0;
+    padding: 0;
+    padding-left: 5px;
+    height: 30px;
+    line-height: 30px;
+    color:#9a9a9a;
+}
+body .mini-textbox-focus .mini-textbox-border,
+body .mini-textbox-focus .mini-buttonedit-border,
+body .mini-textbox-focus .mini-textboxlist-border
+{
+    border-color: #2277cc;
+    background-color: #f8fcff;
+}
+.mini-textbox-input
+{
+  height: 30px;
+  line-height: 30px;
+    color:#444;
+}
+
+.mini-textarea .mini-textbox-border {
+  padding-left: 5px;
+}
+
+.mini-labelfield-label
+{
+    line-height: 32px;
+}
+
+/* buttonedit
+==========================================*/
+.mini-buttonedit-border
+{
+  background:white;
+  border-color:#c5c5c5;
+}
+.mini-buttonedit-focus .mini-buttonedit-border
+{
+    /*background-color: #fff;*/
+    border-color: #c5c5c5;
+    color: #000;
+}
+.mini-buttonedit-input
+{
+    color:#444;
+}
+.mini-buttonedit-button
+{
+    background:transparent;
+    border-color:#c5c5c5;
+    color: #444;
+}
+.mini-buttonedit-button-hover,
+.mini-buttonedit-hover .mini-buttonedit-trigger
+{
+  color:#444;
+    background:#e2eff8;
+    border-color:#c5c5c5;
+}
+.mini-buttonedit-button-pressed,
+.mini-buttonedit-popup .mini-buttonedit-trigger
+{
+  color:#444;
+    background:#e2eff8;
+    border-color:#c5c5c5;
+}
+.mini-popupedit .mini-buttonedit-trigger .mini-buttonedit-icon
+{
+    background:url(images/buttonedit/arrow.gif) no-repeat  1px 2px;
+}
+.mini-datepicker .mini-buttonedit-trigger .mini-buttonedit-icon
+{
+    background:url(images/buttonedit/date.gif) no-repeat  50% 50%;
+}
+.mini-buttonedit-up span, .mini-buttonedit-down span
+{
+    background:url(images/buttonedit/spinner_arrows.png) no-repeat 0px 50%;
+}
+.mini-buttonedit-down span
+{
+    background-position:-16px 50%;
+}
+
+/* textboxlist
+==========================================*/
+.mini-textboxlist-border
+{
+    border-color: #c5c5c5;
+}
+.mini-textboxlist-focus .mini-textboxlist-border
+{
+    /*background-color: #fff;*/
+    border-color: #c5c5c5;
+    color: #000;
+}
+.mini-textboxlist-item
+{
+    color:#444;
+}
+
+/* htmlfile
+==========================================*/
+.mini-htmlfile .mini-buttonedit-button
+{
+  color:#444;
+    background:#e2eff8;
+    border-color:#c5c5c5;
+}
+
+/* panel
+==========================================*/
+.mini-panel
+{
+  font-family: initial;
+}
+.mini-panel-border
+{
+    border-color:#415d79;
+}
+.mini-panel-header
+{
+    background:#415d79;
+    color:#444;
+    font-weight:bold;
+    border:0;
+}
+.mini-panel-header-inner {
+    padding: 7px 4px 7px 8px;
+}
+.mini-panel .mini-panel-title {
+  color:#ffffff;
+}
+.mini-panel .mini-tools
+{
+    top:0;
+    right:0;
+}
+.mini-panel .mini-tools span {
+  width:30px;
+  height: 30px;
+  margin:0;
+}
+.mini-panel-toolbar,
+.mini-panel-footer
+{
+    background:#fff;
+    border-color:#c5c5c5;
+}
+
+.mini-panel .mini-tools .mini-tools-collapse
+{
+  width: 30px;
+   background:url("images/up2.png") 50% 50% no-repeat ;
+}
+.mini-panel-collapse .mini-tools .mini-tools-collapse
+{
+   background:url("images/down2.png") 50% 50% no-repeat ;
+}
+
+.mini-tools-close
+{
+   background: url("images/close.png") no-repeat scroll 50% 50% ;
+}
+.mini-tools-min
+{
+     background: url("images/min.png") no-repeat scroll 50% 50% ;
+}
+.mini-tools-max
+{
+    background: url("images/max.png") no-repeat scroll 50% 50% ;
+}
+.mini-tools-restore
+{
+    background: url("images/restore.png") no-repeat scroll 50% 50% ;
+}
+
+
+/* window
+==========================================*/
+.mini-window .mini-panel-header
+{
+    background:#415d79;
+}
+.mini-window .mini-panel-footer
+{
+    background:#fff;
+}
+
+/* outlookbar
+==========================================*/
+.mini-outlookbar-groupHeader
+{
+    background: #f8fcff;
+    border-color: #dddddd;
+}
+.mini-outlookbar-groupBody
+{
+    border-color: #dddddd;
+}
+.mini-outlookbar-group
+{
+    border-color: #dddddd;
+}
+.mini-tree-node-hover .mini-tree-nodeshow,
+.mini-tree-selectedNode .mini-tree-nodeshow
+{
+    border-color: transparent;
+    background: none;
+    color:#2277cc;
+}
+.mini-outlookbar-groupTitle
+{
+    font-weight: normal;
+    font-family: "Microsoft Yahei";
+}
+
+
+/* splitter
+==========================================*/
+.mini-splitter-border
+{
+    border-color: #c5c5c5;
+}
+.mini-splitter .mini-splitter-pane1{
+    border-color:#c5c5c5;
+}
+.mini-splitter .mini-splitter-pane2{
+    border-color:#c5c5c5;
+}
+
+/* layout
+==========================================*/
+.mini-layout-border
+{
+    border:0;
+}
+.mini-layout-region
+{
+    border:0;
+}
+.mini-layout-region-header
+{
+    border-color:#c5c5c5;
+    background: #415d79;
+}
+.mini-layout-proxy
+{
+    border-color:#c5c5c5;
+    background:#415d79;
+}
+.mini-layout-proxy-hover
+{
+    background:#e2eff8;
+}
+.mini-layout-region-title
+{
+    color:#444;
+}
+
+/* menu
+==========================================*/
+.mini-menu
+{
+  background:#fff;
+    color:#444;
+}
+.mini-menu-border
+{
+    border-color:#2277cc;
+}
+.mini-menuitem-hover,
+.mini-menu-popup
+{
+    border-color:#c5c5c5;
+  background:#e2eff8;
+}
+.mini-menuitem-selected
+{
+    border-color:#c5c5c5;
+  background:#c5c5c5;
+}
+.mini-menuitem-text, .mini-menuitem-text a
+{
+    color:#444;
+}
+.mini-separator
+{
+    border-color:#c5c5c5;
+}
+.mini-menu-horizontal .mini-menu-inner
+{
+    background:#fff;
+}
+.mini-menu-horizontal .mini-menuitem-allow
+{
+    background:url(images/menu/menu_arrows.png) no-repeat -2px -4px;
+}
+.mini-shadow {
+  display: none;
+}
+
+/* pager
+==========================================*/
+.mini-pager
+{
+    background:#fff;
+    border-color:#c5c5c5;
+    height: 32px;
+    line-height: 32px;
+}
+
+.mini-pager-index
+{
+    display: inline-block;
+    height: 32px;
+}
+body .mini-pager-num
+{
+   height: 30px;
+   line-height: 30px;
+   vertical-align: top;
+}
+.mini-pager-size .mini-combobox
+{
+  width:60px;
+}
+
+/* grid
+==========================================*/
+.mini-grid-border
+{
+    border-color:#ddd;
+}
+.mini-grid-headerCell,
+.mini-grid-topRightCell,
+.mini-grid-columnproxy
+{
+    background:#fff;
+    border-color:#ddd;
+}
+.mini-grid-cell, .mini-grid-headerCell,
+.mini-grid-filterCell, .mini-grid-summaryCell
+{
+    border-right: 1px solid #ddd;
+}
+.mini-grid-cell-inner,
+.mini-grid-headerCell-inner
+{
+    padding:6px 0;
+    font-size: 13px;
+    font-family: "PingFang SC","Helvetica Neue",Helvetica,Arial,"Hiragino Sans GB","Microsoft Yahei","微软雅黑",STHeiti,"华文细黑",sans-serif;
+}
+.mini-grid-headerCell-outer
+{
+  background: #fafafa;
+}
+.mini-grid-headerCell-inner
+{
+    text-align: center;
+}
+html body .mini-grid-row-hover
+{
+    background: #f8fcff!important;
+}
+html body .mini-grid-row-selected
+{
+    background: #e5f4ff!important;
+}
+html body .mini-grid .mini-grid-cell-selected
+{
+    background:#e5f4ff;!important
+}
+.mini-grid-header-over
+{
+    background: #f8fcff;
+}
+
+.mini-grid-pager
+{
+  background: #f8fcff;
+}
+
+/* tree
+==========================================*/
+
+
+/* listbox
+==========================================*/
+.mini-listbox-border
+{
+    border-color:#ddd;
+}
+.mini-listbox-header
+{
+    background:#f8fcff;
+    border-color:#ddd;
+}
+.mini-listbox-header td
+{
+    border-color:#c5c5c5;
+}
+.mini-listbox td
+{
+  padding-top:5px;
+  padding-bottom: 5px;
+}
+.mini-listbox-item td{
+  border-color:#ddd;
+}
+.mini-listbox-item-hover td{
+    background:#e2eff8;
+  border-color:#c5c5c5;
+}
+.mini-listbox-item-selected td{
+  background:#c1ddf1;
+  border-color:#c5c5c5;
+}
+
+/* tabs
+==========================================*/
+.mini-tabs-scrollCt
+{
+    border-color:#c5c5c5;
+    background:#fff;
+    padding-top: 8px;
+}
+.mini-tabs-leftButton,
+.mini-tabs-rightButton,
+.mini-tabs-tabmenu
+{
+    border-color:#c5c5c5;
+    background-color:#fff;
+}
+a:hover.mini-tabs-leftButton,
+a:hover.mini-tabs-rightButton,
+a:hover.mini-tabs-tabmenu
+{
+    border-color:#c5c5c5;
+    background-color:#e2eff8;
+}
+/* top */
+.mini-tabs-bodys
+{
+    background: #ffffff;
+    border-color:#c5c5c5;
+}
+.mini-tabs-space
+{
+    border-color:#c5c5c5;
+    width: 10px;
+}
+.mini-tabs-space div {
+    width:10px;
+}
+.mini-tabs-space2
+{
+    width:10px;
+    border-color:#c5c5c5;
+}
+.mini-tabs-space2 div {
+    width:10px;
+}
+.mini-tab
+{
+    background: none;
+    border-color:#dddddd;
+    color: #666;
+    padding:0;
+    border-top-left-radius:4px;
+    border-top-right-radius:4px;
+    font-weight:bold;
+    position: relative;
+    background-clip: padding-box;
+    font-family: "PingFang SC","Helvetica Neue",Helvetica,Arial,"Hiragino Sans GB","Microsoft Yahei","微软雅黑",STHeiti,"华文细黑",sans-serif;
+    zoom:1;
+}
+.mini-tab-text
+{
+        padding:6px 15px 6px 15px;
+    border-top-left-radius:4px;
+    border-top-right-radius:4px;
+  font-size: 14px;
+  color:#666666;
+  font-weight: normal;
+}
+.mini-tab-hover
+{
+    border-color:#dddddd;
+
+    border-bottom: 1px solid #f8f8f8;
+}
+.mini-tab-hover .mini-tab-text
+{
+    background:#f8f8f8;
+}
+.mini-tab-active
+{
+    border-color:#c5c5c5;
+    border-bottom-color:#fff;
+    color:#000;
+    border-top: 1px solid #dddddd;
+}
+.mini-tab-active .mini-tab-text
+{
+        background:#fff;
+   color:#2277cc;
+}
+.mini-tab-close
+{
+    position:absolute;
+    top:2px;right:2px;
+}
+.mini-tab-close-hover
+{
+    background-color:transparent;
+}
+.mini-tabs-nav
+{
+    top:15px;
+    z-index: 999;
+}
+/* bottom */
+.mini-tabs-header-bottom .mini-tabs-space,
+.mini-tabs-header-bottom .mini-tabs-space2
+{
+    border-color:#c5c5c5;
+}
+.mini-tabs-header-bottom .mini-tabs-bodys
+{
+    border-color:#c5c5c5;
+}
+.mini-tabs-header-bottom .mini-tab-active
+{
+    border-top-color:white;
+    border-bottom-color:#c5c5c5;
+}
+.mini-tabs-body-bottom
+{
+    border-color:#c5c5c5;
+}
+/* left */
+.mini-tabs-header-left .mini-tabs-space,
+.mini-tabs-header-left .mini-tabs-space2
+{
+    border-color:#c5c5c5;
+}
+.mini-tabs-header-left .mini-tabs-bodys
+{
+    border-color:#c5c5c5;
+}
+.mini-tabs-header-left .mini-tab-active
+{
+    border-color:#c5c5c5;
+    border-right-color:white;
+}
+.mini-tabs-body-left
+{
+    border-color:#c5c5c5;
+}
+/* right */
+.mini-tabs-header-right .mini-tabs-space,
+.mini-tabs-header-right .mini-tabs-space2
+{
+    border-color:#c5c5c5;
+}
+.mini-tabs-header-right .mini-tabs-bodys
+{
+    border-color:#c5c5c5;
+}
+.mini-tabs-header-right .mini-tab-active
+{
+    border-color:#c5c5c5;
+    border-left-color:white;
+}
+.mini-tabs-body-right
+{
+    border-color:#c5c5c5;
+}
+
+/* tooltip
+==========================================*/
+.mini-tooltip-inner {
+    border-color:#ddd;
+    border-radius: 0px;
+}
+
+/* calendar
+==========================================*/
+.mini-calendar
+{
+    background: #f8fcff;
+    border-color:#ddd;
+}
+.mini-calendar-header
+{
+    background:#2277cc;
+    border-color:#2277cc;
+    height: 36px;
+}
+.mini-calendar-prev,
+.mini-calendar-next
+{
+  top:10px;
+}
+.mini-calendar-footer
+{
+    border-color:#ddd;
+    background:#fafafa;
+}
+.mini-calendar-tadayButton, .mini-calendar-clearButton,
+.mini-calendar-okButton, .mini-calendar-cancelButton
+{
+    background: #fff;
+    border-color: #ddd;
+    color: #444;
+}
+.mini-calendar-tadayButton:hover, .mini-calendar-clearButton:hover,
+.mini-calendar-okButton:hover, .mini-calendar-cancelButton:hover
+{
+    background:#e2eff8;
+}
+.mini-calendar-days td
+{
+  padding: 5px 4px;
+}
+.mini-calendar-date
+{
+  border-color:#f8fcff;
+}
+.mini-calendar .mini-calendar-today
+{
+  border-color:#f8fcff;
+   background:url(images/icon_date.png) no-repeat center;
+   color:#ffffff;
+}
+.mini-calendar-daysheader td
+{
+    border-color:#dddddd;
+}
+.mini-calendar-menu
+{
+    border-color:#ddd;
+}
+.mini-calendar-title,
+.mini-calendar-menu-year,
+.mini-calendar-menu-month
+{
+    color:#444;
+}
+.mini-calendar .mini-calendar-selected,
+.mini-calendar-menu-selected,
+a:hover.mini-calendar-menu-month,
+a:hover.mini-calendar-menu-year
+{
+    color:#444;
+    background:#e2eff8;
+  border-color:#f8fcff;
+}
+
+.mini-calendar-title {
+  line-height: 30px;
+  color:#ffffff;
+}
+.mini-calendar-yearPrev
+{
+    background:url("images/prev.png") 50% 50% no-repeat;
+ }
+ .mini-calendar-monthPrev
+ {
+     background:url("images/prev2.png") 50% 50% no-repeat;
+ }
+ .mini-calendar-monthNext
+{
+    background:url("images/next.png") 50% 50% no-repeat;
+
+ }
+ .mini-calendar-yearNext
+ {
+     background:url("images/next2.png") 50% 50% no-repeat;
+ }
+
+/* progressbar
+==========================================*/
+.mini-progressbar-border
+{
+    border-color:#ccc;
+}
+.mini-progressbar-bar
+{
+    background:#e2eff8;
+}
+.mini-progressbar-text
+{
+    color:#222;
+}
+
+
+/** autocomplete **/
+.mini-buttonedit
+{
+    height:32px;
+}
+.mini-buttonedit-border,
+.mini-buttonedit-input
+{
+    height:30px;
+    line-height:30px;
+    padding-left: 8px;
+    color:#666;
+}
+body .mini-buttonedit-focus .mini-buttonedit-border
+{
+    background:#f8fcff ;
+    border-color:#2277cc;
+}
+.mini-buttonedit-buttons
+{
+    height:100%;
+}
+.mini-buttonedit-button
+{
+    border-left:0;
+    background: none;
+    color: #ffffff;
+  padding:0;
+  margin:0;
+  height:100%;
+  width:28px;
+  height: 28px;
+  text-align:center;
+  _display: inline;
+  *display: inline;
+  zoom:1;
+}
+.mini-buttonedit-button-hover,
+.mini-buttonedit-hover .mini-buttonedit-button,
+.mini-buttonedit-button-pressed,
+.mini-buttonedit-popup .mini-buttonedit-button
+{
+  color:#444;
+  border-width:0px;
+  background: none;
+}
+.mini-buttonedit-icon {
+  width: 20px;
+  height: 20px;
+  margin-left: -10px;
+  margin-top: -10px;
+}
+.mini-popupedit .mini-buttonedit-trigger .mini-buttonedit-icon
+{
+  background: url(images/icon_drop.png) no-repeat center;
+}
+
+.mini-datepicker .mini-buttonedit-trigger .mini-buttonedit-icon
+{
+    background:url("images/datepicker.png") no-repeat  0px 50% transparent;
+}
+.mini-filteredit .mini-buttonedit-icon
+{
+   background-position:2px 50%;
+}
+.mini-buttonedit-up span, .mini-buttonedit-down span
+{
+    background:url("images/up.png") no-repeat 6px 6px transparent;
+}
+.mini-buttonedit-down span
+{
+    background:url("images/down.png") no-repeat 6px 2px;
+}
+.mini-buttonedit-close
+{
+    margin-top:5px;
+}
+
+.mini-htmlfile .mini-buttonedit-button {
+  border:0;
+  height: 30px;
+  line-height: 30px;
+}
+
+.mini-textboxlist {
+  height: 32px;
+}
+.mini-textboxlist .mini-textboxlist-item {
+  height: 24px;
+  line-height: 24px;
+  -moz-border-radius: 0; -webkit-border-radius:0; border-radius:0;
+  border: 1px solid #cccccc;
+  background: #ffffff;
+}
+.mini-textboxlist .mini-textboxlist-input {
+  height: 26px;
+  line-height: 26px;
+  margin:0;
+}
+
+
+/** checkbox **/
+.mini-checkboxlist
+{
+    font-size:12px;
+    font-family: "PingFang SC","Helvetica Neue",Helvetica,Arial,"Hiragino Sans GB","Microsoft Yahei","微软雅黑",STHeiti,"华文细黑",sans-serif;
+}
+.mini-checkbox-check,
+.mini-checkbox-icon
+{
+   height:16px;width:16px;
+   background:url(images/checkbox.png) no-repeat 0px 0px;
+}
+.mini-checkbox-checked .mini-checkbox-icon
+{
+    background:url(images/checkbox-checked.png) no-repeat 0px 0px;
+}
+.mini-list-icon
+{
+    background:url(images/checkbox.png) no-repeat 0px 0px;
+    height:16px;width:16px;
+    margin-top:1px;
+}
+.mini-radiobuttonlist
+{
+    font-family: "PingFang SC","Helvetica Neue",Helvetica,Arial,"Hiragino Sans GB","Microsoft Yahei","微软雅黑",STHeiti,"华文细黑",sans-serif;
+}
+.mini-radiobuttonlist-item .mini-list-icon
+{
+    background:url(images/radio.png) no-repeat 0px 0px;
+}
+.mini-checkboxlist-item-selected .mini-list-icon
+{
+  background:url(images/checkbox-checked.png) no-repeat 0px 0px;
+}
+.mini-radiobuttonlist-item-selected .mini-list-icon
+{
+    background:url(images/radio-checked.png) no-repeat 0px 0px;
+}
+.mini-checkboxlist table label ,.mini-radiobuttonlist table label
+{
+  line-height:32px;
+    padding-left:4px;
+    font-family: "PingFang SC","Helvetica Neue",Helvetica,Arial,"Hiragino Sans GB","Microsoft Yahei","微软雅黑",STHeiti,"华文细黑",sans-serif;
+}
+
+.mini-hidden {
+    display:none;
+}
+
+/*-- add 20180108 --*/
+.user_taskbox{
+    display: inline-block;
+    position: relative;
+    height: 56px;
+    margin-right: 20px;
+    float: left;
+}
+.user_taskbox .icon{
+    display: inline-block;
+    width: 40px;
+    height: 60px;
+    background: url(images/icon_task.png) no-repeat center;
+    position: relative;
+    cursor: pointer;
+}
+.user_taskbox .icon em{
+    display: block;
+    height: 16px;
+    padding: 0 5px;
+    line-height: 16px;
+    text-align: center;
+    font-size: 12px;
+    font-weight: bold;
+    font-style: normal;
+    columns: #fff;
+    background: #ff6d6d;
+    border-radius: 10px; 
+    position: absolute;
+    top: 26px;
+    left: 50%;
+    margin:0 0 0 4px !important;
+}
+.user_taskbox .layer{
+    width: 242px;
+    height: 96px;
+    background: #ffffff;
+    position: absolute;
+    top: 54px;
+    left: 50%;
+    margin-left: -121px;
+    box-shadow: 0 5px 20px rgba(0,0,0,0.2);
+}
+.user_taskbox .layer i{
+    display: block;
+    width: 16px;
+    height: 8px;
+    background: url(images/icon_arrow.png) no-repeat center;
+    position: absolute;
+    top: -8px;
+    left: 50%;
+    margin-left: -8px;
+}
+.user_taskbox .layer ul{
+    height: 80px;
+    padding: 0;
+    margin: 0;
+    padding-top: 16px
+}
+.user_taskbox .layer ul li{
+    width: 120px;
+    float: left;
+    text-align: center;
+    list-style: none;
+}
+.user_taskbox .layer ul li.n2{
+    border-left: 1px  solid #e5e5e5;
+}
+.user_taskbox .layer ul li a{
+    display: block;
+    height: 66px;
+    color: #373e4c; 
+}
+.user_taskbox .layer ul li strong{
+    display: block;
+    height: 42px;
+    line-height: 42px;
+    font-size: 34px;
+    font-family: arial;
+    font-weight: bold;
+}
+.user_taskbox .layer ul li strong.imp{
+    color: #ff6d6d;
+}
+.user_taskbox .layer ul li strong sup{
+    font-size: 14px;
+    vertical-align: middle;
+    margin-left: 3px;
+    position: relative;
+    top: -8px;
+}
+.user_taskbox .layer ul li span{
+    display: inline-block;
+    height: 24px;
+    line-height: 24px;
+    font-size: 14px;
+    font-family: "microsoft yahei";
+    color: #848fa7;
+    padding-right: 12px;
+    background: url(images/icon_drop3.png) no-repeat right center;
+}

@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="GBK"?>
+
+<events>
+  <event event_id="3f16a46dd3b040bb8629b075ae8e4813">
+    <event_value><![CDATA[[{"func_impl":"com.thinkive.workplat.event.action.impl.rightsfields.AddRightsFieldsAction"}]]]></event_value>
+    <orderline>1477722500481</orderline>
+    <modified_date>2016-10-29 14:28:20</modified_date>
+    <create_by>admin</create_by>
+    <event_type>2</event_type>
+    <version_id>5084f8b179e6431f910d6da5026aa6fa</version_id>
+    <data_rights></data_rights>
+    <window_width></window_width>
+    <create_date>2016-10-29 14:28:20</create_date>
+    <module_id>cdddd89c3c8f44d0b0a1ccf3dfcefc9a</module_id>
+    <modified_by>admin</modified_by>
+    <data_type></data_type>
+    <description></description>
+    <window_height></window_height>
+    <is_audit></is_audit>
+    <event_no>e_add_fields</event_no>
+    <event_name>增加权限要素</event_name>
+    <is_rights>1</is_rights>
+    <is_index></is_index>
+  </event>
+  <event event_id="d3b4f96709304796b054403114cb5b53">
+    <event_value><![CDATA[[{"func_impl":"com.thinkive.workplat.event.action.impl.rightsfields.DeleteRightsFieldsAction"}]]]></event_value>
+    <orderline>1477724604550</orderline>
+    <modified_date>2016-10-29 15:03:24</modified_date>
+    <create_by>admin</create_by>
+    <event_type>2</event_type>
+    <version_id>5084f8b179e6431f910d6da5026aa6fa</version_id>
+    <data_rights></data_rights>
+    <window_width></window_width>
+    <create_date>2016-10-29 15:03:24</create_date>
+    <module_id>cdddd89c3c8f44d0b0a1ccf3dfcefc9a</module_id>
+    <modified_by>admin</modified_by>
+    <data_type></data_type>
+    <description></description>
+    <window_height></window_height>
+    <is_audit></is_audit>
+    <event_no>e_delete_fields</event_no>
+    <event_name>删除权限要素</event_name>
+    <is_rights>1</is_rights>
+    <is_index></is_index>
+  </event>
+  <event event_id="c65288f7162947158b2906b6a8cffc36">
+    <event_value><![CDATA[[{"func_impl":"com.thinkive.workplat.event.action.impl.rightsfields.EditRightsFieldsAction"}]]]></event_value>
+    <orderline>1477724807731</orderline>
+    <modified_date>2016-10-29 15:06:47</modified_date>
+    <create_by>admin</create_by>
+    <event_type>2</event_type>
+    <version_id>5084f8b179e6431f910d6da5026aa6fa</version_id>
+    <data_rights></data_rights>
+    <window_width></window_width>
+    <create_date>2016-10-29 15:06:47</create_date>
+    <module_id>cdddd89c3c8f44d0b0a1ccf3dfcefc9a</module_id>
+    <modified_by>admin</modified_by>
+    <data_type></data_type>
+    <description></description>
+    <window_height></window_height>
+    <is_audit></is_audit>
+    <event_no>e_edit_fields</event_no>
+    <event_name>修改权限要素</event_name>
+    <is_rights>1</is_rights>
+    <is_index></is_index>
+  </event>
+  <event event_id="4500dda122364e82b41a86240dcc552d">
+    <event_value><![CDATA[[{"func_impl":"com.thinkive.workplat.event.action.impl.rightsfields.QueryRightsFieldsListAction"}]]]></event_value>
+    <orderline>1477720987331</orderline>
+    <modified_date>2016-10-29 14:03:07</modified_date>
+    <create_by>admin</create_by>
+    <event_type>2</event_type>
+    <version_id>5084f8b179e6431f910d6da5026aa6fa</version_id>
+    <data_rights></data_rights>
+    <window_width></window_width>
+    <create_date>2016-10-29 14:03:07</create_date>
+    <module_id>cdddd89c3c8f44d0b0a1ccf3dfcefc9a</module_id>
+    <modified_by>admin</modified_by>
+    <data_type></data_type>
+    <description></description>
+    <window_height></window_height>
+    <is_audit></is_audit>
+    <event_no>e_query_fields</event_no>
+    <event_name>新增权限要素</event_name>
+    <is_rights>1</is_rights>
+    <is_index></is_index>
+  </event>
+  <event event_id="c5239a07888841b08a405117cec96f85">
+    <event_value><![CDATA[[{"func_impl":"com.thinkive.workplat.event.action.impl.rightsfields.QueryRightsFieldsInfoAction"}]]]></event_value>
+    <orderline>1477724776796</orderline>
+    <modified_date>2016-10-29 15:06:16</modified_date>
+    <create_by>admin</create_by>
+    <event_type>2</event_type>
+    <version_id>5084f8b179e6431f910d6da5026aa6fa</version_id>
+    <data_rights></data_rights>
+    <window_width></window_width>
+    <create_date>2016-10-29 15:06:16</create_date>
+    <module_id>cdddd89c3c8f44d0b0a1ccf3dfcefc9a</module_id>
+    <modified_by>admin</modified_by>
+    <data_type></data_type>
+    <description></description>
+    <window_height></window_height>
+    <is_audit></is_audit>
+    <event_no>e_query_fieldsinfo</event_no>
+    <event_name>查询权限要素详细信息</event_name>
+    <is_rights>1</is_rights>
+    <is_index></is_index>
+  </event>
+</events>

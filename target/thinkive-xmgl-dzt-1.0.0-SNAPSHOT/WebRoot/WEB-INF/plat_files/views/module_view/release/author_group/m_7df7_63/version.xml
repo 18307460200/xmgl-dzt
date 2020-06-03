@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="GBK"?>
+
+<versions>
+  <version version_id="d3a96eef58e74479a34672f90c853c55">
+    <publish_date>2018-08-22 16:51:28</publish_date>
+    <publish_by>admin</publish_by>
+    <module_id>874e8cf42dac42a4be0346d1b5e47df7</module_id>
+    <version_type>1</version_type>
+    <update_content>422</update_content>
+    <remarks>422</remarks>
+    <module_no>m_7df7_63</module_no>
+    <module_name>权限管理中心</module_name>
+    <module_type_id>4744dcfbfa8c4bb4adf75b3feb9a965e</module_type_id>
+    <version>412</version>
+  </version>
+  <version version_id="694f2e4638ba46728a75ecb5a408deb7">
+    <publish_date></publish_date>
+    <publish_by></publish_by>
+    <module_id>874e8cf42dac42a4be0346d1b5e47df7</module_id>
+    <version_type>0</version_type>
+    <update_content></update_content>
+    <remarks>412</remarks>
+    <module_no>m_7df7_63</module_no>
+    <module_name>权限管理中心</module_name>
+    <module_type_id>4744dcfbfa8c4bb4adf75b3feb9a965e</module_type_id>
+    <version>413</version>
+  </version>
+</versions>

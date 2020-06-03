@@ -1,0 +1,17 @@
+com\thinkive\fxc\xmgl\event\action\impl\project\QueryProjectAction.class
+com\thinkive\fxc\xmgl\service\ProjectService.class
+com\thinkive\fxc\xmgl\event\action\impl\project\QueryProductAffiliationAction.class
+com\thinkive\fxc\xmgl\utils\PropHelper.class
+root\UploadProjectExcel.class
+com\thinkive\fxc\xmgl\event\action\impl\project\EditProjectAction.class
+com\thinkive\fxc\xmgl\constants\EnumConstants.class
+com\thinkive\fxc\xmgl\event\action\impl\project\QueryByIdProjectAction.class
+root\QueryProductAffiliation.class
+com\thinkive\fxc\xmgl\service\impl\ProjectServiceImpl.class
+com\thinkive\fxc\xmgl\event\action\impl\project\DeleteProjectAction.class
+com\thinkive\fxc\xmgl\utils\UserOperateLogger.class
+com\thinkive\fxc\xmgl\utils\ImageUtil.class
+com\thinkive\fxc\xmgl\utils\EnumUtils.class
+com\thinkive\fxc\xmgl\event\action\impl\project\QueryEnumAction.class
+com\thinkive\fxc\xmgl\event\action\impl\project\AddProjectAction.class
+com\thinkive\fxc\xmgl\constants\Constants.class

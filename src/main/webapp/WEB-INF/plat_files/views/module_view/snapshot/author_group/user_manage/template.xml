@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="GBK"?>
+
+<templates>
+  <template template_id="ab7b96656008401f9fa0628db8169c95">
+    <template_no>m_add_dept</template_no>
+    <publish_date></publish_date>
+    <modified_date>2016-10-26 13:50:35</modified_date>
+    <publish_by></publish_by>
+    <create_by>admin</create_by>
+    <template_status>0</template_status>
+    <file_publish_path><![CDATA[/WEB-INF/plat_files/views/module_view/author_group/user_manage//publish/m_add_dept.ftl]]></file_publish_path>
+    <template_url>/conf/plat/module/user_manage/template/m_add_dept.ftl</template_url>
+    <template_type>1</template_type>
+    <publish_status>0</publish_status>
+    <parse_type>0</parse_type>
+    <file_type>1</file_type>
+    <content><![CDATA[template/m_add_dept.ftl]]></content>
+    <template_name>增加所属机构</template_name>
+    <window_width></window_width>
+    <create_date>2016-10-26 13:50:35</create_date>
+    <module_id>C6C9413EA0FC4EB1B777884DFA8B62D6</module_id>
+    <file_encoding>UTF-8</file_encoding>
+    <modified_by>admin</modified_by>
+    <window_height></window_height>
+    <template_brief></template_brief>
+    <is_index>0</is_index>
+  </template>
+  <template template_id="492010cb7ee244738e3ef352806c69ae">
+    <template_no>m_add_role</template_no>
+    <publish_date></publish_date>
+    <modified_date>2016-10-26 11:09:47</modified_date>
+    <publish_by></publish_by>
+    <create_by>admin</create_by>
+    <template_status>0</template_status>
+    <file_publish_path><![CDATA[/WEB-INF/plat_files/views/module_view/author_group/user_manage//publish/m_add_role.ftl]]></file_publish_path>
+    <template_url>/conf/plat/module/user_manage/template/m_add_role.ftl</template_url>
+    <template_type>1</template_type>
+    <publish_status>0</publish_status>
+    <parse_type>0</parse_type>
+    <file_type>1</file_type>
+    <content><![CDATA[template/m_add_role.ftl]]></content>
+    <template_name>添加角色信息</template_name>
+    <window_width></window_width>
+    <create_date>2016-10-26 11:09:47</create_date>
+    <module_id>C6C9413EA0FC4EB1B777884DFA8B62D6</module_id>
+    <file_encoding>UTF-8</file_encoding>
+    <modified_by>admin</modified_by>
+    <window_height></window_height>
+    <template_brief></template_brief>
+    <is_index>0</is_index>
+  </template>
+  <template template_id="6F4F52F043614587B093ACE8F0FB6A00">
+    <template_no>m_add_user</template_no>
+    <publish_date></publish_date>
+    <modified_date>2016-10-16 12:57:07</modified_date>
+    <publish_by></publish_by>
+    <create_by></create_by>
+    <template_status>0</template_status>
+    <file_publish_path><![CDATA[/WEB-INF/plat_files/views/module_view/author_group/user_manage//publish/m_add_user.ftl]]></file_publish_path>
+    <template_url>/conf/plat/module/user_manage/template/m_add_user.ftl</template_url>
+    <template_type>1</template_type>
+    <publish_status>0</publish_status>
+    <parse_type>0</parse_type>
+    <file_type>1</file_type>
+    <content><![CDATA[template/m_add_user.ftl]]></content>
+    <template_name>添加用户</template_name>
+    <window_width></window_width>
+    <create_date>2016-10-16 12:57:07</create_date>
+    <module_id>C6C9413EA0FC4EB1B777884DFA8B62D6</module_id>
+    <file_encoding>UTF-8</file_encoding>
+    <modified_by></modified_by>
+    <window_height></window_height>
+    <template_brief>用户管理之添加用户</template_brief>
+    <is_index>0</is_index>
+  </template>
+  <template template_id="F37C42591C68480597366297E61EE9FC">
+    <template_no>m_editpwd_user</template_no>
+    <publish_date></publish_date>
+    <modified_date>2016-10-16 14:40:46</modified_date>
+    <publish_by></publish_by>
+    <create_by></create_by>
+    <template_status>0</template_status>
+    <file_publish_path><![CDATA[/WEB-INF/plat_files/views/module_view/author_group/user_manage//publish/m_editpwd_user.ftl]]></file_publish_path>
+    <template_url>/conf/plat/module/user_manage/template/m_editpwd_user.ftl</template_url>
+    <template_type>1</template_type>
+    <publish_status>0</publish_status>
+    <parse_type>0</parse_type>
+    <file_type>1</file_type>
+    <content><![CDATA[template/m_editpwd_user.ftl]]></content>
+    <template_name>修改用户密码</template_name>
+    <window_width></window_width>
+    <create_date>2016-10-16 14:40:46</create_date>
+    <module_id>C6C9413EA0FC4EB1B777884DFA8B62D6</module_id>
+    <file_encoding>UTF-8</file_encoding>
+    <modified_by></modified_by>
+    <window_height></window_height>
+    <template_brief>修改用户密码</template_brief>
+    <is_index>0</is_index>
+  </template>
+  <template template_id="4003F58C31474E4A847AA6545F29CB8B">
+    <template_no>m_edit_user</template_no>
+    <publish_date></publish_date>
+    <modified_date>2016-10-16 12:58:01</modified_date>
+    <publish_by></publish_by>
+    <create_by></create_by>
+    <template_status>0</template_status>
+    <file_publish_path><![CDATA[/WEB-INF/plat_files/views/module_view/author_group/user_manage//publish/m_edit_user.ftl]]></file_publish_path>
+    <template_url>/conf/plat/module/user_manage/template/m_edit_user.ftl</template_url>
+    <template_type>1</template_type>
+    <publish_status>0</publish_status>
+    <parse_type>0</parse_type>
+    <file_type>1</file_type>
+    <content><![CDATA[template/m_edit_user.ftl]]></content>
+    <template_name>修改用户</template_name>
+    <window_width></window_width>
+    <create_date>2016-10-16 12:58:01</create_date>
+    <module_id>C6C9413EA0FC4EB1B777884DFA8B62D6</module_id>
+    <file_encoding>UTF-8</file_encoding>
+    <modified_by></modified_by>
+    <window_height></window_height>
+    <template_brief>用户管理之修改用户</template_brief>
+    <is_index>0</is_index>
+  </template>
+  <template template_id="e8f8e2e7ca9046088b5636bf473d4daa">
+    <template_no>m_import_user</template_no>
+    <publish_date></publish_date>
+    <modified_date>2017-11-21 09:58:10</modified_date>
+    <publish_by></publish_by>
+    <create_by>admin</create_by>
+    <template_status>0</template_status>
+    <file_publish_path><![CDATA[/WEB-INF/plat_files/views/module_view/author_group/user_manage//publish/m_import_user.ftl]]></file_publish_path>
+    <template_url>/conf/plat/module/user_manage/template/m_import_user.ftl</template_url>
+    <template_type>1</template_type>
+    <publish_status>0</publish_status>
+    <parse_type>0</parse_type>
+    <file_type>1</file_type>
+    <content><![CDATA[template/m_import_user.ftl]]></content>
+    <template_name>导入用户信息</template_name>
+    <window_width></window_width>
+    <create_date>2017-11-21 09:58:10</create_date>
+    <module_id>C6C9413EA0FC4EB1B777884DFA8B62D6</module_id>
+    <file_encoding>UTF-8</file_encoding>
+    <modified_by>admin</modified_by>
+    <window_height></window_height>
+    <template_brief></template_brief>
+    <is_index>0</is_index>
+  </template>
+  <template template_id="87C4A8D3AF374C7FBE598B0DD16232C8">
+    <template_no>m_list_user</template_no>
+    <publish_date></publish_date>
+    <modified_date>2016-11-14 10:43:08</modified_date>
+    <publish_by></publish_by>
+    <create_by>admin</create_by>
+    <template_status>0</template_status>
+    <file_publish_path><![CDATA[/WEB-INF/plat_files/views/module_view/author_group/user_manage//publish/m_list_user.ftl]]></file_publish_path>
+    <template_url>/conf/plat/module/user_manage/template/m_list_user.ftl</template_url>
+    <template_type>1</template_type>
+    <publish_status>0</publish_status>
+    <parse_type>0</parse_type>
+    <file_type>1</file_type>
+    <content><![CDATA[template/m_list_user.ftl]]></content>
+    <template_name>用户管理首页</template_name>
+    <window_width></window_width>
+    <create_date>2016-11-14 10:43:08</create_date>
+    <module_id>C6C9413EA0FC4EB1B777884DFA8B62D6</module_id>
+    <file_encoding>UTF-8</file_encoding>
+    <modified_by>admin</modified_by>
+    <window_height></window_height>
+    <template_brief>权限管理模块下的用户管理</template_brief>
+    <is_index>1</is_index>
+  </template>
+  <template template_id="dee6628d46284880969e2a0d55256005">
+    <template_no>m_query_resetpassowrd</template_no>
+    <publish_date></publish_date>
+    <modified_date>2016-12-30 14:59:41</modified_date>
+    <publish_by></publish_by>
+    <create_by>chengs</create_by>
+    <template_status>0</template_status>
+    <file_publish_path><![CDATA[/WEB-INF/plat_files/views/module_view/author_group/user_manage//publish/m_query_resetpassowrd.ftl]]></file_publish_path>
+    <template_url>/conf/plat/module/user_manage/template/m_query_resetpassowrd.ftl</template_url>
+    <template_type>1</template_type>
+    <publish_status>0</publish_status>
+    <parse_type>0</parse_type>
+    <file_type>1</file_type>
+    <content><![CDATA[template/m_query_resetpassowrd.ftl]]></content>
+    <template_name>重置密码账号</template_name>
+    <window_width></window_width>
+    <create_date>2016-12-30 14:59:41</create_date>
+    <module_id>C6C9413EA0FC4EB1B777884DFA8B62D6</module_id>
+    <file_encoding>UTF-8</file_encoding>
+    <modified_by>chengs</modified_by>
+    <window_height></window_height>
+    <template_brief></template_brief>
+    <is_index>0</is_index>
+  </template>
+  <template template_id="6318a6f8180f468fa9bc6d414e6d7172">
+    <template_no>m_user_account</template_no>
+    <publish_date></publish_date>
+    <modified_date>2016-12-30 17:45:39</modified_date>
+    <publish_by></publish_by>
+    <create_by>chengs</create_by>
+    <template_status>0</template_status>
+    <file_publish_path><![CDATA[/WEB-INF/plat_files/views/module_view/author_group/user_manage//publish/m_user_account.ftl]]></file_publish_path>
+    <template_url>/conf/plat/module/user_manage/template/m_user_account.ftl</template_url>
+    <template_type>1</template_type>
+    <publish_status>0</publish_status>
+    <parse_type>0</parse_type>
+    <file_type>1</file_type>
+    <content><![CDATA[template/m_user_account.ftl]]></content>
+    <template_name>查看资金账号</template_name>
+    <window_width></window_width>
+    <create_date>2016-12-30 17:45:39</create_date>
+    <module_id>C6C9413EA0FC4EB1B777884DFA8B62D6</module_id>
+    <file_encoding>UTF-8</file_encoding>
+    <modified_by>chengs</modified_by>
+    <window_height></window_height>
+    <template_brief></template_brief>
+    <is_index>0</is_index>
+  </template>
+  <template template_id="fd64f1ebeb6146ae8230bc12ff08fa75">
+    <template_no>m_user_info</template_no>
+    <publish_date></publish_date>
+    <modified_date>2017-01-11 18:00:50</modified_date>
+    <publish_by></publish_by>
+    <create_by>admin</create_by>
+    <template_status>0</template_status>
+    <file_publish_path><![CDATA[/WEB-INF/plat_files/views/module_view/author_group/user_manage//publish/m_user_info.ftl]]></file_publish_path>
+    <template_url>/conf/plat/module/user_manage/template/m_list_info.ftl</template_url>
+    <template_type>1</template_type>
+    <publish_status>0</publish_status>
+    <parse_type>0</parse_type>
+    <file_type>1</file_type>
+    <content><![CDATA[template/m_user_info.ftl]]></content>
+    <template_name>查看详情</template_name>
+    <window_width></window_width>
+    <create_date>2017-01-11 18:00:50</create_date>
+    <module_id>C6C9413EA0FC4EB1B777884DFA8B62D6</module_id>
+    <file_encoding>UTF-8</file_encoding>
+    <modified_by>admin</modified_by>
+    <window_height></window_height>
+    <template_brief></template_brief>
+    <is_index>0</is_index>
+  </template>
+  <template template_id="59d6a4f9ba56449dafc39c5075a7a8c1">
+    <template_no>m_user_rights</template_no>
+    <publish_date></publish_date>
+    <modified_date>2016-11-22 15:15:21</modified_date>
+    <publish_by></publish_by>
+    <create_by>wanzj</create_by>
+    <template_status>0</template_status>
+    <file_publish_path><![CDATA[/WEB-INF/plat_files/views/module_view/author_group/user_manage//publish/m_user_rights.ftl]]></file_publish_path>
+    <template_url>/conf/plat/module/user_manage/template/m_user_rights.ftl</template_url>
+    <template_type>1</template_type>
+    <publish_status>0</publish_status>
+    <parse_type>0</parse_type>
+    <file_type>0</file_type>
+    <content><![CDATA[template/m_user_rights.ftl]]></content>
+    <template_name>用户权限</template_name>
+    <window_width></window_width>
+    <create_date>2016-11-22 15:15:21</create_date>
+    <module_id>C6C9413EA0FC4EB1B777884DFA8B62D6</module_id>
+    <file_encoding>UTF-8</file_encoding>
+    <modified_by>wanzj</modified_by>
+    <window_height></window_height>
+    <template_brief></template_brief>
+    <is_index>0</is_index>
+  </template>
+</templates>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="GBK"?>
+
+<modules>
+  <module module_id="874e8cf42dac42a4be0346d1b5e47df7">
+    <create_date>2016-10-13 13:39:15</create_date>
+    <modified_date>2016-10-13 13:39:15</modified_date>
+    <modified_by></modified_by>
+    <create_by></create_by>
+    <description></description>
+    <name>权限管理中心</name>
+    <module_no>m_7df7_63</module_no>
+    <version_id>694f2e4638ba46728a75ecb5a408deb7</version_id>
+    <module_type_id>4744dcfbfa8c4bb4adf75b3feb9a965e</module_type_id>
+  </module>
+  <module_type module_type_id="4744dcfbfa8c4bb4adf75b3feb9a965e">
+    <module_type_no>author_group</module_type_no>
+    <module_type_name>权限相关模块</module_type_name>
+    <create_date>2016/09/26 19:18:39</create_date>
+    <modified_date>2016/09/26 19:18:39</modified_date>
+    <modified_by></modified_by>
+    <create_by></create_by>
+    <parent_id>0</parent_id>
+  </module_type>
+</modules>

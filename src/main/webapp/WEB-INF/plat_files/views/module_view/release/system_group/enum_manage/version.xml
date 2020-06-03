@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="GBK"?>
+
+<versions>
+  <version version_id="31416c685f6144c68f56884125d179f5">
+    <publish_date>2018-08-22 16:51:54</publish_date>
+    <publish_by>admin</publish_by>
+    <module_id>DA85BBA1BA704C0A80CFC810F22486CE</module_id>
+    <version_type>1</version_type>
+    <update_content>413</update_content>
+    <remarks>413</remarks>
+    <module_no>enum_manage</module_no>
+    <module_name>数据字典管理</module_name>
+    <module_type_id>63285667F7B94D6992A13D26817CB6F5</module_type_id>
+    <version>412</version>
+  </version>
+  <version version_id="299416FD8C1E45AB8A0EA7434C735832">
+    <publish_date></publish_date>
+    <publish_by></publish_by>
+    <module_id>DA85BBA1BA704C0A80CFC810F22486CE</module_id>
+    <version_type>0</version_type>
+    <update_content></update_content>
+    <remarks>412</remarks>
+    <module_no>enum_manage</module_no>
+    <module_name>数据字典管理</module_name>
+    <module_type_id>63285667F7B94D6992A13D26817CB6F5</module_type_id>
+    <version>413</version>
+  </version>
+</versions>

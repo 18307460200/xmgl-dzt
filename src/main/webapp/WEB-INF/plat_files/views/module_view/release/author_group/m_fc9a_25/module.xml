@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="GBK"?>
+
+<modules>
+  <module module_id="cdddd89c3c8f44d0b0a1ccf3dfcefc9a">
+    <create_date>2016-10-29 13:47:42</create_date>
+    <modified_date>2016-10-29 13:47:42</modified_date>
+    <modified_by></modified_by>
+    <create_by></create_by>
+    <description>数据权限要素管理</description>
+    <name>数据权限要素管理</name>
+    <module_no>m_fc9a_25</module_no>
+    <version_id>216eee3f79e344c8a943a21b172dda80</version_id>
+    <module_type_id>4744dcfbfa8c4bb4adf75b3feb9a965e</module_type_id>
+  </module>
+  <module_type module_type_id="4744dcfbfa8c4bb4adf75b3feb9a965e">
+    <module_type_no>author_group</module_type_no>
+    <module_type_name>权限相关模块</module_type_name>
+    <create_date>2016/09/26 19:18:39</create_date>
+    <modified_date>2016/09/26 19:18:39</modified_date>
+    <modified_by></modified_by>
+    <create_by></create_by>
+    <parent_id>0</parent_id>
+  </module_type>
+</modules>

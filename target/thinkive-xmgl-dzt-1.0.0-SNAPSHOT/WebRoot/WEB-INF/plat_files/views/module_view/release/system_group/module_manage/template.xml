@@ -1,0 +1,379 @@
+<?xml version="1.0" encoding="GBK"?>
+
+<templates>
+  <template template_id="1DF109F5E7274956AD51D7C93129E7F4">
+    <template_no>m_add_event</template_no>
+    <publish_date></publish_date>
+    <modified_date>2016-11-04 10:44:17</modified_date>
+    <publish_by></publish_by>
+    <create_by>admin</create_by>
+    <template_status>0</template_status>
+    <file_publish_path><![CDATA[/WEB-INF/plat_files/views/module_view/system_group/module_manage//publish/m_add_event.ftl]]></file_publish_path>
+    <template_url>/conf/plat/module/module_manage/template/m_add_event.ftl</template_url>
+    <version_id>b2e8961ff06546feb1875a4912ce91e9</version_id>
+    <template_type>1</template_type>
+    <publish_status>0</publish_status>
+    <parse_type>0</parse_type>
+    <file_type>1</file_type>
+    <content><![CDATA[template/m_add_event.ftl]]></content>
+    <template_name>添加事件</template_name>
+    <window_width></window_width>
+    <create_date>2016-11-04 10:44:17</create_date>
+    <module_id>9A3E1C18B37E48F48D1A194B564AE952</module_id>
+    <file_encoding>UTF-8</file_encoding>
+    <modified_by>admin</modified_by>
+    <window_height></window_height>
+    <template_brief>添加事件</template_brief>
+    <is_index>0</is_index>
+  </template>
+  <template template_id="4F9C5B549FF446AFBDEC2EA701FB8EA7">
+    <template_no>m_add_module</template_no>
+    <publish_date></publish_date>
+    <modified_date>2016-10-18 19:10:23</modified_date>
+    <publish_by></publish_by>
+    <create_by>admin</create_by>
+    <template_status>0</template_status>
+    <file_publish_path><![CDATA[/WEB-INF/plat_files/views/module_view/system_group/module_manage//publish/m_add_module.ftl]]></file_publish_path>
+    <template_url>/conf/plat/module/module_manage/template/m_add_module.ftl</template_url>
+    <version_id>b2e8961ff06546feb1875a4912ce91e9</version_id>
+    <template_type>1</template_type>
+    <publish_status>0</publish_status>
+    <parse_type>0</parse_type>
+    <file_type>1</file_type>
+    <content><![CDATA[template/m_add_module.ftl]]></content>
+    <template_name>添加模块</template_name>
+    <window_width></window_width>
+    <create_date>2016-10-18 19:10:23</create_date>
+    <module_id>9A3E1C18B37E48F48D1A194B564AE952</module_id>
+    <file_encoding>UTF-8</file_encoding>
+    <modified_by>admin</modified_by>
+    <window_height></window_height>
+    <template_brief>添加模块功能</template_brief>
+    <is_index>0</is_index>
+  </template>
+  <template template_id="365EB05E1BCC441AA225A8F60FA1BF19">
+    <template_no>m_add_module_type</template_no>
+    <publish_date></publish_date>
+    <modified_date>2016-10-18 19:10:49</modified_date>
+    <publish_by></publish_by>
+    <create_by>admin</create_by>
+    <template_status>0</template_status>
+    <file_publish_path><![CDATA[/WEB-INF/plat_files/views/module_view/system_group/module_manage//publish/m_add_module_type.ftl]]></file_publish_path>
+    <template_url>/conf/plat/module/module_manage/template/m_add_module_type.ftl</template_url>
+    <version_id>b2e8961ff06546feb1875a4912ce91e9</version_id>
+    <template_type>1</template_type>
+    <publish_status>0</publish_status>
+    <parse_type>0</parse_type>
+    <file_type>1</file_type>
+    <content><![CDATA[template/m_add_module_type.ftl]]></content>
+    <template_name>添加模块类型</template_name>
+    <window_width></window_width>
+    <create_date>2016-10-18 19:10:49</create_date>
+    <module_id>9A3E1C18B37E48F48D1A194B564AE952</module_id>
+    <file_encoding>UTF-8</file_encoding>
+    <modified_by>admin</modified_by>
+    <window_height></window_height>
+    <template_brief>添加模块类型</template_brief>
+    <is_index>0</is_index>
+  </template>
+  <template template_id="795E6E3FD3C843618E813850FE4958C3">
+    <template_no>m_add_sql</template_no>
+    <publish_date></publish_date>
+    <modified_date>2016-10-20 16:00:42</modified_date>
+    <publish_by></publish_by>
+    <create_by>admin</create_by>
+    <template_status>0</template_status>
+    <file_publish_path><![CDATA[/WEB-INF/plat_files/views/module_view/system_group/module_manage//publish/m_add_sql.ftl]]></file_publish_path>
+    <template_url>/conf/plat/module/module_manage/template/m_add_sql.ftl</template_url>
+    <version_id>b2e8961ff06546feb1875a4912ce91e9</version_id>
+    <template_type>1</template_type>
+    <publish_status>0</publish_status>
+    <parse_type>0</parse_type>
+    <file_type>1</file_type>
+    <content><![CDATA[template/m_add_sql.ftl]]></content>
+    <template_name>添加sql</template_name>
+    <window_width></window_width>
+    <create_date>2016-10-20 16:00:42</create_date>
+    <module_id>9A3E1C18B37E48F48D1A194B564AE952</module_id>
+    <file_encoding>UTF-8</file_encoding>
+    <modified_by>admin</modified_by>
+    <window_height></window_height>
+    <template_brief>添加sql</template_brief>
+    <is_index>0</is_index>
+  </template>
+  <template template_id="52344B67567F494E87A8E8E60EC8743B">
+    <template_no>m_add_sql_n</template_no>
+    <publish_date></publish_date>
+    <modified_date>2016-10-20 16:00:22</modified_date>
+    <publish_by></publish_by>
+    <create_by>admin</create_by>
+    <template_status>0</template_status>
+    <file_publish_path><![CDATA[/WEB-INF/plat_files/views/module_view/system_group/module_manage//publish/m_add_sql_n.ftl]]></file_publish_path>
+    <template_url>/conf/plat/module/module_manage/template/m_add_sql_n.ftl</template_url>
+    <version_id>b2e8961ff06546feb1875a4912ce91e9</version_id>
+    <template_type>1</template_type>
+    <publish_status>0</publish_status>
+    <parse_type>0</parse_type>
+    <file_type>1</file_type>
+    <content><![CDATA[template/m_add_sql_n.ftl]]></content>
+    <template_name>批量添加sql</template_name>
+    <window_width></window_width>
+    <create_date>2016-10-20 16:00:22</create_date>
+    <module_id>9A3E1C18B37E48F48D1A194B564AE952</module_id>
+    <file_encoding>UTF-8</file_encoding>
+    <modified_by>admin</modified_by>
+    <window_height></window_height>
+    <template_brief></template_brief>
+    <is_index>0</is_index>
+  </template>
+  <template template_id="1BB69F3B111749E48D6AC7E75C676D92">
+    <template_no>m_add_template</template_no>
+    <publish_date></publish_date>
+    <modified_date>2016-10-18 19:11:24</modified_date>
+    <publish_by></publish_by>
+    <create_by>admin</create_by>
+    <template_status>0</template_status>
+    <file_publish_path><![CDATA[/WEB-INF/plat_files/views/module_view/system_group/module_manage//publish/m_add_template.ftl]]></file_publish_path>
+    <template_url>/conf/plat/module/module_manage/template/m_add_template.ftl</template_url>
+    <version_id>b2e8961ff06546feb1875a4912ce91e9</version_id>
+    <template_type>1</template_type>
+    <publish_status>0</publish_status>
+    <parse_type>0</parse_type>
+    <file_type>1</file_type>
+    <content><![CDATA[template/m_add_template.ftl]]></content>
+    <template_name>添加模板</template_name>
+    <window_width></window_width>
+    <create_date>2016-10-18 19:11:24</create_date>
+    <module_id>9A3E1C18B37E48F48D1A194B564AE952</module_id>
+    <file_encoding>UTF-8</file_encoding>
+    <modified_by>admin</modified_by>
+    <window_height></window_height>
+    <template_brief>添加模板功能</template_brief>
+    <is_index>0</is_index>
+  </template>
+  <template template_id="8BBD3A2C2F534418AACEBD318B604105">
+    <template_no>m_edite_event</template_no>
+    <publish_date></publish_date>
+    <modified_date>2016-11-04 19:34:00</modified_date>
+    <publish_by></publish_by>
+    <create_by>admin</create_by>
+    <template_status>0</template_status>
+    <file_publish_path><![CDATA[/WEB-INF/plat_files/views/module_view/system_group/module_manage//publish/m_edite_event.ftl]]></file_publish_path>
+    <template_url>/conf/plat/module/module_manage/template/m_edite_event.ftl</template_url>
+    <version_id>b2e8961ff06546feb1875a4912ce91e9</version_id>
+    <template_type>1</template_type>
+    <publish_status>0</publish_status>
+    <parse_type>0</parse_type>
+    <file_type>1</file_type>
+    <content><![CDATA[template/m_edite_event.ftl]]></content>
+    <template_name>修改事件</template_name>
+    <window_width></window_width>
+    <create_date>2016-11-04 19:34:00</create_date>
+    <module_id>9A3E1C18B37E48F48D1A194B564AE952</module_id>
+    <file_encoding>UTF-8</file_encoding>
+    <modified_by>admin</modified_by>
+    <window_height></window_height>
+    <template_brief>修改事件</template_brief>
+    <is_index>0</is_index>
+  </template>
+  <template template_id="DAFB2E5C890840B2AEFF9CFD66050803">
+    <template_no>m_edite_module_type</template_no>
+    <publish_date></publish_date>
+    <modified_date>2016-10-18 19:12:14</modified_date>
+    <publish_by></publish_by>
+    <create_by>admin</create_by>
+    <template_status>0</template_status>
+    <file_publish_path><![CDATA[/WEB-INF/plat_files/views/module_view/system_group/module_manage//publish/m_edite_module_type.ftl]]></file_publish_path>
+    <template_url>/conf/plat/module/module_manage/template/m_edite_module_type.ftl</template_url>
+    <version_id>b2e8961ff06546feb1875a4912ce91e9</version_id>
+    <template_type>1</template_type>
+    <publish_status>0</publish_status>
+    <parse_type>0</parse_type>
+    <file_type>1</file_type>
+    <content><![CDATA[template/m_edite_module_type.ftl]]></content>
+    <template_name>修改模块类型</template_name>
+    <window_width></window_width>
+    <create_date>2016-10-18 19:12:14</create_date>
+    <module_id>9A3E1C18B37E48F48D1A194B564AE952</module_id>
+    <file_encoding>UTF-8</file_encoding>
+    <modified_by>admin</modified_by>
+    <window_height></window_height>
+    <template_brief>修改模块类型</template_brief>
+    <is_index>0</is_index>
+  </template>
+  <template template_id="E57DEA65A0D54FE4B1E12319C884F04D">
+    <template_no>m_edite_template</template_no>
+    <publish_date></publish_date>
+    <modified_date>2016-10-18 19:12:58</modified_date>
+    <publish_by></publish_by>
+    <create_by>admin</create_by>
+    <template_status>0</template_status>
+    <file_publish_path><![CDATA[/WEB-INF/plat_files/views/module_view/system_group/module_manage//publish/m_edite_template.ftl]]></file_publish_path>
+    <template_url>/conf/plat/module/module_manage/template/m_edite_template.ftl</template_url>
+    <version_id>b2e8961ff06546feb1875a4912ce91e9</version_id>
+    <template_type>1</template_type>
+    <publish_status>0</publish_status>
+    <parse_type>0</parse_type>
+    <file_type>1</file_type>
+    <content><![CDATA[template/m_edite_template.ftl]]></content>
+    <template_name>修改模板</template_name>
+    <window_width></window_width>
+    <create_date>2016-10-18 19:12:58</create_date>
+    <module_id>9A3E1C18B37E48F48D1A194B564AE952</module_id>
+    <file_encoding>UTF-8</file_encoding>
+    <modified_by>admin</modified_by>
+    <window_height></window_height>
+    <template_brief>修改模板</template_brief>
+    <is_index>0</is_index>
+  </template>
+  <template template_id="E8DF75248D7844C09DE1A4BB269A1E9B">
+    <template_no>m_edit_module</template_no>
+    <publish_date></publish_date>
+    <modified_date>2016-10-18 19:11:40</modified_date>
+    <publish_by></publish_by>
+    <create_by>admin</create_by>
+    <template_status>0</template_status>
+    <file_publish_path><![CDATA[/WEB-INF/plat_files/views/module_view/system_group/module_manage//publish/m_edit_module.ftl]]></file_publish_path>
+    <template_url>/conf/plat/module/module_manage/template/m_edit_module.ftl</template_url>
+    <version_id>b2e8961ff06546feb1875a4912ce91e9</version_id>
+    <template_type>1</template_type>
+    <publish_status>0</publish_status>
+    <parse_type>0</parse_type>
+    <file_type>1</file_type>
+    <content><![CDATA[template/m_edit_module.ftl]]></content>
+    <template_name>修改模块</template_name>
+    <window_width></window_width>
+    <create_date>2016-10-18 19:11:40</create_date>
+    <module_id>9A3E1C18B37E48F48D1A194B564AE952</module_id>
+    <file_encoding>UTF-8</file_encoding>
+    <modified_by>admin</modified_by>
+    <window_height></window_height>
+    <template_brief>修改模块功能</template_brief>
+    <is_index>0</is_index>
+  </template>
+  <template template_id="4348a59c901b44018fd21f01f65958ae">
+    <template_no>m_edit_sql</template_no>
+    <publish_date></publish_date>
+    <modified_date>2016-10-20 17:40:21</modified_date>
+    <publish_by></publish_by>
+    <create_by>admin</create_by>
+    <template_status>0</template_status>
+    <file_publish_path><![CDATA[/WEB-INF/plat_files/views/module_view/system_group/module_manage//publish/m_edit_sql.ftl]]></file_publish_path>
+    <template_url>/conf/plat/module/module_manage/template/m_edit_sql.ftl</template_url>
+    <version_id>b2e8961ff06546feb1875a4912ce91e9</version_id>
+    <template_type>1</template_type>
+    <publish_status>0</publish_status>
+    <parse_type>0</parse_type>
+    <file_type>1</file_type>
+    <content><![CDATA[template/m_edit_sql.ftl]]></content>
+    <template_name>修改sql</template_name>
+    <window_width></window_width>
+    <create_date>2016-10-20 17:40:21</create_date>
+    <module_id>9A3E1C18B37E48F48D1A194B564AE952</module_id>
+    <file_encoding>UTF-8</file_encoding>
+    <modified_by>admin</modified_by>
+    <window_height></window_height>
+    <template_brief></template_brief>
+    <is_index>0</is_index>
+  </template>
+  <template template_id="7230eeee4bc840cc8ec2016977cc36af">
+    <template_no>m_edit_sql_n</template_no>
+    <publish_date></publish_date>
+    <modified_date>2016-10-20 17:40:09</modified_date>
+    <publish_by></publish_by>
+    <create_by>admin</create_by>
+    <template_status>0</template_status>
+    <file_publish_path><![CDATA[/WEB-INF/plat_files/views/module_view/system_group/module_manage//publish/m_edit_sql_n.ftl]]></file_publish_path>
+    <template_url>/conf/plat/module/module_manage/template/m_edit_sql_n.ftl</template_url>
+    <version_id>b2e8961ff06546feb1875a4912ce91e9</version_id>
+    <template_type>1</template_type>
+    <publish_status>0</publish_status>
+    <parse_type>0</parse_type>
+    <file_type>1</file_type>
+    <content><![CDATA[template/m_edit_sql_n.ftl]]></content>
+    <template_name>批量修改sql</template_name>
+    <window_width></window_width>
+    <create_date>2016-10-20 17:40:09</create_date>
+    <module_id>9A3E1C18B37E48F48D1A194B564AE952</module_id>
+    <file_encoding>UTF-8</file_encoding>
+    <modified_by>admin</modified_by>
+    <window_height></window_height>
+    <template_brief></template_brief>
+    <is_index>0</is_index>
+  </template>
+  <template template_id="355844C0797B4ADB8C80B14C87B3D81F">
+    <template_no>m_list_module</template_no>
+    <publish_date></publish_date>
+    <modified_date>2017-10-13 10:57:31</modified_date>
+    <publish_by></publish_by>
+    <create_by>admin</create_by>
+    <template_status>0</template_status>
+    <file_publish_path><![CDATA[/WEB-INF/plat_files/views/module_view/system_group/module_manage//publish/m_list_module.ftl]]></file_publish_path>
+    <template_url>/conf/plat/module/module_manage/template/m_list_module.ftl</template_url>
+    <version_id>b2e8961ff06546feb1875a4912ce91e9</version_id>
+    <template_type>1</template_type>
+    <publish_status>0</publish_status>
+    <parse_type>0</parse_type>
+    <file_type>1</file_type>
+    <content><![CDATA[template/m_list_module.ftl]]></content>
+    <template_name>模块列表</template_name>
+    <window_width></window_width>
+    <create_date>2017-10-13 10:57:31</create_date>
+    <module_id>9A3E1C18B37E48F48D1A194B564AE952</module_id>
+    <file_encoding>UTF-8</file_encoding>
+    <modified_by>admin</modified_by>
+    <window_height></window_height>
+    <template_brief>模块列表功能</template_brief>
+    <is_index>1</is_index>
+  </template>
+  <template template_id="487EF97332E84A59A491FE0E727676EF">
+    <template_no>m_list_template</template_no>
+    <publish_date></publish_date>
+    <modified_date>2016-10-18 19:13:30</modified_date>
+    <publish_by></publish_by>
+    <create_by>admin</create_by>
+    <template_status>0</template_status>
+    <file_publish_path><![CDATA[/WEB-INF/plat_files/views/module_view/system_group/module_manage//publish/m_list_template.ftl]]></file_publish_path>
+    <template_url>/conf/plat/module/module_manage/template/m_list_template.ftl</template_url>
+    <version_id>b2e8961ff06546feb1875a4912ce91e9</version_id>
+    <template_type>1</template_type>
+    <publish_status>0</publish_status>
+    <parse_type>0</parse_type>
+    <file_type>1</file_type>
+    <content><![CDATA[template/m_list_template.ftl]]></content>
+    <template_name>模板列表</template_name>
+    <window_width></window_width>
+    <create_date>2016-10-18 19:13:30</create_date>
+    <module_id>9A3E1C18B37E48F48D1A194B564AE952</module_id>
+    <file_encoding>UTF-8</file_encoding>
+    <modified_by>admin</modified_by>
+    <window_height></window_height>
+    <template_brief>查询模板列表</template_brief>
+    <is_index>0</is_index>
+  </template>
+  <template template_id="0B4599B48F8F41FB9AE06144111CA74C">
+    <template_no>m_publish_module</template_no>
+    <publish_date></publish_date>
+    <modified_date>2016-10-18 19:13:41</modified_date>
+    <publish_by></publish_by>
+    <create_by>admin</create_by>
+    <template_status>0</template_status>
+    <file_publish_path><![CDATA[/WEB-INF/plat_files/views/module_view/system_group/module_manage//publish/m_publish_module.ftl]]></file_publish_path>
+    <template_url>/conf/plat/module/module_manage/template/m_publish_module.ftl</template_url>
+    <version_id>b2e8961ff06546feb1875a4912ce91e9</version_id>
+    <template_type>1</template_type>
+    <publish_status>0</publish_status>
+    <parse_type>0</parse_type>
+    <file_type>1</file_type>
+    <content><![CDATA[template/m_publish_module.ftl]]></content>
+    <template_name>发布模块</template_name>
+    <window_width></window_width>
+    <create_date>2016-10-18 19:13:41</create_date>
+    <module_id>9A3E1C18B37E48F48D1A194B564AE952</module_id>
+    <file_encoding>UTF-8</file_encoding>
+    <modified_by>admin</modified_by>
+    <window_height></window_height>
+    <template_brief>发布模块</template_brief>
+    <is_index>0</is_index>
+  </template>
+</templates>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="GBK"?>
+
+<templates>
+  <template template_id="2b2179e815704ba9a4511071df6c9b03">
+    <template_no>m_add_fields</template_no>
+    <publish_date></publish_date>
+    <modified_date>2016-10-29 14:21:34</modified_date>
+    <publish_by></publish_by>
+    <create_by>admin</create_by>
+    <template_status>0</template_status>
+    <file_publish_path><![CDATA[/WEB-INF/plat_files/views/module_view/author_group/m_fc9a_25//publish/m_add_fields.ftl]]></file_publish_path>
+    <template_url>/conf/plat/module/rights_data_fields_manage/template/m_add_fields.ftl</template_url>
+    <version_id>5084f8b179e6431f910d6da5026aa6fa</version_id>
+    <template_type>1</template_type>
+    <publish_status>0</publish_status>
+    <parse_type>0</parse_type>
+    <file_type>1</file_type>
+    <content><![CDATA[template/m_add_fields.ftl]]></content>
+    <template_name>新增权限要素模版</template_name>
+    <window_width></window_width>
+    <create_date>2016-10-29 14:21:34</create_date>
+    <module_id>cdddd89c3c8f44d0b0a1ccf3dfcefc9a</module_id>
+    <file_encoding>UTF-8</file_encoding>
+    <modified_by>admin</modified_by>
+    <window_height></window_height>
+    <template_brief></template_brief>
+    <is_index>0</is_index>
+  </template>
+  <template template_id="36c14a4c069d42cba64d83df0580e271">
+    <template_no>m_edit_fields</template_no>
+    <publish_date></publish_date>
+    <modified_date>2016-10-29 15:08:02</modified_date>
+    <publish_by></publish_by>
+    <create_by>admin</create_by>
+    <template_status>0</template_status>
+    <file_publish_path><![CDATA[/WEB-INF/plat_files/views/module_view/author_group/m_fc9a_25//publish/m_edit_fields.ftl]]></file_publish_path>
+    <template_url>/conf/plat/module/rights_data_fields_manage/template/m_edit_fields.ftl</template_url>
+    <version_id>5084f8b179e6431f910d6da5026aa6fa</version_id>
+    <template_type>1</template_type>
+    <publish_status>0</publish_status>
+    <parse_type>0</parse_type>
+    <file_type>1</file_type>
+    <content><![CDATA[template/m_edit_fields.ftl]]></content>
+    <template_name>修改权限要素</template_name>
+    <window_width></window_width>
+    <create_date>2016-10-29 15:08:02</create_date>
+    <module_id>cdddd89c3c8f44d0b0a1ccf3dfcefc9a</module_id>
+    <file_encoding>UTF-8</file_encoding>
+    <modified_by>admin</modified_by>
+    <window_height></window_height>
+    <template_brief></template_brief>
+    <is_index>0</is_index>
+  </template>
+  <template template_id="037479105a9047868c2d493ac23fe49e">
+    <template_no>m_list_fields</template_no>
+    <publish_date></publish_date>
+    <modified_date>2016-10-29 13:57:12</modified_date>
+    <publish_by></publish_by>
+    <create_by>admin</create_by>
+    <template_status>0</template_status>
+    <file_publish_path><![CDATA[/WEB-INF/plat_files/views/module_view/author_group/m_fc9a_25//publish/m_list_fields.ftl]]></file_publish_path>
+    <template_url>/conf/plat/module/rights_data_fields_manage/template/m_list_fields.ftl</template_url>
+    <version_id>5084f8b179e6431f910d6da5026aa6fa</version_id>
+    <template_type>1</template_type>
+    <publish_status>0</publish_status>
+    <parse_type>0</parse_type>
+    <file_type>1</file_type>
+    <content><![CDATA[template/m_list_fields.ftl]]></content>
+    <template_name>数据权限要素管理</template_name>
+    <window_width></window_width>
+    <create_date>2016-10-29 13:57:12</create_date>
+    <module_id>cdddd89c3c8f44d0b0a1ccf3dfcefc9a</module_id>
+    <file_encoding>UTF-8</file_encoding>
+    <modified_by>admin</modified_by>
+    <window_height></window_height>
+    <template_brief></template_brief>
+    <is_index>1</is_index>
+  </template>
+</templates>

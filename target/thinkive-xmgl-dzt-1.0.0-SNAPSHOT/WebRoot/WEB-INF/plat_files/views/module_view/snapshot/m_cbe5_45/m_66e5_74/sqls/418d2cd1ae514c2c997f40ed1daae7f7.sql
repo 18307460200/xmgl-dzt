@@ -1,0 +1,56 @@
+<insert tables="t_xmglxt_project_management" >
+  <bind name="id" value="@com.thinkive.base.util.StringUtil@getUUID()"/>
+  <bind name="create_date" value="@com.thinkive.base.mybatis.sql.MyBatisSQLHelper@getCurrentDate()"/>
+  <bind name="update_date" value="@com.thinkive.base.mybatis.sql.MyBatisSQLHelper@getCurrentDate()"/>
+ insert into t_xmglxt_project_management( 
+ id, 
+ project_name, 
+ project_code, 
+ project_describe, 
+ predict_money, 
+ reality_money, 
+ department, 
+ manager, 
+ commerce, 
+ client_name, 
+ contract, 
+ project_progress, 
+ online_date, 
+ acceptance_date, 
+ plan_online_date, 
+ plan_report_date, 
+ plan_acceptance_date, 
+ plan_acceptance_report_date, 
+ project_state, 
+ product_project_progress, 
+ commerce_project_progress, 
+ risk_label, 
+ create_date, 
+ update_date
+) values (
+ #{id},
+ #{project_name},
+ #{project_code},
+ #{project_describe},
+ #{predict_money},
+ #{reality_money},
+ #{department},
+ #{manager},
+ #{commerce},
+ #{client_name},
+ #{contract},
+ #{project_progress},
+ #{online_date},
+ #{acceptance_date},
+ #{plan_online_date},
+ #{plan_report_date},
+ #{plan_acceptance_date},
+ #{plan_acceptance_report_date},
+ #{project_state},
+ #{product_project_progress},
+ #{commerce_project_progress},
+ #{risk_label},
+ #{create_date},
+ #{update_date}
+ )
+</insert>

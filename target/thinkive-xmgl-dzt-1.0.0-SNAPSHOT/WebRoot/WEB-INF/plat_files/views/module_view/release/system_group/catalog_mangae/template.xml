@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="GBK"?>
+
+<templates>
+  <template template_id="8B118F4489104354AE2E108550DFF07C">
+    <template_no>add_catalog</template_no>
+    <publish_date></publish_date>
+    <modified_date>2016-10-12 16:04:40</modified_date>
+    <publish_by></publish_by>
+    <create_by></create_by>
+    <template_status>0</template_status>
+    <file_publish_path><![CDATA[/WEB-INF/plat_files/views/module_view/system_group/catalog_mangae//publish/add_catalog.ftl]]></file_publish_path>
+    <template_url>/conf/plat/module/catalog_manage/template/add_catalog.ftl</template_url>
+    <version_id>daeecdb673bf4a1aa04229c3dd925c51</version_id>
+    <template_type>1</template_type>
+    <publish_status>0</publish_status>
+    <parse_type>0</parse_type>
+    <file_type>1</file_type>
+    <content><![CDATA[template/add_catalog.ftl]]></content>
+    <template_name>新增栏目</template_name>
+    <window_width></window_width>
+    <create_date>2016-10-12 16:04:40</create_date>
+    <module_id>6B6C3F43E51242E9BB8AF721BF83BE0E</module_id>
+    <file_encoding>UTF-8</file_encoding>
+    <modified_by></modified_by>
+    <window_height></window_height>
+    <template_brief>新增栏目模版</template_brief>
+    <is_index>0</is_index>
+  </template>
+  <template template_id="355454040A874C40AD7DB8E90F692C58">
+    <template_no>add_module</template_no>
+    <publish_date></publish_date>
+    <modified_date>2016-10-12 16:04:59</modified_date>
+    <publish_by></publish_by>
+    <create_by></create_by>
+    <template_status>0</template_status>
+    <file_publish_path><![CDATA[/WEB-INF/plat_files/views/module_view/system_group/catalog_mangae//publish/add_module.ftl]]></file_publish_path>
+    <template_url>/conf/plat/module/catalog_manage/template/add_module.ftl</template_url>
+    <version_id>daeecdb673bf4a1aa04229c3dd925c51</version_id>
+    <template_type>1</template_type>
+    <publish_status>0</publish_status>
+    <parse_type>0</parse_type>
+    <file_type>1</file_type>
+    <content><![CDATA[template/add_module.ftl]]></content>
+    <template_name>增加关联模块</template_name>
+    <window_width></window_width>
+    <create_date>2016-10-12 16:04:59</create_date>
+    <module_id>6B6C3F43E51242E9BB8AF721BF83BE0E</module_id>
+    <file_encoding>UTF-8</file_encoding>
+    <modified_by></modified_by>
+    <window_height></window_height>
+    <template_brief></template_brief>
+    <is_index>0</is_index>
+  </template>
+  <template template_id="581E99D9F65D43B982EF838014B7FD49">
+    <template_no>index</template_no>
+    <publish_date></publish_date>
+    <modified_date>2016-10-12 15:56:16</modified_date>
+    <publish_by></publish_by>
+    <create_by></create_by>
+    <template_status>0</template_status>
+    <file_publish_path><![CDATA[/WEB-INF/plat_files/views/module_view/system_group/catalog_mangae//publish/index.ftl]]></file_publish_path>
+    <template_url>/conf/plat/module/catalog_manage/template/index.ftl</template_url>
+    <version_id>daeecdb673bf4a1aa04229c3dd925c51</version_id>
+    <template_type>1</template_type>
+    <publish_status>0</publish_status>
+    <parse_type>0</parse_type>
+    <file_type>1</file_type>
+    <content><![CDATA[template/index.ftl]]></content>
+    <template_name>首页</template_name>
+    <window_width></window_width>
+    <create_date>2016-10-12 15:56:16</create_date>
+    <module_id>6B6C3F43E51242E9BB8AF721BF83BE0E</module_id>
+    <file_encoding>UTF-8</file_encoding>
+    <modified_by></modified_by>
+    <window_height></window_height>
+    <template_brief>系统栏目管理首页模版</template_brief>
+    <is_index>1</is_index>
+  </template>
+  <template template_id="4FECE448B3884316B7CC3659B295AAEA">
+    <template_no>update_catalog</template_no>
+    <publish_date></publish_date>
+    <modified_date>2016-10-12 16:05:57</modified_date>
+    <publish_by></publish_by>
+    <create_by></create_by>
+    <template_status>0</template_status>
+    <file_publish_path><![CDATA[/WEB-INF/plat_files/views/module_view/system_group/catalog_mangae//publish/update_catalog.ftl]]></file_publish_path>
+    <template_url>/conf/plat/module/catalog_manage/template/update_catalog.ftl</template_url>
+    <version_id>daeecdb673bf4a1aa04229c3dd925c51</version_id>
+    <template_type>1</template_type>
+    <publish_status>0</publish_status>
+    <parse_type>0</parse_type>
+    <file_type>1</file_type>
+    <content><![CDATA[template/update_catalog.ftl]]></content>
+    <template_name>修改栏目</template_name>
+    <window_width></window_width>
+    <create_date>2016-10-12 16:05:57</create_date>
+    <module_id>6B6C3F43E51242E9BB8AF721BF83BE0E</module_id>
+    <file_encoding>UTF-8</file_encoding>
+    <modified_by></modified_by>
+    <window_height></window_height>
+    <template_brief></template_brief>
+    <is_index>0</is_index>
+  </template>
+</templates>

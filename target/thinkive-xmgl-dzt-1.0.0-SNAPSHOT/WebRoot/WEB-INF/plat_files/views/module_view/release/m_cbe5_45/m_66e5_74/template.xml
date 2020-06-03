@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="GBK"?>
+
+<templates>
+  <template template_id="e01695edddbe4cb594fb537ceda7301c">
+    <template_no>m_add_product_affiliation</template_no>
+    <publish_date></publish_date>
+    <modified_date>2020-01-17 14:17:09</modified_date>
+    <publish_by></publish_by>
+    <create_by>admin</create_by>
+    <template_status>0</template_status>
+    <file_publish_path><![CDATA[/WEB-INF/plat_files/views/module_view/m_cbe5_45/m_66e5_74//publish/m_add_product_affiliation.ftl]]></file_publish_path>
+    <template_url></template_url>
+    <version_id>c131c2f97abb4461b63a45a172f4d93d</version_id>
+    <template_type>1</template_type>
+    <publish_status>0</publish_status>
+    <parse_type>0</parse_type>
+    <file_type>0</file_type>
+    <content><![CDATA[template/m_add_product_affiliation.ftl]]></content>
+    <template_name>添加产品归属</template_name>
+    <window_width></window_width>
+    <create_date>2020-01-17 14:17:09</create_date>
+    <module_id>68a61f039dbd4e929e8426c681de66e5</module_id>
+    <file_encoding>UTF-8</file_encoding>
+    <modified_by>admin</modified_by>
+    <window_height></window_height>
+    <template_brief></template_brief>
+    <is_index>0</is_index>
+  </template>
+  <template template_id="a019b8148a1e48d48aa837b9d4e676ca">
+    <template_no>m_add_project</template_no>
+    <publish_date></publish_date>
+    <modified_date>2020-04-26 14:13:49</modified_date>
+    <publish_by></publish_by>
+    <create_by>admin</create_by>
+    <template_status>0</template_status>
+    <file_publish_path><![CDATA[/WEB-INF/plat_files/views/module_view/m_cbe5_45/m_66e5_74//publish/m_add_project.ftl]]></file_publish_path>
+    <template_url></template_url>
+    <version_id>c131c2f97abb4461b63a45a172f4d93d</version_id>
+    <template_type>1</template_type>
+    <publish_status>0</publish_status>
+    <parse_type>0</parse_type>
+    <file_type>0</file_type>
+    <content><![CDATA[template/m_add_project.ftl]]></content>
+    <template_name>新增项目</template_name>
+    <window_width></window_width>
+    <create_date>2020-04-26 14:13:49</create_date>
+    <module_id>68a61f039dbd4e929e8426c681de66e5</module_id>
+    <file_encoding>UTF-8</file_encoding>
+    <modified_by>admin</modified_by>
+    <window_height></window_height>
+    <template_brief></template_brief>
+    <is_index>0</is_index>
+  </template>
+  <template template_id="5acd437863f747c5ab768f0b84756642">
+    <template_no>m_edite_project</template_no>
+    <publish_date></publish_date>
+    <modified_date>2020-04-26 14:13:14</modified_date>
+    <publish_by></publish_by>
+    <create_by>admin</create_by>
+    <template_status>0</template_status>
+    <file_publish_path><![CDATA[/WEB-INF/plat_files/views/module_view/m_cbe5_45/m_66e5_74//publish/m_edite_project.ftl]]></file_publish_path>
+    <template_url></template_url>
+    <version_id>c131c2f97abb4461b63a45a172f4d93d</version_id>
+    <template_type>1</template_type>
+    <publish_status>0</publish_status>
+    <parse_type>0</parse_type>
+    <file_type>0</file_type>
+    <content><![CDATA[template/m_edite_project.ftl]]></content>
+    <template_name>修改项目</template_name>
+    <window_width></window_width>
+    <create_date>2020-04-26 14:13:14</create_date>
+    <module_id>68a61f039dbd4e929e8426c681de66e5</module_id>
+    <file_encoding>UTF-8</file_encoding>
+    <modified_by>admin</modified_by>
+    <window_height></window_height>
+    <template_brief></template_brief>
+    <is_index>0</is_index>
+  </template>
+  <template template_id="d7f5ca68215d4151a50fb09a5c6c7975">
+    <template_no>m_project_list</template_no>
+    <publish_date></publish_date>
+    <modified_date>2020-04-26 14:03:48</modified_date>
+    <publish_by></publish_by>
+    <create_by>admin</create_by>
+    <template_status>0</template_status>
+    <file_publish_path><![CDATA[/WEB-INF/plat_files/views/module_view/m_cbe5_45/m_66e5_74//publish/m_project_list.ftl]]></file_publish_path>
+    <template_url></template_url>
+    <version_id>c131c2f97abb4461b63a45a172f4d93d</version_id>
+    <template_type>1</template_type>
+    <publish_status>0</publish_status>
+    <parse_type>0</parse_type>
+    <file_type>0</file_type>
+    <content><![CDATA[template/m_project_list.ftl]]></content>
+    <template_name>项目管理列表</template_name>
+    <window_width></window_width>
+    <create_date>2020-04-26 14:03:48</create_date>
+    <module_id>68a61f039dbd4e929e8426c681de66e5</module_id>
+    <file_encoding>UTF-8</file_encoding>
+    <modified_by>admin</modified_by>
+    <window_height></window_height>
+    <template_brief></template_brief>
+    <is_index>1</is_index>
+  </template>
+  <template template_id="6631896513284c3ca3cdf585dc69817a">
+    <template_no>m_show_product_affiliation</template_no>
+    <publish_date></publish_date>
+    <modified_date>2020-03-26 20:24:37</modified_date>
+    <publish_by></publish_by>
+    <create_by>admin</create_by>
+    <template_status>0</template_status>
+    <file_publish_path><![CDATA[/WEB-INF/plat_files/views/module_view/m_cbe5_45/m_66e5_74//publish/m_show_product_affiliation.ftl]]></file_publish_path>
+    <template_url></template_url>
+    <version_id>c131c2f97abb4461b63a45a172f4d93d</version_id>
+    <template_type>1</template_type>
+    <publish_status>0</publish_status>
+    <parse_type>0</parse_type>
+    <file_type>0</file_type>
+    <content><![CDATA[template/m_show_product_affiliation.ftl]]></content>
+    <template_name>产品归属详情</template_name>
+    <window_width></window_width>
+    <create_date>2020-03-26 20:24:37</create_date>
+    <module_id>68a61f039dbd4e929e8426c681de66e5</module_id>
+    <file_encoding>UTF-8</file_encoding>
+    <modified_by>admin</modified_by>
+    <window_height></window_height>
+    <template_brief></template_brief>
+    <is_index>0</is_index>
+  </template>
+  <template template_id="37aba8d100c5483a8e93b1cec891bbc5">
+    <template_no>m_upload_excel</template_no>
+    <publish_date></publish_date>
+    <modified_date>2019-09-15 16:36:38</modified_date>
+    <publish_by></publish_by>
+    <create_by>admin</create_by>
+    <template_status>0</template_status>
+    <file_publish_path><![CDATA[/WEB-INF/plat_files/views/module_view/m_cbe5_45/m_66e5_74//publish/m_upload_excel.ftl]]></file_publish_path>
+    <template_url></template_url>
+    <version_id>c131c2f97abb4461b63a45a172f4d93d</version_id>
+    <template_type>1</template_type>
+    <publish_status>0</publish_status>
+    <parse_type>0</parse_type>
+    <file_type>0</file_type>
+    <content><![CDATA[template/m_upload_excel.ftl]]></content>
+    <template_name>excel导入</template_name>
+    <window_width></window_width>
+    <create_date>2019-09-15 16:36:38</create_date>
+    <module_id>68a61f039dbd4e929e8426c681de66e5</module_id>
+    <file_encoding>UTF-8</file_encoding>
+    <modified_by>admin</modified_by>
+    <window_height></window_height>
+    <template_brief></template_brief>
+    <is_index>0</is_index>
+  </template>
+</templates>

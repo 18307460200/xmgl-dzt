@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="GBK"?>
+
+<versions>
+  <version version_id="710d01f9b0b246a7b1a4319989c15e46">
+    <publish_date>2018-08-22 16:51:28</publish_date>
+    <publish_by>admin</publish_by>
+    <module_id>1F7863FBE7A449D99BAB4358D6D2B544</module_id>
+    <version_type>1</version_type>
+    <update_content>422</update_content>
+    <remarks>422</remarks>
+    <module_no>role_manage</module_no>
+    <module_name>角色管理</module_name>
+    <module_type_id>4744dcfbfa8c4bb4adf75b3feb9a965e</module_type_id>
+    <version>412</version>
+  </version>
+  <version version_id="D1786DEEEA3448379C3222EB9DF7264E">
+    <publish_date></publish_date>
+    <publish_by></publish_by>
+    <module_id>1F7863FBE7A449D99BAB4358D6D2B544</module_id>
+    <version_type>0</version_type>
+    <update_content></update_content>
+    <remarks>412</remarks>
+    <module_no>role_manage</module_no>
+    <module_name>角色管理</module_name>
+    <module_type_id>4744dcfbfa8c4bb4adf75b3feb9a965e</module_type_id>
+    <version>413</version>
+  </version>
+</versions>

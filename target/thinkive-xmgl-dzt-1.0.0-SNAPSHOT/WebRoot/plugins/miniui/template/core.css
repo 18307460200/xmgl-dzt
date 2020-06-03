@@ -1,0 +1,141 @@
+html,
+body {
+    height: 100%;
+    width: 100%;
+    padding: 0;
+    margin: 0;
+    background: #ffffff;
+    font-family: "PingFang SC", "Helvetica Neue", Helvetica, Arial, "Hiragino Sans GB", "Microsoft Yahei", "Î¢ÈíÑÅºÚ", STHeiti, "»ªÎÄÏ¸ºÚ", sans-serif;
+}
+
+a {
+    color: #2277cc;
+    text-decoration: none;
+}
+
+.mini-layout {
+    height: 100%;
+    width: 100%;
+    font-family: initial;
+}
+
+.home_bg {
+    height: 100%;
+    background: #373e4c url(images/home.jpg) no-repeat center;
+    background-size: 100%;
+    position: relative;
+    z-index: 50;
+}
+
+.home_login {
+    width:350px;
+    height: 360px;
+    padding: 20px 0 60px;
+    overflow: hidden;
+    background: #ffffff;
+    position: absolute;
+    left:50%;
+    top:50%;
+    margin-top: -220px;
+    margin-left: 80px;
+    z-index: 100;
+    -moz-border-radius:10px;
+    -webkit-border-radius:10px;
+    border-radius:10px;
+}
+
+.home_login .logo_box {
+    width: 300px;
+    height: 70px;
+    background: url(images/logo2.png) no-repeat center;
+    display: block;
+    margin:0 auto;
+    margin-bottom: 10px;
+}
+
+
+.login_form {
+    position: relative;
+    padding: 30px 40px 0;
+}
+.login_form .input_error {
+    position: absolute;
+    width:328px;
+    padding: 5px 10px;
+    background: #ffebec;
+    border: 1px solid #e8c6c4;
+    left: 50%;
+    top:-10px;
+    margin-left: -164px;
+}
+.login_form .input_error p {
+    margin:0;
+    padding:0;
+    background: url(images/icon_error.png) no-repeat left center;
+    padding-left: 24px;
+    color: #993b3c;
+}
+.login_form .input_box {
+    margin-bottom: 20px;
+    position: relative;
+}
+.login_form .input_box label {
+    width: 60px;
+    height: 40px;
+    line-height: 40px;
+    font-size: 14px;
+    color: #666666;
+    text-align: left;
+    background: url(images/home_line.png) no-repeat right center;
+    position: absolute;
+    left:0;
+    top:0;
+}
+.login_form .input_box .text {
+    /*width: 270px;
+    height: 40px;*/
+   	width: 190px;
+   	height: 20px;
+    line-height: 20px;
+    border:0;
+    background: none;
+    border-bottom: 1px solid #d6d7da;
+    padding: 10px 0;
+    padding-left: 80px;
+    font-size: 14px;
+    color: #333333;
+}
+.login_form .input_box .text:focus {
+    border-bottom: 1px solid #323845;
+    outline: none;
+}
+.login_form .input_code .code_pic {
+    position: absolute;
+    right:0;
+    top:0;
+}
+.login_form .input_code .code_pic img {
+    /* height: 40px; */
+    margin-top: 5px;
+}
+
+.login_form .login_btn {
+    margin-top: 35px;
+}
+.login_form .login_btn a {
+    display: block;
+    height: 36px;
+    line-height: 36px;
+    border:2px solid #323845;
+    color:#333333;
+    font-size: 14px;
+    text-align: center;
+    transition:all .5s ease-in-out;
+}
+.login_form .login_btn a:hover {
+    background: #323845;
+    color:#ffffff;
+}
+input:-webkit-autofill { 
+-webkit-box-shadow: 0 0 0px 1000px white inset; 
+} 

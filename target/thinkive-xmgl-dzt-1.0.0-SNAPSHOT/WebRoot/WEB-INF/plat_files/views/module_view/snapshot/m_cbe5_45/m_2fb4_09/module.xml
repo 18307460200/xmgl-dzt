@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="GBK"?>
+
+<modules>
+  <module module_id="dced37c497a144278787ef9727732fb4">
+    <create_date>2019-09-19 09:38:31</create_date>
+    <modified_date>2019-09-19 09:38:31</modified_date>
+    <modified_by>admin</modified_by>
+    <create_by>admin</create_by>
+    <description>测试数据</description>
+    <name>XX项目</name>
+    <module_no>m_2fb4_09</module_no>
+    <version_id>9ff3defd8e6d4ea4b0204b7dbc2c4057</version_id>
+    <module_type_id>331ced34f9284e989bd8d31e5c24cbe5</module_type_id>
+  </module>
+  <module_type module_type_id="331ced34f9284e989bd8d31e5c24cbe5">
+    <module_type_no>m_cbe5_45</module_type_no>
+    <module_type_name>项目管理系统模块</module_type_name>
+    <create_date>2019/08/30 18:54:34</create_date>
+    <modified_date>2019/08/30 18:54:34</modified_date>
+    <modified_by>admin</modified_by>
+    <create_by>admin</create_by>
+    <parent_id>0</parent_id>
+  </module_type>
+</modules>

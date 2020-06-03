@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="GBK"?>
+
+<modules>
+  <module module_id="68a61f039dbd4e929e8426c681de66e5">
+    <create_date>2019-08-30 19:01:27</create_date>
+    <modified_date>2019-08-30 19:01:27</modified_date>
+    <modified_by>admin</modified_by>
+    <create_by>admin</create_by>
+    <description></description>
+    <name>项目系统管理</name>
+    <module_no>m_66e5_74</module_no>
+    <version_id>86c7e7ae372d487cbb86641c173aa89e</version_id>
+    <module_type_id>331ced34f9284e989bd8d31e5c24cbe5</module_type_id>
+  </module>
+  <module_type module_type_id="331ced34f9284e989bd8d31e5c24cbe5">
+    <module_type_no>m_cbe5_45</module_type_no>
+    <module_type_name>项目管理系统模块</module_type_name>
+    <create_date>2019/08/30 18:54:34</create_date>
+    <modified_date>2019/08/30 18:54:34</modified_date>
+    <modified_by>admin</modified_by>
+    <create_by>admin</create_by>
+    <parent_id>0</parent_id>
+  </module_type>
+</modules>

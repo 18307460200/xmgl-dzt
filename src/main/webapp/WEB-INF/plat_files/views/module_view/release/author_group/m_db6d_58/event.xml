@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="GBK"?>
+
+<events>
+  <event event_id="e4bdabcc8c1d4648913b24552fb9fd3f">
+    <event_value><![CDATA[[{"func_impl":"com.thinkive.workplat.event.action.impl.merchant.AddMerchantAtion"}]]]></event_value>
+    <orderline>1531475662836</orderline>
+    <modified_date>2018-07-13 17:54:22</modified_date>
+    <create_by>admin</create_by>
+    <event_type>2</event_type>
+    <version_id>41afa8d0076c4a3ca5d34e29d45ad3bc</version_id>
+    <data_rights>0</data_rights>
+    <window_width></window_width>
+    <create_date>2018-07-13 17:54:22</create_date>
+    <module_id>b15240fcf451469ca3982c32ff24db6d</module_id>
+    <modified_by>admin</modified_by>
+    <data_type></data_type>
+    <description></description>
+    <window_height></window_height>
+    <is_audit></is_audit>
+    <event_no>e_add_merchant</event_no>
+    <event_name>添加商户信息</event_name>
+    <is_rights>1</is_rights>
+    <is_index></is_index>
+  </event>
+  <event event_id="820ba45c9af046f29fc8e3cc9a883ec4">
+    <event_value><![CDATA[[{"func_impl":"com.thinkive.workplat.event.action.impl.merchant.UpdateMerchantAction"}]]]></event_value>
+    <orderline>1531720610860</orderline>
+    <modified_date>2018-07-16 13:56:50</modified_date>
+    <create_by>admin</create_by>
+    <event_type>2</event_type>
+    <version_id>41afa8d0076c4a3ca5d34e29d45ad3bc</version_id>
+    <data_rights>0</data_rights>
+    <window_width></window_width>
+    <create_date>2018-07-16 13:56:50</create_date>
+    <module_id>b15240fcf451469ca3982c32ff24db6d</module_id>
+    <modified_by>admin</modified_by>
+    <data_type></data_type>
+    <description></description>
+    <window_height></window_height>
+    <is_audit></is_audit>
+    <event_no>e_edit_merchant</event_no>
+    <event_name>修改商户信息</event_name>
+    <is_rights>1</is_rights>
+    <is_index></is_index>
+  </event>
+  <event event_id="caf436c81cd844fdb7797ba303538eb7">
+    <event_value><![CDATA[[{"func_impl":"com.thinkive.workplat.event.action.impl.merchant.QueryMerchantPage"}]]]></event_value>
+    <orderline>1531469436428</orderline>
+    <modified_date>2018-07-13 16:10:36</modified_date>
+    <create_by>admin</create_by>
+    <event_type>2</event_type>
+    <version_id>41afa8d0076c4a3ca5d34e29d45ad3bc</version_id>
+    <data_rights>0</data_rights>
+    <window_width></window_width>
+    <create_date>2018-07-13 16:10:36</create_date>
+    <module_id>b15240fcf451469ca3982c32ff24db6d</module_id>
+    <modified_by>admin</modified_by>
+    <data_type></data_type>
+    <description></description>
+    <window_height></window_height>
+    <is_audit></is_audit>
+    <event_no>e_query_merchant</event_no>
+    <event_name>查询商户信息</event_name>
+    <is_rights>1</is_rights>
+    <is_index></is_index>
+  </event>
+</events>

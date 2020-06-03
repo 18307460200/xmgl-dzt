@@ -1,0 +1,361 @@
+<?xml version="1.0" encoding="GBK"?>
+
+<events>
+  <event event_id="567A7AE7BE86467B8AA88B4C6F04C65B">
+    <event_value><![CDATA[[{"func_impl":"com.thinkive.workplat.event.action.impl.org.OrgManageAddAction"}]]]></event_value>
+    <orderline>1524725612560</orderline>
+    <modified_date>2016-11-03 15:43:01</modified_date>
+    <create_by></create_by>
+    <event_type>2</event_type>
+    <version_id>ca9f947f34014a4582081742ddfa8302</version_id>
+    <data_rights>0</data_rights>
+    <window_width></window_width>
+    <create_date></create_date>
+    <module_id>8F392DA1C599468E966BA2B7A8A9F115</module_id>
+    <modified_by>admin</modified_by>
+    <data_type></data_type>
+    <description>增加组织机构</description>
+    <window_height></window_height>
+    <is_audit></is_audit>
+    <event_no>e_add_org</event_no>
+    <event_name>增加组织机构</event_name>
+    <is_rights>1</is_rights>
+    <is_index></is_index>
+  </event>
+  <event event_id="3F3F984B75E34135ACD7E988AE4A9909">
+    <event_value><![CDATA[[{"func_impl":"com.thinkive.workplat.event.action.impl.org.OrgUserAddAction"}]]]></event_value>
+    <orderline>1524725612572</orderline>
+    <modified_date>2016-11-16 10:49:25</modified_date>
+    <create_by></create_by>
+    <event_type>2</event_type>
+    <version_id>ca9f947f34014a4582081742ddfa8302</version_id>
+    <data_rights>0</data_rights>
+    <window_width></window_width>
+    <create_date></create_date>
+    <module_id>8F392DA1C599468E966BA2B7A8A9F115</module_id>
+    <modified_by>wanzj</modified_by>
+    <data_type></data_type>
+    <description>增加岗位用户关系</description>
+    <window_height></window_height>
+    <is_audit></is_audit>
+    <event_no>e_add_orguser</event_no>
+    <event_name>增加岗位用户关系</event_name>
+    <is_rights>1</is_rights>
+    <is_index></is_index>
+  </event>
+  <event event_id="474B7DFAC1424BBBBF806CAFDAD6EF7D">
+    <event_value><![CDATA[[{"func_impl":"com.thinkive.workplat.event.action.impl.org.AddPost2OrgAction"}]]]></event_value>
+    <orderline>1524725612580</orderline>
+    <modified_date>2016-11-08 20:27:36</modified_date>
+    <create_by></create_by>
+    <event_type>2</event_type>
+    <version_id>ca9f947f34014a4582081742ddfa8302</version_id>
+    <data_rights>0</data_rights>
+    <window_width></window_width>
+    <create_date></create_date>
+    <module_id>8F392DA1C599468E966BA2B7A8A9F115</module_id>
+    <modified_by>admin</modified_by>
+    <data_type></data_type>
+    <description>增加岗位</description>
+    <window_height></window_height>
+    <is_audit></is_audit>
+    <event_no>e_add_post</event_no>
+    <event_name>增加岗位</event_name>
+    <is_rights>1</is_rights>
+    <is_index></is_index>
+  </event>
+  <event event_id="13289885694348F1BB2AAA4F70CAC1A9">
+    <event_value><![CDATA[[{"func_impl":"com.thinkive.workplat.event.action.impl.org.OrgDeleteAction"}]]]></event_value>
+    <orderline>1524725612588</orderline>
+    <modified_date>2016-11-03 15:44:23</modified_date>
+    <create_by></create_by>
+    <event_type>2</event_type>
+    <version_id>ca9f947f34014a4582081742ddfa8302</version_id>
+    <data_rights>0</data_rights>
+    <window_width></window_width>
+    <create_date></create_date>
+    <module_id>8F392DA1C599468E966BA2B7A8A9F115</module_id>
+    <modified_by>admin</modified_by>
+    <data_type></data_type>
+    <description>删除组织机构</description>
+    <window_height></window_height>
+    <is_audit></is_audit>
+    <event_no>e_delete_org</event_no>
+    <event_name>删除组织机构</event_name>
+    <is_rights>1</is_rights>
+    <is_index></is_index>
+  </event>
+  <event event_id="6F8D202307044F5DB3A21BC1DB067FE3">
+    <event_value><![CDATA[[{"func_impl":"com.thinkive.workplat.event.action.impl.org.OrgUserDeleteAction"}]]]></event_value>
+    <orderline>1524725612597</orderline>
+    <modified_date>2016-11-16 10:49:18</modified_date>
+    <create_by></create_by>
+    <event_type>2</event_type>
+    <version_id>ca9f947f34014a4582081742ddfa8302</version_id>
+    <data_rights>0</data_rights>
+    <window_width></window_width>
+    <create_date></create_date>
+    <module_id>8F392DA1C599468E966BA2B7A8A9F115</module_id>
+    <modified_by>wanzj</modified_by>
+    <data_type></data_type>
+    <description>删除岗位用户关系</description>
+    <window_height></window_height>
+    <is_audit></is_audit>
+    <event_no>e_delete_orguser</event_no>
+    <event_name>删除岗位用户关系</event_name>
+    <is_rights>1</is_rights>
+    <is_index></is_index>
+  </event>
+  <event event_id="da9b83d7f9b8431bb2195a68a1ed70dc">
+    <event_value><![CDATA[[{"func_impl":"com.thinkive.workplat.event.action.impl.org.UpdateDeptOrg"}]]]></event_value>
+    <orderline>1510213870956</orderline>
+    <modified_date>2017-11-09 15:51:10</modified_date>
+    <create_by>admin</create_by>
+    <event_type>2</event_type>
+    <version_id>ca9f947f34014a4582081742ddfa8302</version_id>
+    <data_rights>0</data_rights>
+    <window_width></window_width>
+    <create_date>2017-11-09 15:51:10</create_date>
+    <module_id>8F392DA1C599468E966BA2B7A8A9F115</module_id>
+    <modified_by>admin</modified_by>
+    <data_type></data_type>
+    <description></description>
+    <window_height></window_height>
+    <is_audit></is_audit>
+    <event_no>e_edit_deptorg</event_no>
+    <event_name>移动组织机构树</event_name>
+    <is_rights>1</is_rights>
+    <is_index></is_index>
+  </event>
+  <event event_id="f7572ae574c247aca52b9b35d3c5c7de">
+    <event_value><![CDATA[[{"func_impl":"com.thinkive.workplat.event.action.impl.org.ImportOrgAction"}]]]></event_value>
+    <orderline>1508902240063</orderline>
+    <modified_date>2017-10-25 11:30:40</modified_date>
+    <create_by>admin</create_by>
+    <event_type>2</event_type>
+    <version_id>ca9f947f34014a4582081742ddfa8302</version_id>
+    <data_rights>0</data_rights>
+    <window_width></window_width>
+    <create_date>2017-10-25 11:30:40</create_date>
+    <module_id>8F392DA1C599468E966BA2B7A8A9F115</module_id>
+    <modified_by>admin</modified_by>
+    <data_type></data_type>
+    <description></description>
+    <window_height></window_height>
+    <is_audit></is_audit>
+    <event_no>e_import_org</event_no>
+    <event_name>导入组织机构信息</event_name>
+    <is_rights>1</is_rights>
+    <is_index></is_index>
+  </event>
+  <event event_id="7b63cb50dbdf48d599aa17193951237d">
+    <event_value><![CDATA[[{"func_impl":"com.thinkive.workplat.event.action.impl.org.GetPostInfoNotInOrgAction"}]]]></event_value>
+    <orderline>1478605313336</orderline>
+    <modified_date>2016-11-08 20:06:36</modified_date>
+    <create_by>admin</create_by>
+    <event_type>2</event_type>
+    <version_id>ca9f947f34014a4582081742ddfa8302</version_id>
+    <data_rights>0</data_rights>
+    <window_width></window_width>
+    <create_date>2016-11-08 19:41:53</create_date>
+    <module_id>8F392DA1C599468E966BA2B7A8A9F115</module_id>
+    <modified_by>admin</modified_by>
+    <data_type></data_type>
+    <description>查询不在机构下的所有岗位信息</description>
+    <window_height></window_height>
+    <is_audit></is_audit>
+    <event_no>e_query_all_post</event_no>
+    <event_name>查询不在机构下的所有岗位</event_name>
+    <is_rights>1</is_rights>
+    <is_index></is_index>
+  </event>
+  <event event_id="8632E42AAFE54F52B081DCD8A74F1D72">
+    <event_value><![CDATA[[{"func_impl":"com.thinkive.workplat.event.action.impl.org.OrgManageInfoAction"}]]]></event_value>
+    <orderline>1524725612627</orderline>
+    <modified_date>2016-11-16 10:49:09</modified_date>
+    <create_by></create_by>
+    <event_type>2</event_type>
+    <version_id>ca9f947f34014a4582081742ddfa8302</version_id>
+    <data_rights>0</data_rights>
+    <window_width></window_width>
+    <create_date></create_date>
+    <module_id>8F392DA1C599468E966BA2B7A8A9F115</module_id>
+    <modified_by>wanzj</modified_by>
+    <data_type></data_type>
+    <description>查询组织机构信息</description>
+    <window_height></window_height>
+    <is_audit></is_audit>
+    <event_no>e_query_orginfo</event_no>
+    <event_name>查询组织机构信息</event_name>
+    <is_rights>1</is_rights>
+    <is_index></is_index>
+  </event>
+  <event event_id="CA0AF8C88CEF49248EF27927753D774D">
+    <event_value><![CDATA[[{"func_impl":"com.thinkive.workplat.event.action.impl.org.OrgManageTreeAction"}]]]></event_value>
+    <orderline>1524725612634</orderline>
+    <modified_date>2016-11-16 10:49:02</modified_date>
+    <create_by></create_by>
+    <event_type>2</event_type>
+    <version_id>ca9f947f34014a4582081742ddfa8302</version_id>
+    <data_rights>0</data_rights>
+    <window_width></window_width>
+    <create_date></create_date>
+    <module_id>8F392DA1C599468E966BA2B7A8A9F115</module_id>
+    <modified_by>wanzj</modified_by>
+    <data_type></data_type>
+    <description>查询组织机构管理树</description>
+    <window_height></window_height>
+    <is_audit></is_audit>
+    <event_no>e_query_orgtree</event_no>
+    <event_name>查询组织机构管理树</event_name>
+    <is_rights>1</is_rights>
+    <is_index></is_index>
+  </event>
+  <event event_id="EC0FE280E6694B109A3D448186F4B423">
+    <event_value><![CDATA[[{"func_impl":"com.thinkive.workplat.event.action.impl.org.OrgUserInfoAction"}]]]></event_value>
+    <orderline>1524725612642</orderline>
+    <modified_date>2016-11-16 10:48:55</modified_date>
+    <create_by></create_by>
+    <event_type>2</event_type>
+    <version_id>ca9f947f34014a4582081742ddfa8302</version_id>
+    <data_rights>0</data_rights>
+    <window_width></window_width>
+    <create_date></create_date>
+    <module_id>8F392DA1C599468E966BA2B7A8A9F115</module_id>
+    <modified_by>wanzj</modified_by>
+    <data_type></data_type>
+    <description>查询岗位下的用户信息</description>
+    <window_height></window_height>
+    <is_audit></is_audit>
+    <event_no>e_query_orguser</event_no>
+    <event_name>查询岗位下的用户信息</event_name>
+    <is_rights>1</is_rights>
+    <is_index></is_index>
+  </event>
+  <event event_id="23C3881CFCB34C6B81040FE6E1259CF7">
+    <event_value><![CDATA[[{"func_impl":"com.thinkive.workplat.event.action.impl.org.OrgUserListAction"}]]]></event_value>
+    <orderline>1524725612649</orderline>
+    <modified_date>2016-11-16 10:48:47</modified_date>
+    <create_by></create_by>
+    <event_type>2</event_type>
+    <version_id>ca9f947f34014a4582081742ddfa8302</version_id>
+    <data_rights>0</data_rights>
+    <window_width></window_width>
+    <create_date></create_date>
+    <module_id>8F392DA1C599468E966BA2B7A8A9F115</module_id>
+    <modified_by>wanzj</modified_by>
+    <data_type></data_type>
+    <description>查询岗位可供挂靠的用户信息</description>
+    <window_height></window_height>
+    <is_audit></is_audit>
+    <event_no>e_query_orguserlist</event_no>
+    <event_name>查询岗位可供挂靠的用户信息</event_name>
+    <is_rights>1</is_rights>
+    <is_index></is_index>
+  </event>
+  <event event_id="E21C9F58B6B04D9F91D1DFB765097809">
+    <event_value><![CDATA[[{"func_impl":"com.thinkive.workplat.event.action.impl.org.OrgPostInfoAction"}]]]></event_value>
+    <orderline>1524725612656</orderline>
+    <modified_date>2016-11-16 10:48:34</modified_date>
+    <create_by></create_by>
+    <event_type>2</event_type>
+    <version_id>ca9f947f34014a4582081742ddfa8302</version_id>
+    <data_rights>0</data_rights>
+    <window_width></window_width>
+    <create_date></create_date>
+    <module_id>8F392DA1C599468E966BA2B7A8A9F115</module_id>
+    <modified_by>wanzj</modified_by>
+    <data_type></data_type>
+    <description>查询岗位</description>
+    <window_height></window_height>
+    <is_audit></is_audit>
+    <event_no>e_query_postinfo</event_no>
+    <event_name>查询岗位</event_name>
+    <is_rights>1</is_rights>
+    <is_index></is_index>
+  </event>
+  <event event_id="82BC8C9FB8AC49B89335CB8C2A7D6E26">
+    <event_value><![CDATA[[{"func_impl":"com.thinkive.workplat.event.action.impl.org.OrgUserInfoAction"}]]]></event_value>
+    <orderline>1524725612664</orderline>
+    <modified_date>2016-11-16 10:48:05</modified_date>
+    <create_by></create_by>
+    <event_type>2</event_type>
+    <version_id>ca9f947f34014a4582081742ddfa8302</version_id>
+    <data_rights>0</data_rights>
+    <window_width></window_width>
+    <create_date></create_date>
+    <module_id>8F392DA1C599468E966BA2B7A8A9F115</module_id>
+    <modified_by>wanzj</modified_by>
+    <data_type></data_type>
+    <description>查询岗位下的用户信息</description>
+    <window_height></window_height>
+    <is_audit></is_audit>
+    <event_no>e_query_userlist</event_no>
+    <event_name>查询岗位下的用户信息</event_name>
+    <is_rights>1</is_rights>
+    <is_index></is_index>
+  </event>
+  <event event_id="7a20dba6eafe498788175c3daa5cb7ad">
+    <event_value><![CDATA[[{"func_impl":"com.thinkive.workplat.event.action.impl.org.QueryDeptTreeAction"}]]]></event_value>
+    <orderline>1509787330424</orderline>
+    <modified_date>2017-11-04 17:22:10</modified_date>
+    <create_by>admin</create_by>
+    <event_type>2</event_type>
+    <version_id>ca9f947f34014a4582081742ddfa8302</version_id>
+    <data_rights>0</data_rights>
+    <window_width></window_width>
+    <create_date>2017-11-04 17:22:10</create_date>
+    <module_id>8F392DA1C599468E966BA2B7A8A9F115</module_id>
+    <modified_by>admin</modified_by>
+    <data_type></data_type>
+    <description></description>
+    <window_height></window_height>
+    <is_audit></is_audit>
+    <event_no>e_tree_dept</event_no>
+    <event_name>查询组织机构树</event_name>
+    <is_rights>1</is_rights>
+    <is_index></is_index>
+  </event>
+  <event event_id="F658F4730AB648FCA4515A2D12A31481">
+    <event_value><![CDATA[[{"func_impl":"com.thinkive.workplat.event.action.impl.org.OrgManageUpdateAction"}]]]></event_value>
+    <orderline>1524725612687</orderline>
+    <modified_date>2016-11-03 15:47:44</modified_date>
+    <create_by></create_by>
+    <event_type>2</event_type>
+    <version_id>ca9f947f34014a4582081742ddfa8302</version_id>
+    <data_rights>0</data_rights>
+    <window_width></window_width>
+    <create_date></create_date>
+    <module_id>8F392DA1C599468E966BA2B7A8A9F115</module_id>
+    <modified_by>admin</modified_by>
+    <data_type></data_type>
+    <description>修改组织机构</description>
+    <window_height></window_height>
+    <is_audit></is_audit>
+    <event_no>e_update_org</event_no>
+    <event_name>修改组织机构</event_name>
+    <is_rights>1</is_rights>
+    <is_index></is_index>
+  </event>
+  <event event_id="5A7B5D03C5FB45ACBDAD6521569850FD">
+    <event_value><![CDATA[[{"func_impl":"com.thinkive.workplat.event.action.impl.org.OrgPostUpdateAction"}]]]></event_value>
+    <orderline>1524725612694</orderline>
+    <modified_date>2016-11-03 15:48:10</modified_date>
+    <create_by></create_by>
+    <event_type>2</event_type>
+    <version_id>ca9f947f34014a4582081742ddfa8302</version_id>
+    <data_rights>0</data_rights>
+    <window_width></window_width>
+    <create_date></create_date>
+    <module_id>8F392DA1C599468E966BA2B7A8A9F115</module_id>
+    <modified_by>admin</modified_by>
+    <data_type></data_type>
+    <description>修改岗位</description>
+    <window_height></window_height>
+    <is_audit></is_audit>
+    <event_no>e_update_post</event_no>
+    <event_name>修改岗位</event_name>
+    <is_rights>1</is_rights>
+    <is_index></is_index>
+  </event>
+</events>

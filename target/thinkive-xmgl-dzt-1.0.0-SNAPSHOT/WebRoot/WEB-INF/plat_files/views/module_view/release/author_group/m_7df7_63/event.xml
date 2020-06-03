@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="GBK"?>
+
+<events>
+  <event event_id="17a8428d712b4ea89053e5ef7300b410">
+    <event_value><![CDATA[[{"func_impl":"com.thinkive.workplat.event.action.impl.rights.AddCatalogRightsAction"}]]]></event_value>
+    <orderline>1524725617982</orderline>
+    <modified_date>2016-10-24 15:40:40</modified_date>
+    <create_by>admin</create_by>
+    <event_type>2</event_type>
+    <version_id>d3a96eef58e74479a34672f90c853c55</version_id>
+    <data_rights></data_rights>
+    <window_width></window_width>
+    <create_date>2016-10-24 15:40:40</create_date>
+    <module_id>874e8cf42dac42a4be0346d1b5e47df7</module_id>
+    <modified_by>admin</modified_by>
+    <data_type></data_type>
+    <description></description>
+    <window_height></window_height>
+    <is_audit></is_audit>
+    <event_no>e_add_catalog_rights</event_no>
+    <event_name>添加和修改栏目权限</event_name>
+    <is_rights>1</is_rights>
+    <is_index></is_index>
+  </event>
+  <event event_id="dbe1a51b95f14af5af67958ea0cfa139">
+    <event_value><![CDATA[[{"func_impl":"com.thinkive.workplat.event.action.impl.rights.AddDataRightsAction"}]]]></event_value>
+    <orderline>1477623541744</orderline>
+    <modified_date>2016-10-28 10:59:01</modified_date>
+    <create_by>admin</create_by>
+    <event_type>2</event_type>
+    <version_id>d3a96eef58e74479a34672f90c853c55</version_id>
+    <data_rights></data_rights>
+    <window_width></window_width>
+    <create_date>2016-10-28 10:59:01</create_date>
+    <module_id>874e8cf42dac42a4be0346d1b5e47df7</module_id>
+    <modified_by>admin</modified_by>
+    <data_type></data_type>
+    <description></description>
+    <window_height></window_height>
+    <is_audit></is_audit>
+    <event_no>e_add_data_rights</event_no>
+    <event_name>添加和修改数据权限树</event_name>
+    <is_rights>1</is_rights>
+    <is_index></is_index>
+  </event>
+  <event event_id="5ff61f425fbb4c74a36486c3596d02fe">
+    <event_value><![CDATA[[{"func_impl":"com.thinkive.workplat.event.action.impl.rights.AddRightsCopyAction"}]]]></event_value>
+    <orderline>1528337545256</orderline>
+    <modified_date>2018-06-07 10:13:08</modified_date>
+    <create_by>admin</create_by>
+    <event_type>2</event_type>
+    <version_id>d3a96eef58e74479a34672f90c853c55</version_id>
+    <data_rights>0</data_rights>
+    <window_width></window_width>
+    <create_date>2018-06-07 10:12:25</create_date>
+    <module_id>874e8cf42dac42a4be0346d1b5e47df7</module_id>
+    <modified_by>admin</modified_by>
+    <data_type></data_type>
+    <description></description>
+    <window_height></window_height>
+    <is_audit></is_audit>
+    <event_no>e_add_rights_copy</event_no>
+    <event_name>保存复制岗位权限</event_name>
+    <is_rights>1</is_rights>
+    <is_index></is_index>
+  </event>
+  <event event_id="7A7172D20E1247F0BFF37D4C9B39CCB4">
+    <event_value><![CDATA[[{"func_impl":"com.thinkive.workplat.function.FunctionCatalogRightTree"}]]]></event_value>
+    <orderline>1524725617995</orderline>
+    <modified_date></modified_date>
+    <create_by></create_by>
+    <event_type>2</event_type>
+    <version_id>d3a96eef58e74479a34672f90c853c55</version_id>
+    <data_rights></data_rights>
+    <window_width></window_width>
+    <create_date></create_date>
+    <module_id>874e8cf42dac42a4be0346d1b5e47df7</module_id>
+    <modified_by></modified_by>
+    <data_type></data_type>
+    <description>栏目权限树暂时用来功能权限部分的填充数据</description>
+    <window_height></window_height>
+    <is_audit></is_audit>
+    <event_no>e_catalog_tree</event_no>
+    <event_name>栏目权限树</event_name>
+    <is_rights>1</is_rights>
+    <is_index></is_index>
+  </event>
+  <event event_id="a260395fc72748ffae11fb9ffb042f02">
+    <event_value><![CDATA[[{"func_impl":"com.thinkive.workplat.event.action.impl.rights.DataRightTreeAction"}]]]></event_value>
+    <orderline>1477623495106</orderline>
+    <modified_date>2016-10-28 10:58:15</modified_date>
+    <create_by>admin</create_by>
+    <event_type>2</event_type>
+    <version_id>d3a96eef58e74479a34672f90c853c55</version_id>
+    <data_rights></data_rights>
+    <window_width></window_width>
+    <create_date>2016-10-28 10:58:15</create_date>
+    <module_id>874e8cf42dac42a4be0346d1b5e47df7</module_id>
+    <modified_by>admin</modified_by>
+    <data_type></data_type>
+    <description></description>
+    <window_height></window_height>
+    <is_audit></is_audit>
+    <event_no>e_data_right_tree</event_no>
+    <event_name>数据权限树</event_name>
+    <is_rights>1</is_rights>
+    <is_index></is_index>
+  </event>
+  <event event_id="fefe16ef907f4fca8399635d33bed339">
+    <event_value><![CDATA[[{"func_impl":"com.thinkive.workplat.event.action.impl.rights.QueryModuleDatatAction"}]]]></event_value>
+    <orderline>1478690967407</orderline>
+    <modified_date>2016-11-09 19:29:27</modified_date>
+    <create_by>admin</create_by>
+    <event_type>2</event_type>
+    <version_id>d3a96eef58e74479a34672f90c853c55</version_id>
+    <data_rights>0</data_rights>
+    <window_width></window_width>
+    <create_date>2016-11-09 19:29:27</create_date>
+    <module_id>874e8cf42dac42a4be0346d1b5e47df7</module_id>
+    <modified_by>admin</modified_by>
+    <data_type></data_type>
+    <description></description>
+    <window_height></window_height>
+    <is_audit></is_audit>
+    <event_no>e_module_tree</event_no>
+    <event_name>数据权限模块树</event_name>
+    <is_rights>1</is_rights>
+    <is_index></is_index>
+  </event>
+  <event event_id="8139EEBA312F40FA9AFA73BDC617E2C5">
+    <event_value><![CDATA[[{"func_impl":"com.thinkive.workplat.event.action.impl.rights.OrgManageTreeAction"}]]]></event_value>
+    <orderline>1524725618012</orderline>
+    <modified_date></modified_date>
+    <create_by></create_by>
+    <event_type>2</event_type>
+    <version_id>d3a96eef58e74479a34672f90c853c55</version_id>
+    <data_rights></data_rights>
+    <window_width></window_width>
+    <create_date></create_date>
+    <module_id>874e8cf42dac42a4be0346d1b5e47df7</module_id>
+    <modified_by></modified_by>
+    <data_type></data_type>
+    <description>组织机构树暂时用来填充左侧角色树的数据</description>
+    <window_height></window_height>
+    <is_audit></is_audit>
+    <event_no>e_org_tree</event_no>
+    <event_name>组织机构树</event_name>
+    <is_rights>1</is_rights>
+    <is_index></is_index>
+  </event>
+  <event event_id="cb3cc478c59a4cf68179ab3bae0fc6f5">
+    <event_value><![CDATA[[{"func_impl":"com.thinkive.workplat.event.action.impl.rights.QueryRoleSortAction"}]]]></event_value>
+    <orderline>1477449549475</orderline>
+    <modified_date>2016-10-26 10:39:09</modified_date>
+    <create_by>admin</create_by>
+    <event_type>2</event_type>
+    <version_id>d3a96eef58e74479a34672f90c853c55</version_id>
+    <data_rights></data_rights>
+    <window_width></window_width>
+    <create_date>2016-10-26 10:39:09</create_date>
+    <module_id>874e8cf42dac42a4be0346d1b5e47df7</module_id>
+    <modified_by>admin</modified_by>
+    <data_type></data_type>
+    <description>查询角色分类树</description>
+    <window_height></window_height>
+    <is_audit></is_audit>
+    <event_no>e_query_role_sort_tree</event_no>
+    <event_name>查询角色分类树</event_name>
+    <is_rights>1</is_rights>
+    <is_index></is_index>
+  </event>
+  <event event_id="7532d884b135466ebc423e75d5ad9a3f">
+    <event_value><![CDATA[[{"func_impl":"com.thinkive.workplat.event.action.impl.rights.OrgBranchTreeAction"}]]]></event_value>
+    <orderline>1477462764840</orderline>
+    <modified_date>2016-10-26 14:19:24</modified_date>
+    <create_by>admin</create_by>
+    <event_type>2</event_type>
+    <version_id>d3a96eef58e74479a34672f90c853c55</version_id>
+    <data_rights></data_rights>
+    <window_width></window_width>
+    <create_date>2016-10-26 14:19:24</create_date>
+    <module_id>874e8cf42dac42a4be0346d1b5e47df7</module_id>
+    <modified_by>admin</modified_by>
+    <data_type></data_type>
+    <description></description>
+    <window_height></window_height>
+    <is_audit></is_audit>
+    <event_no>e_query_user_tree</event_no>
+    <event_name>查询左侧用户树</event_name>
+    <is_rights>1</is_rights>
+    <is_index></is_index>
+  </event>
+  <event event_id="520356AEA42647279AE45FEDC38526ED">
+    <event_value><![CDATA[[{"func_impl":"com.thinkive.workplat.event.action.impl.rights.FunctionCatalogTree"}]]]></event_value>
+    <orderline>1524725618028</orderline>
+    <modified_date></modified_date>
+    <create_by></create_by>
+    <event_type>2</event_type>
+    <version_id>d3a96eef58e74479a34672f90c853c55</version_id>
+    <data_rights></data_rights>
+    <window_width></window_width>
+    <create_date></create_date>
+    <module_id>874e8cf42dac42a4be0346d1b5e47df7</module_id>
+    <modified_by></modified_by>
+    <data_type></data_type>
+    <description></description>
+    <window_height></window_height>
+    <is_audit></is_audit>
+    <event_no>e_tree_catalog</event_no>
+    <event_name>查询角色树</event_name>
+    <is_rights>1</is_rights>
+    <is_index></is_index>
+  </event>
+  <event event_id="b6075413114247f18e2c9e604dfbb2dd">
+    <event_value><![CDATA[[{"func_impl":"com.thinkive.workplat.event.action.impl.user.DeptTreeAction"}]]]></event_value>
+    <orderline>1528277591078</orderline>
+    <modified_date>2018-06-06 17:33:11</modified_date>
+    <create_by>admin</create_by>
+    <event_type>2</event_type>
+    <version_id>d3a96eef58e74479a34672f90c853c55</version_id>
+    <data_rights>0</data_rights>
+    <window_width></window_width>
+    <create_date>2018-06-06 17:33:11</create_date>
+    <module_id>874e8cf42dac42a4be0346d1b5e47df7</module_id>
+    <modified_by>admin</modified_by>
+    <data_type></data_type>
+    <description></description>
+    <window_height></window_height>
+    <is_audit></is_audit>
+    <event_no>e_tree_dept</event_no>
+    <event_name>查询组织机构树</event_name>
+    <is_rights>1</is_rights>
+    <is_index></is_index>
+  </event>
+</events>

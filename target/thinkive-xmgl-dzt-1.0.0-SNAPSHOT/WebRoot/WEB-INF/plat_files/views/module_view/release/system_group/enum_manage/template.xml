@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="GBK"?>
+
+<templates>
+  <template template_id="5B57825BC8DC4147962561908B3E3DCC">
+    <template_no>add_change</template_no>
+    <publish_date></publish_date>
+    <modified_date>2016-10-16 12:51:03</modified_date>
+    <publish_by></publish_by>
+    <create_by></create_by>
+    <template_status>0</template_status>
+    <file_publish_path><![CDATA[/WEB-INF/plat_files/views/module_view/system_group/enum_manage//publish/add_change.ftl]]></file_publish_path>
+    <template_url>/conf/plat/module/enum_manage/template/add_change.ftl</template_url>
+    <version_id>31416c685f6144c68f56884125d179f5</version_id>
+    <template_type>1</template_type>
+    <publish_status>0</publish_status>
+    <parse_type>0</parse_type>
+    <file_type>1</file_type>
+    <content><![CDATA[template/add_change.ftl]]></content>
+    <template_name>增加转换值</template_name>
+    <window_width></window_width>
+    <create_date>2016-10-16 12:51:03</create_date>
+    <module_id>DA85BBA1BA704C0A80CFC810F22486CE</module_id>
+    <file_encoding>UTF-8</file_encoding>
+    <modified_by></modified_by>
+    <window_height></window_height>
+    <template_brief></template_brief>
+    <is_index>0</is_index>
+  </template>
+  <template template_id="DC2589200E424F45900FC31BDEC070E7">
+    <template_no>add_sort</template_no>
+    <publish_date></publish_date>
+    <modified_date>2016-10-16 12:51:15</modified_date>
+    <publish_by></publish_by>
+    <create_by></create_by>
+    <template_status>0</template_status>
+    <file_publish_path><![CDATA[/WEB-INF/plat_files/views/module_view/system_group/enum_manage//publish/add_sort.ftl]]></file_publish_path>
+    <template_url>/conf/plat/module/enum_manage/template/add_sort.ftl</template_url>
+    <version_id>31416c685f6144c68f56884125d179f5</version_id>
+    <template_type>1</template_type>
+    <publish_status>0</publish_status>
+    <parse_type>0</parse_type>
+    <file_type>1</file_type>
+    <content><![CDATA[template/add_sort.ftl]]></content>
+    <template_name>添加数据字典分类</template_name>
+    <window_width></window_width>
+    <create_date>2016-10-16 12:51:15</create_date>
+    <module_id>DA85BBA1BA704C0A80CFC810F22486CE</module_id>
+    <file_encoding>UTF-8</file_encoding>
+    <modified_by></modified_by>
+    <window_height></window_height>
+    <template_brief></template_brief>
+    <is_index>0</is_index>
+  </template>
+  <template template_id="e54c6b2303a347c4bcd1f4014c369ff1">
+    <template_no>add_sql</template_no>
+    <publish_date></publish_date>
+    <modified_date>2016-10-26 15:27:43</modified_date>
+    <publish_by></publish_by>
+    <create_by>admin</create_by>
+    <template_status>0</template_status>
+    <file_publish_path><![CDATA[/WEB-INF/plat_files/views/module_view/system_group/enum_manage//publish/add_sql.ftl]]></file_publish_path>
+    <template_url>/conf/plat/module/enum_manage/template/add_sql.ftl</template_url>
+    <version_id>31416c685f6144c68f56884125d179f5</version_id>
+    <template_type>1</template_type>
+    <publish_status>0</publish_status>
+    <parse_type>0</parse_type>
+    <file_type>1</file_type>
+    <content><![CDATA[template/add_sql.ftl]]></content>
+    <template_name>添加sql</template_name>
+    <window_width></window_width>
+    <create_date>2016-10-26 15:27:43</create_date>
+    <module_id>DA85BBA1BA704C0A80CFC810F22486CE</module_id>
+    <file_encoding>UTF-8</file_encoding>
+    <modified_by>admin</modified_by>
+    <window_height></window_height>
+    <template_brief></template_brief>
+    <is_index>0</is_index>
+  </template>
+  <template template_id="3508E17ADD8641908DCBB92E69BBADCD">
+    <template_no>add_type</template_no>
+    <publish_date></publish_date>
+    <modified_date>2016-12-01 16:11:53</modified_date>
+    <publish_by></publish_by>
+    <create_by>wanzj</create_by>
+    <template_status>0</template_status>
+    <file_publish_path><![CDATA[/WEB-INF/plat_files/views/module_view/system_group/enum_manage//publish/add_type.ftl]]></file_publish_path>
+    <template_url>/conf/plat/module/enum_manage/template/add_type.ftl</template_url>
+    <version_id>31416c685f6144c68f56884125d179f5</version_id>
+    <template_type>1</template_type>
+    <publish_status>0</publish_status>
+    <parse_type>0</parse_type>
+    <file_type>1</file_type>
+    <content><![CDATA[template/add_type.ftl]]></content>
+    <template_name>添加数据字典类型</template_name>
+    <window_width></window_width>
+    <create_date>2016-12-01 16:11:53</create_date>
+    <module_id>DA85BBA1BA704C0A80CFC810F22486CE</module_id>
+    <file_encoding>UTF-8</file_encoding>
+    <modified_by>wanzj</modified_by>
+    <window_height></window_height>
+    <template_brief></template_brief>
+    <is_index>0</is_index>
+  </template>
+  <template template_id="78C286EDFDD3413C921010DDAA1B0B36">
+    <template_no>add_value</template_no>
+    <publish_date></publish_date>
+    <modified_date>2016-10-16 12:51:35</modified_date>
+    <publish_by></publish_by>
+    <create_by></create_by>
+    <template_status>0</template_status>
+    <file_publish_path><![CDATA[/WEB-INF/plat_files/views/module_view/system_group/enum_manage//publish/add_value.ftl]]></file_publish_path>
+    <template_url>/conf/plat/module/enum_manage/template/add_value.ftl</template_url>
+    <version_id>31416c685f6144c68f56884125d179f5</version_id>
+    <template_type>1</template_type>
+    <publish_status>0</publish_status>
+    <parse_type>0</parse_type>
+    <file_type>1</file_type>
+    <content><![CDATA[template/add_value.ftl]]></content>
+    <template_name>增加数据字典值</template_name>
+    <window_width></window_width>
+    <create_date>2016-10-16 12:51:35</create_date>
+    <module_id>DA85BBA1BA704C0A80CFC810F22486CE</module_id>
+    <file_encoding>UTF-8</file_encoding>
+    <modified_by></modified_by>
+    <window_height></window_height>
+    <template_brief></template_brief>
+    <is_index>0</is_index>
+  </template>
+  <template template_id="852F8BB6CB7347DB97709F28E1A08557">
+    <template_no>change_value</template_no>
+    <publish_date></publish_date>
+    <modified_date>2016-10-16 12:51:42</modified_date>
+    <publish_by></publish_by>
+    <create_by></create_by>
+    <template_status>0</template_status>
+    <file_publish_path><![CDATA[/WEB-INF/plat_files/views/module_view/system_group/enum_manage//publish/change_value.ftl]]></file_publish_path>
+    <template_url>/conf/plat/module/enum_manage/template/change_value.ftl</template_url>
+    <version_id>31416c685f6144c68f56884125d179f5</version_id>
+    <template_type>1</template_type>
+    <publish_status>0</publish_status>
+    <parse_type>0</parse_type>
+    <file_type>1</file_type>
+    <content><![CDATA[template/change_value.ftl]]></content>
+    <template_name>数据字典转换值列表</template_name>
+    <window_width></window_width>
+    <create_date>2016-10-16 12:51:42</create_date>
+    <module_id>DA85BBA1BA704C0A80CFC810F22486CE</module_id>
+    <file_encoding>UTF-8</file_encoding>
+    <modified_by></modified_by>
+    <window_height></window_height>
+    <template_brief></template_brief>
+    <is_index>0</is_index>
+  </template>
+  <template template_id="AC5BBF34ADB84461972E425B2DBDD706">
+    <template_no>details</template_no>
+    <publish_date></publish_date>
+    <modified_date>2016-10-16 12:51:48</modified_date>
+    <publish_by></publish_by>
+    <create_by></create_by>
+    <template_status>0</template_status>
+    <file_publish_path><![CDATA[/WEB-INF/plat_files/views/module_view/system_group/enum_manage//publish/details.ftl]]></file_publish_path>
+    <template_url>/conf/plat/module/enum_manage/template/details.ftl</template_url>
+    <version_id>31416c685f6144c68f56884125d179f5</version_id>
+    <template_type>1</template_type>
+    <publish_status>0</publish_status>
+    <parse_type>0</parse_type>
+    <file_type>1</file_type>
+    <content><![CDATA[template/details.ftl]]></content>
+    <template_name>数据字典列表</template_name>
+    <window_width></window_width>
+    <create_date>2016-10-16 12:51:48</create_date>
+    <module_id>DA85BBA1BA704C0A80CFC810F22486CE</module_id>
+    <file_encoding>UTF-8</file_encoding>
+    <modified_by></modified_by>
+    <window_height></window_height>
+    <template_brief></template_brief>
+    <is_index>0</is_index>
+  </template>
+  <template template_id="B7A4453ECA724E04858CF3DDC44BA09E">
+    <template_no>edit_change</template_no>
+    <publish_date></publish_date>
+    <modified_date>2016-10-16 12:52:00</modified_date>
+    <publish_by></publish_by>
+    <create_by></create_by>
+    <template_status>0</template_status>
+    <file_publish_path><![CDATA[/WEB-INF/plat_files/views/module_view/system_group/enum_manage//publish/edit_change.ftl]]></file_publish_path>
+    <template_url>/conf/plat/module/enum_manage/template/edit_change.ftl</template_url>
+    <version_id>31416c685f6144c68f56884125d179f5</version_id>
+    <template_type>1</template_type>
+    <publish_status>0</publish_status>
+    <parse_type>0</parse_type>
+    <file_type>1</file_type>
+    <content><![CDATA[template/edit_change.ftl]]></content>
+    <template_name>修改转换值</template_name>
+    <window_width></window_width>
+    <create_date>2016-10-16 12:52:00</create_date>
+    <module_id>DA85BBA1BA704C0A80CFC810F22486CE</module_id>
+    <file_encoding>UTF-8</file_encoding>
+    <modified_by></modified_by>
+    <window_height></window_height>
+    <template_brief></template_brief>
+    <is_index>0</is_index>
+  </template>
+  <template template_id="185C6DEB4D734712B75A7DFC06216082">
+    <template_no>edit_type</template_no>
+    <publish_date></publish_date>
+    <modified_date>2016-10-26 10:12:25</modified_date>
+    <publish_by></publish_by>
+    <create_by>admin</create_by>
+    <template_status>0</template_status>
+    <file_publish_path><![CDATA[/WEB-INF/plat_files/views/module_view/system_group/enum_manage//publish/edit_type.ftl]]></file_publish_path>
+    <template_url>/conf/plat/module/enum_manage/template/edit_type.ftl</template_url>
+    <version_id>31416c685f6144c68f56884125d179f5</version_id>
+    <template_type>1</template_type>
+    <publish_status>0</publish_status>
+    <parse_type>0</parse_type>
+    <file_type>1</file_type>
+    <content><![CDATA[template/edit_type.ftl]]></content>
+    <template_name>修改数据字典类型</template_name>
+    <window_width></window_width>
+    <create_date>2016-10-26 10:12:25</create_date>
+    <module_id>DA85BBA1BA704C0A80CFC810F22486CE</module_id>
+    <file_encoding>UTF-8</file_encoding>
+    <modified_by>admin</modified_by>
+    <window_height></window_height>
+    <template_brief></template_brief>
+    <is_index>0</is_index>
+  </template>
+  <template template_id="124A105FCE4E42CBB03E30B7022FD014">
+    <template_no>edit_value</template_no>
+    <publish_date></publish_date>
+    <modified_date>2016-10-26 10:13:01</modified_date>
+    <publish_by></publish_by>
+    <create_by>admin</create_by>
+    <template_status>0</template_status>
+    <file_publish_path><![CDATA[/WEB-INF/plat_files/views/module_view/system_group/enum_manage//publish/edit_value.ftl]]></file_publish_path>
+    <template_url>/conf/plat/module/enum_manage/template/edit_value.ftl</template_url>
+    <version_id>31416c685f6144c68f56884125d179f5</version_id>
+    <template_type>1</template_type>
+    <publish_status>0</publish_status>
+    <parse_type>0</parse_type>
+    <file_type>1</file_type>
+    <content><![CDATA[template/edit_value.ftl]]></content>
+    <template_name>修改数据字典值</template_name>
+    <window_width></window_width>
+    <create_date>2016-10-26 10:13:01</create_date>
+    <module_id>DA85BBA1BA704C0A80CFC810F22486CE</module_id>
+    <file_encoding>UTF-8</file_encoding>
+    <modified_by>admin</modified_by>
+    <window_height></window_height>
+    <template_brief></template_brief>
+    <is_index>0</is_index>
+  </template>
+  <template template_id="974d39ca432b4c68bd9636cdd2df5938">
+    <template_no>e_datagrid_dynameic</template_no>
+    <publish_date></publish_date>
+    <modified_date>2016-10-28 15:17:46</modified_date>
+    <publish_by></publish_by>
+    <create_by>admin</create_by>
+    <template_status>0</template_status>
+    <file_publish_path><![CDATA[/WEB-INF/plat_files/views/module_view/system_group/enum_manage//publish/e_datagrid_dynameic.ftl]]></file_publish_path>
+    <template_url>/conf/plat/module/enum_manage/template/e_datagrid_dynameic.ftl</template_url>
+    <version_id>31416c685f6144c68f56884125d179f5</version_id>
+    <template_type>1</template_type>
+    <publish_status>0</publish_status>
+    <parse_type>0</parse_type>
+    <file_type>1</file_type>
+    <content><![CDATA[template/e_datagrid_dynameic.ftl]]></content>
+    <template_name>动态数据字典</template_name>
+    <window_width></window_width>
+    <create_date>2016-10-28 15:17:46</create_date>
+    <module_id>DA85BBA1BA704C0A80CFC810F22486CE</module_id>
+    <file_encoding>UTF-8</file_encoding>
+    <modified_by>admin</modified_by>
+    <window_height></window_height>
+    <template_brief></template_brief>
+    <is_index>0</is_index>
+  </template>
+  <template template_id="78db199fcd03431e87472eae6efbc2a1">
+    <template_no>e_datagrid_list</template_no>
+    <publish_date></publish_date>
+    <modified_date>2016-10-28 15:18:04</modified_date>
+    <publish_by></publish_by>
+    <create_by>admin</create_by>
+    <template_status>0</template_status>
+    <file_publish_path><![CDATA[/WEB-INF/plat_files/views/module_view/system_group/enum_manage//publish/e_datagrid_list.ftl]]></file_publish_path>
+    <template_url>/conf/plat/module/enum_manage/template/e_datagrid_list.ftl</template_url>
+    <version_id>31416c685f6144c68f56884125d179f5</version_id>
+    <template_type>1</template_type>
+    <publish_status>0</publish_status>
+    <parse_type>0</parse_type>
+    <file_type>1</file_type>
+    <content><![CDATA[template/e_datagrid_list.ftl]]></content>
+    <template_name>静态数据字典</template_name>
+    <window_width></window_width>
+    <create_date>2016-10-28 15:18:04</create_date>
+    <module_id>DA85BBA1BA704C0A80CFC810F22486CE</module_id>
+    <file_encoding>UTF-8</file_encoding>
+    <modified_by>admin</modified_by>
+    <window_height></window_height>
+    <template_brief></template_brief>
+    <is_index>0</is_index>
+  </template>
+  <template template_id="253F4F3AE49746B9A6235F12AF48939B">
+    <template_no>index</template_no>
+    <publish_date></publish_date>
+    <modified_date>2016-10-26 10:12:18</modified_date>
+    <publish_by></publish_by>
+    <create_by>admin</create_by>
+    <template_status>0</template_status>
+    <file_publish_path><![CDATA[/WEB-INF/plat_files/views/module_view/system_group/enum_manage//publish/index.ftl]]></file_publish_path>
+    <template_url>/conf/plat/module/enum_manage/template/index.ftl</template_url>
+    <version_id>31416c685f6144c68f56884125d179f5</version_id>
+    <template_type>1</template_type>
+    <publish_status>0</publish_status>
+    <parse_type>0</parse_type>
+    <file_type>1</file_type>
+    <content><![CDATA[template/index.ftl]]></content>
+    <template_name>首页模版</template_name>
+    <window_width></window_width>
+    <create_date>2016-10-26 10:12:18</create_date>
+    <module_id>DA85BBA1BA704C0A80CFC810F22486CE</module_id>
+    <file_encoding>UTF-8</file_encoding>
+    <modified_by>admin</modified_by>
+    <window_height></window_height>
+    <template_brief>数据字典首页模版</template_brief>
+    <is_index>1</is_index>
+  </template>
+  <template template_id="8f0c6dabc71a43fe91ce008c02c07c4b">
+    <template_no>m_import_dict</template_no>
+    <publish_date></publish_date>
+    <modified_date>2018-04-24 13:46:13</modified_date>
+    <publish_by></publish_by>
+    <create_by>admin</create_by>
+    <template_status>0</template_status>
+    <file_publish_path><![CDATA[/WEB-INF/plat_files/views/module_view/system_group/enum_manage//publish/m_import_dict.ftl]]></file_publish_path>
+    <template_url>/conf/plat/module/enum_manage/template/import_dict.ftl</template_url>
+    <version_id>31416c685f6144c68f56884125d179f5</version_id>
+    <template_type>1</template_type>
+    <publish_status>0</publish_status>
+    <parse_type>0</parse_type>
+    <file_type>1</file_type>
+    <content><![CDATA[template/m_import_dict.ftl]]></content>
+    <template_name>导入数据字典模版</template_name>
+    <window_width></window_width>
+    <create_date>2018-04-24 13:46:13</create_date>
+    <module_id>DA85BBA1BA704C0A80CFC810F22486CE</module_id>
+    <file_encoding>UTF-8</file_encoding>
+    <modified_by>admin</modified_by>
+    <window_height></window_height>
+    <template_brief></template_brief>
+    <is_index>0</is_index>
+  </template>
+</templates>

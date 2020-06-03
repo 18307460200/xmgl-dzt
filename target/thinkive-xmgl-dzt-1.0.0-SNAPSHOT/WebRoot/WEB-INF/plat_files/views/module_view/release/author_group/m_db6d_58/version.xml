@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="GBK"?>
+
+<versions>
+  <version version_id="41afa8d0076c4a3ca5d34e29d45ad3bc">
+    <publish_date>2018-08-22 16:51:28</publish_date>
+    <publish_by>admin</publish_by>
+    <module_id>b15240fcf451469ca3982c32ff24db6d</module_id>
+    <version_type>1</version_type>
+    <update_content>422</update_content>
+    <remarks>422</remarks>
+    <module_no>m_db6d_58</module_no>
+    <module_name>商户管理</module_name>
+    <module_type_id>4744dcfbfa8c4bb4adf75b3feb9a965e</module_type_id>
+    <version>412</version>
+  </version>
+  <version version_id="b462ecc420e242aca87edc6f824c09a5">
+    <publish_date></publish_date>
+    <publish_by></publish_by>
+    <module_id>b15240fcf451469ca3982c32ff24db6d</module_id>
+    <version_type>0</version_type>
+    <update_content></update_content>
+    <remarks>412</remarks>
+    <module_no>m_db6d_58</module_no>
+    <module_name>商户管理</module_name>
+    <module_type_id>4744dcfbfa8c4bb4adf75b3feb9a965e</module_type_id>
+    <version>413</version>
+  </version>
+</versions>

@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="GBK"?>
+
+<events>
+  <event event_id="5b54620a60c44325836c82f2b28167f5">
+    <event_value><![CDATA[[{"func_impl":"com.thinkive.workplat.event.action.impl.org.OrgPostAddAction"}]]]></event_value>
+    <orderline>1478595111269</orderline>
+    <modified_date>2016-11-08 16:53:53</modified_date>
+    <create_by>admin</create_by>
+    <event_type>2</event_type>
+    <version_id>afcb48e4621349eb8c3b8aa8679580db</version_id>
+    <data_rights>0</data_rights>
+    <window_width></window_width>
+    <create_date>2016-11-08 16:51:51</create_date>
+    <module_id>038e3b33c44f428e895fe2171a4efd8c</module_id>
+    <modified_by>admin</modified_by>
+    <data_type></data_type>
+    <description></description>
+    <window_height></window_height>
+    <is_audit></is_audit>
+    <event_no>e_add_post</event_no>
+    <event_name>添加岗位</event_name>
+    <is_rights>1</is_rights>
+    <is_index></is_index>
+  </event>
+  <event event_id="3634a237eda541e099de7cac8e5b3eff">
+    <event_value><![CDATA[[{"func_impl":"com.thinkive.workplat.event.action.impl.org.DeletePostInfoAction"}]]]></event_value>
+    <orderline>1478595154982</orderline>
+    <modified_date>2016-11-08 17:44:31</modified_date>
+    <create_by>admin</create_by>
+    <event_type>2</event_type>
+    <version_id>afcb48e4621349eb8c3b8aa8679580db</version_id>
+    <data_rights>0</data_rights>
+    <window_width></window_width>
+    <create_date>2016-11-08 16:52:34</create_date>
+    <module_id>038e3b33c44f428e895fe2171a4efd8c</module_id>
+    <modified_by>admin</modified_by>
+    <data_type></data_type>
+    <description></description>
+    <window_height></window_height>
+    <is_audit></is_audit>
+    <event_no>e_delete_post</event_no>
+    <event_name>删除岗位信息</event_name>
+    <is_rights>1</is_rights>
+    <is_index></is_index>
+  </event>
+  <event event_id="a781f6935b06407195dd9e7f4fda4016">
+    <event_value><![CDATA[[{"func_impl":"com.thinkive.workplat.event.action.impl.org.OrgPostUpdateAction"}]]]></event_value>
+    <orderline>1478595131915</orderline>
+    <modified_date>2016-11-08 16:53:36</modified_date>
+    <create_by>admin</create_by>
+    <event_type>2</event_type>
+    <version_id>afcb48e4621349eb8c3b8aa8679580db</version_id>
+    <data_rights>0</data_rights>
+    <window_width></window_width>
+    <create_date>2016-11-08 16:52:11</create_date>
+    <module_id>038e3b33c44f428e895fe2171a4efd8c</module_id>
+    <modified_by>admin</modified_by>
+    <data_type></data_type>
+    <description></description>
+    <window_height></window_height>
+    <is_audit></is_audit>
+    <event_no>e_edite_post</event_no>
+    <event_name>修改岗位信息</event_name>
+    <is_rights>1</is_rights>
+    <is_index></is_index>
+  </event>
+  <event event_id="8d2bf408194645fb9676eba118a12847">
+    <event_value><![CDATA[[{"func_impl":"com.thinkive.workplat.event.action.impl.org.QueryPostInfoAction"}]]]></event_value>
+    <orderline>1478594414473</orderline>
+    <modified_date>2016-11-08 16:50:55</modified_date>
+    <create_by>admin</create_by>
+    <event_type>2</event_type>
+    <version_id>afcb48e4621349eb8c3b8aa8679580db</version_id>
+    <data_rights>0</data_rights>
+    <window_width></window_width>
+    <create_date>2016-11-08 16:40:14</create_date>
+    <module_id>038e3b33c44f428e895fe2171a4efd8c</module_id>
+    <modified_by>admin</modified_by>
+    <data_type></data_type>
+    <description></description>
+    <window_height></window_height>
+    <is_audit></is_audit>
+    <event_no>e_query_all_post</event_no>
+    <event_name>查询所有岗位</event_name>
+    <is_rights>1</is_rights>
+    <is_index></is_index>
+  </event>
+  <event event_id="d2d168d636274c2bb6efb488a3423165">
+    <event_value><![CDATA[[{"func_impl":"com.thinkive.workplat.event.action.impl.org.OrgPostInfoAction"}]]]></event_value>
+    <orderline>1478599300964</orderline>
+    <modified_date>2016-11-08 18:01:40</modified_date>
+    <create_by>admin</create_by>
+    <event_type>2</event_type>
+    <version_id>afcb48e4621349eb8c3b8aa8679580db</version_id>
+    <data_rights>0</data_rights>
+    <window_width></window_width>
+    <create_date>2016-11-08 18:01:40</create_date>
+    <module_id>038e3b33c44f428e895fe2171a4efd8c</module_id>
+    <modified_by>admin</modified_by>
+    <data_type></data_type>
+    <description>查询单个岗位信息</description>
+    <window_height></window_height>
+    <is_audit></is_audit>
+    <event_no>e_query_postinfo</event_no>
+    <event_name>查询岗位信息</event_name>
+    <is_rights>1</is_rights>
+    <is_index></is_index>
+  </event>
+</events>

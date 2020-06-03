@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="GBK"?>
+
+<modules>
+  <module module_id="6B6C3F43E51242E9BB8AF721BF83BE0E">
+    <create_date>2016-09-25 17:30:26</create_date>
+    <modified_date>2016-09-25 17:30:26</modified_date>
+    <modified_by></modified_by>
+    <create_by>wangyuan</create_by>
+    <description>系统栏目管理</description>
+    <name>系统栏目管理</name>
+    <module_no>catalog_mangae</module_no>
+    <version_id>3A6FD5FA577B4A769F4E1F991C8C2EB8</version_id>
+    <module_type_id>63285667F7B94D6992A13D26817CB6F5</module_type_id>
+  </module>
+  <module_type module_type_id="63285667F7B94D6992A13D26817CB6F5">
+    <module_type_no>system_group</module_type_no>
+    <module_type_name>系统相关模块</module_type_name>
+    <create_date>2016/09/28 22:46:27</create_date>
+    <modified_date>2016/09/28 22:46:27</modified_date>
+    <modified_by></modified_by>
+    <create_by></create_by>
+    <parent_id>0</parent_id>
+  </module_type>
+</modules>

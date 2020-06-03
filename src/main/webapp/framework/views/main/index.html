@@ -1,0 +1,56 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head>
+		<title>miniUI-大中台</title>
+		<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+		<script src="/plugins/miniui/jquery-1.6.2.min.js" type="text/javascript"></script> 
+		<script src="/plugins/miniui/miniui.js" type="text/javascript"></script> 
+		<link href="/plugins/miniui/themes/default/miniui.css" rel="stylesheet" type="text/css" />
+		<link href="/plugins/miniui/themes/icons.css" rel="stylesheet" type="text/css" />
+		<link href="/plugins/miniui/themes/blue/skin.css" rel="stylesheet" type="text/css" />
+		<style type="text/css">
+			body{
+		        margin:0;padding:0;border:0;width:100%;height:100%;overflow:hidden;
+		    }    
+		    .header
+		    {
+		        background:url(/framework/image/header.gif) repeat-x 0 -1px;
+		    }
+		</style>
+	</head>
+	<body>
+	  <div id="bodyContent" style="width:100%;height:100%;" >
+		<div id="main_index" class="mini-layout" style="width:100%;height:100%;">
+			<div class="header" region="north" height="70" showSplit="false" showHeader="false">
+		        <h1 style="width:350px;height:55px;display: block;background: url('/framework/image/logo.png') 50% 50% no-repeat;"></h1>
+		        <div style="position:absolute;top:18px;right:10px;">     
+		            <a class="mini-button mini-button-iconTop" iconCls="icon-close" onclick="onClick"  plain="true" >退出</a>        
+		        </div>
+		    </div>
+		
+			<div title="center" region="center" style="border:0;" bodyStyle="overflow:hidden;">
+				<div class="mini-splitter" style="width: 100%; height: 100%;" borderStyle="border:0;">
+					<div size="180" maxSize="250" minSize="100" showCollapseButton="true" style="border: 0;">
+						<!--OutlookTree-->
+						<div id="leftTree" class="mini-outlooktree" textField="text" idField="id" parentField="pid"> </div>
+					</div>
+					<div showCollapseButton="false" style="border: 0;">
+						<!--Tabs-->
+						<div id="mainTabs" class="mini-tabs" activeIndex="2" style="width: 100%; height: 100%;" plain="false">
+							<div title="首页" url="index.html" ontabload="activeTab(this)" ></div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>	
+	<script type="text/javascript">
+		//项目主体页面 pageCode:页面路径编码,jsonParam:参数，isLoad:是否每次都加载，loadType:加载类型 0:html页面，1：js模块  ，为空加载全部
+		var _defaultPage = {"pageCode": "main/index", "jsonParam":{},"isLoad":false,"loadType" : "1"}; 
+	</script>
+	<script type="text/javascript" src="/framework/version.js"></script>
+	<!--基础框架包 -->
+	<script type="text/javascript" src="/thinkiveJs.min.js"></script>
+	</body>
+</html>

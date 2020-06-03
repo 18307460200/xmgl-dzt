@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="GBK"?>
+
+<modules>
+  <module module_id="038e3b33c44f428e895fe2171a4efd8c">
+    <create_date>2016-11-08 16:25:31</create_date>
+    <modified_date>2016-11-08 16:25:31</modified_date>
+    <modified_by></modified_by>
+    <create_by></create_by>
+    <description></description>
+    <name>岗位管理</name>
+    <module_no>m_fd8c_76</module_no>
+    <version_id>602598b0986f45a89e5200af8584a6de</version_id>
+    <module_type_id>4744dcfbfa8c4bb4adf75b3feb9a965e</module_type_id>
+  </module>
+  <module_type module_type_id="4744dcfbfa8c4bb4adf75b3feb9a965e">
+    <module_type_no>author_group</module_type_no>
+    <module_type_name>权限相关模块</module_type_name>
+    <create_date>2016/09/26 19:18:39</create_date>
+    <modified_date>2016/09/26 19:18:39</modified_date>
+    <modified_by></modified_by>
+    <create_by></create_by>
+    <parent_id>0</parent_id>
+  </module_type>
+</modules>

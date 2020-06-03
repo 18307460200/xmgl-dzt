@@ -1,0 +1,490 @@
+2018-12-04 19:34:18 [com.project.listener.ApplicationLifecycleListener]-[INFO] Starting application......
+2018-12-04 19:34:18 [com.thinkive.gateway.v2.config.BusConfig]-[ERROR] 未找到配置文件[BusConfig.xml]
+2018-12-04 19:34:18 [com.thinkive.web.common.filter.SetCharacterEncodingFilter]-[INFO] SetCharacterEncodingFilter init ----------
+2018-12-04 19:34:21 [com.thinkive.gateway.v2.config.BusConfig]-[INFO] 配置文件[BusConfig.xml]不存在，请检查!
+2018-12-04 19:34:24 [com.thinkive.gateway.v2.config.BusConfig]-[INFO] 配置文件[BusConfig.xml]不存在，请检查!
+2018-12-04 19:34:27 [com.thinkive.gateway.v2.config.BusConfig]-[INFO] 配置文件[BusConfig.xml]不存在，请检查!
+2018-12-05 19:46:06 [com.project.listener.ApplicationLifecycleListener]-[INFO] Starting application......
+2018-12-05 19:46:06 [com.thinkive.gateway.v2.config.BusConfig]-[ERROR] 未找到配置文件[BusConfig.xml]
+2018-12-05 19:46:06 [com.thinkive.web.common.filter.SetCharacterEncodingFilter]-[INFO] SetCharacterEncodingFilter init ----------
+2018-12-06 14:16:10 [com.project.listener.ApplicationLifecycleListener]-[INFO] Starting application......
+2018-12-06 14:16:10 [com.thinkive.gateway.v2.config.BusConfig]-[ERROR] 未找到配置文件[BusConfig.xml]
+2018-12-06 14:16:10 [com.thinkive.web.common.filter.SetCharacterEncodingFilter]-[INFO] SetCharacterEncodingFilter init ----------
+2018-12-06 14:16:13 [com.thinkive.gateway.v2.config.BusConfig]-[INFO] 配置文件[BusConfig.xml]不存在，请检查!
+2018-12-06 14:16:16 [com.thinkive.gateway.v2.config.BusConfig]-[INFO] 配置文件[BusConfig.xml]不存在，请检查!
+2018-12-06 14:16:19 [com.thinkive.gateway.v2.config.BusConfig]-[INFO] 配置文件[BusConfig.xml]不存在，请检查!
+2018-12-06 14:23:54 [com.project.listener.ApplicationLifecycleListener]-[INFO] Starting application......
+2018-12-06 14:23:54 [com.thinkive.gateway.v2.config.BusConfig]-[ERROR] 未找到配置文件[BusConfig.xml]
+2018-12-06 14:23:54 [com.thinkive.web.common.filter.SetCharacterEncodingFilter]-[INFO] SetCharacterEncodingFilter init ----------
+2018-12-06 14:23:57 [com.thinkive.gateway.v2.config.BusConfig]-[INFO] 配置文件[BusConfig.xml]不存在，请检查!
+2018-12-06 14:24:02 [com.project.listener.ApplicationLifecycleListener]-[INFO] Starting application......
+2018-12-06 14:24:02 [com.thinkive.gateway.v2.config.BusConfig]-[ERROR] 未找到配置文件[BusConfig.xml]
+2018-12-06 14:24:02 [com.thinkive.web.common.filter.SetCharacterEncodingFilter]-[INFO] SetCharacterEncodingFilter init ----------
+2018-12-06 14:24:05 [com.thinkive.gateway.v2.config.BusConfig]-[INFO] 配置文件[BusConfig.xml]不存在，请检查!
+2018-12-06 14:24:08 [com.thinkive.gateway.v2.config.BusConfig]-[INFO] 配置文件[BusConfig.xml]不存在，请检查!
+2018-12-06 14:24:11 [com.thinkive.gateway.v2.config.BusConfig]-[INFO] 配置文件[BusConfig.xml]不存在，请检查!
+2018-12-06 14:24:14 [com.thinkive.gateway.v2.config.BusConfig]-[INFO] 配置文件[BusConfig.xml]不存在，请检查!
+2018-12-06 14:24:17 [com.thinkive.gateway.v2.config.BusConfig]-[INFO] 配置文件[BusConfig.xml]不存在，请检查!
+2018-12-06 14:24:20 [com.thinkive.gateway.v2.config.BusConfig]-[INFO] 配置文件[BusConfig.xml]不存在，请检查!
+2018-12-06 14:24:23 [com.thinkive.gateway.v2.config.BusConfig]-[INFO] 配置文件[BusConfig.xml]不存在，请检查!
+2018-12-06 14:24:24 [com.thinkive.workplat.web.action.PlatBaseAction]-[INFO] 开始执行 [root.Login.doDefault]
+2018-12-06 14:24:24 [com.thinkive.workplat.web.action.PlatBaseAction]-[INFO] 执行完成 [root.Login.doDefault] times=442 millisecond
+2018-12-06 14:24:26 [com.thinkive.gateway.v2.config.BusConfig]-[INFO] 配置文件[BusConfig.xml]不存在，请检查!
+2018-12-06 14:24:29 [com.thinkive.gateway.v2.config.BusConfig]-[INFO] 配置文件[BusConfig.xml]不存在，请检查!
+2018-12-06 14:24:32 [com.thinkive.gateway.v2.config.BusConfig]-[INFO] 配置文件[BusConfig.xml]不存在，请检查!
+2018-12-06 14:24:34 [com.thinkive.fxc.tysp.base.video.servlet.ImageUploadServlet]-[ERROR] 保存图片失败
+java.lang.Exception: 未登录
+	at com.thinkive.fxc.tysp.base.video.servlet.ImageUploadServlet.doPost(ImageUploadServlet.java:64)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:727)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:820)
+	at org.mortbay.jetty.servlet.ServletHolder.handle(ServletHolder.java:511)
+	at org.mortbay.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1221)
+	at com.thinkive.web.common.filter.SetCharacterEncodingFilter.doFilter(SetCharacterEncodingFilter.java:60)
+	at org.mortbay.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1212)
+	at com.thetransactioncompany.cors.CORSFilter.doFilter(CORSFilter.java:156)
+	at com.thetransactioncompany.cors.CORSFilter.doFilter(CORSFilter.java:233)
+	at org.mortbay.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1212)
+	at org.mortbay.jetty.servlet.ServletHandler.handle(ServletHandler.java:399)
+	at org.mortbay.jetty.security.SecurityHandler.handle(SecurityHandler.java:216)
+	at org.mortbay.jetty.servlet.SessionHandler.handle(SessionHandler.java:182)
+	at org.mortbay.jetty.handler.ContextHandler.handle(ContextHandler.java:766)
+	at org.mortbay.jetty.webapp.WebAppContext.handle(WebAppContext.java:450)
+	at org.mortbay.jetty.handler.HandlerWrapper.handle(HandlerWrapper.java:152)
+	at org.mortbay.jetty.Server.handle(Server.java:326)
+	at org.mortbay.jetty.HttpConnection.handleRequest(HttpConnection.java:542)
+	at org.mortbay.jetty.HttpConnection$RequestHandler.content(HttpConnection.java:945)
+	at org.mortbay.jetty.HttpParser.parseNext(HttpParser.java:756)
+	at org.mortbay.jetty.HttpParser.parseAvailable(HttpParser.java:212)
+	at org.mortbay.jetty.HttpConnection.handle(HttpConnection.java:404)
+	at org.mortbay.io.nio.SelectChannelEndPoint.run(SelectChannelEndPoint.java:410)
+	at org.mortbay.thread.QueuedThreadPool$PoolThread.run(QueuedThreadPool.java:582)
+2018-12-06 14:24:34 [com.thinkive.fxc.tysp.base.video.servlet.ImageUploadServlet]-[INFO] 返回给上传插件的数据：{"err_msg":"上传失败","err_no":"-1"}
+2018-12-06 14:24:35 [com.thinkive.gateway.v2.config.BusConfig]-[INFO] 配置文件[BusConfig.xml]不存在，请检查!
+2018-12-06 14:24:38 [com.thinkive.gateway.v2.config.BusConfig]-[INFO] 配置文件[BusConfig.xml]不存在，请检查!
+2018-12-06 14:24:41 [com.thinkive.gateway.v2.config.BusConfig]-[INFO] 配置文件[BusConfig.xml]不存在，请检查!
+2018-12-06 14:34:03 [com.project.listener.ApplicationLifecycleListener]-[INFO] Starting application......
+2018-12-06 14:34:03 [com.thinkive.gateway.v2.config.BusConfig]-[ERROR] 未找到配置文件[BusConfig.xml]
+2018-12-06 14:34:03 [com.thinkive.web.common.filter.SetCharacterEncodingFilter]-[INFO] SetCharacterEncodingFilter init ----------
+2018-12-06 14:34:06 [com.thinkive.gateway.v2.config.BusConfig]-[INFO] 配置文件[BusConfig.xml]不存在，请检查!
+2018-12-06 14:34:09 [com.thinkive.gateway.v2.config.BusConfig]-[INFO] 配置文件[BusConfig.xml]不存在，请检查!
+2018-12-06 14:34:12 [com.thinkive.gateway.v2.config.BusConfig]-[INFO] 配置文件[BusConfig.xml]不存在，请检查!
+2018-12-06 14:34:15 [com.thinkive.gateway.v2.config.BusConfig]-[INFO] 配置文件[BusConfig.xml]不存在，请检查!
+2018-12-06 14:34:18 [com.thinkive.gateway.v2.config.BusConfig]-[INFO] 配置文件[BusConfig.xml]不存在，请检查!
+2018-12-06 14:34:18 [org.springframework.context.support.ClassPathXmlApplicationContext]-[INFO] Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@2c6691da: startup date [Thu Dec 06 14:34:18 CST 2018]; root of context hierarchy
+2018-12-06 14:34:19 [org.springframework.beans.factory.xml.XmlBeanDefinitionReader]-[INFO] Loading XML bean definitions from class path resource [conf/com/thinkive/cache/spring_bean_cache.xml]
+2018-12-06 14:34:19 [com.thinkive.fxc.tysp.base.video.servlet.ImageUploadServlet]-[ERROR] 保存图片失败
+org.springframework.beans.factory.NoSuchBeanDefinitionException: No bean named 'VuserService' is defined
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.getBeanDefinition(DefaultListableBeanFactory.java:638)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getMergedLocalBeanDefinition(AbstractBeanFactory.java:1159)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:282)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:200)
+	at org.springframework.context.support.AbstractApplicationContext.getBean(AbstractApplicationContext.java:979)
+	at com.thinkive.base.util.SpringHelper.getBean(SpringHelper.java:192)
+	at com.thinkive.fxc.tysp.base.video.servlet.ImageUploadServlet.doPost(ImageUploadServlet.java:101)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:727)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:820)
+	at org.mortbay.jetty.servlet.ServletHolder.handle(ServletHolder.java:511)
+	at org.mortbay.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1221)
+	at com.thinkive.web.common.filter.SetCharacterEncodingFilter.doFilter(SetCharacterEncodingFilter.java:60)
+	at org.mortbay.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1212)
+	at com.thetransactioncompany.cors.CORSFilter.doFilter(CORSFilter.java:156)
+	at com.thetransactioncompany.cors.CORSFilter.doFilter(CORSFilter.java:233)
+	at org.mortbay.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1212)
+	at org.mortbay.jetty.servlet.ServletHandler.handle(ServletHandler.java:399)
+	at org.mortbay.jetty.security.SecurityHandler.handle(SecurityHandler.java:216)
+	at org.mortbay.jetty.servlet.SessionHandler.handle(SessionHandler.java:182)
+	at org.mortbay.jetty.handler.ContextHandler.handle(ContextHandler.java:766)
+	at org.mortbay.jetty.webapp.WebAppContext.handle(WebAppContext.java:450)
+	at org.mortbay.jetty.handler.HandlerWrapper.handle(HandlerWrapper.java:152)
+	at org.mortbay.jetty.Server.handle(Server.java:326)
+	at org.mortbay.jetty.HttpConnection.handleRequest(HttpConnection.java:542)
+	at org.mortbay.jetty.HttpConnection$RequestHandler.content(HttpConnection.java:945)
+	at org.mortbay.jetty.HttpParser.parseNext(HttpParser.java:756)
+	at org.mortbay.jetty.HttpParser.parseAvailable(HttpParser.java:218)
+	at org.mortbay.jetty.HttpConnection.handle(HttpConnection.java:404)
+	at org.mortbay.io.nio.SelectChannelEndPoint.run(SelectChannelEndPoint.java:410)
+	at org.mortbay.thread.QueuedThreadPool$PoolThread.run(QueuedThreadPool.java:582)
+2018-12-06 14:34:19 [com.thinkive.fxc.tysp.base.video.servlet.ImageUploadServlet]-[INFO] 返回给上传插件的数据：{"err_msg":"上传失败","err_no":"-1"}
+2018-12-06 14:34:21 [com.thinkive.gateway.v2.config.BusConfig]-[INFO] 配置文件[BusConfig.xml]不存在，请检查!
+2018-12-06 14:34:24 [com.thinkive.gateway.v2.config.BusConfig]-[INFO] 配置文件[BusConfig.xml]不存在，请检查!
+2018-12-06 14:34:27 [com.thinkive.gateway.v2.config.BusConfig]-[INFO] 配置文件[BusConfig.xml]不存在，请检查!
+2018-12-06 14:34:30 [com.thinkive.gateway.v2.config.BusConfig]-[INFO] 配置文件[BusConfig.xml]不存在，请检查!
+2018-12-06 14:34:33 [com.thinkive.gateway.v2.config.BusConfig]-[INFO] 配置文件[BusConfig.xml]不存在，请检查!
+2018-12-06 14:34:36 [com.thinkive.gateway.v2.config.BusConfig]-[INFO] 配置文件[BusConfig.xml]不存在，请检查!
+2018-12-06 14:34:39 [com.thinkive.gateway.v2.config.BusConfig]-[INFO] 配置文件[BusConfig.xml]不存在，请检查!
+2018-12-06 14:34:42 [com.thinkive.gateway.v2.config.BusConfig]-[INFO] 配置文件[BusConfig.xml]不存在，请检查!
+2018-12-06 14:34:45 [com.thinkive.gateway.v2.config.BusConfig]-[INFO] 配置文件[BusConfig.xml]不存在，请检查!
+2018-12-06 14:34:48 [com.thinkive.gateway.v2.config.BusConfig]-[INFO] 配置文件[BusConfig.xml]不存在，请检查!
+2018-12-06 14:34:51 [com.thinkive.gateway.v2.config.BusConfig]-[INFO] 配置文件[BusConfig.xml]不存在，请检查!
+2018-12-06 14:34:54 [com.thinkive.gateway.v2.config.BusConfig]-[INFO] 配置文件[BusConfig.xml]不存在，请检查!
+2018-12-06 14:34:57 [com.thinkive.gateway.v2.config.BusConfig]-[INFO] 配置文件[BusConfig.xml]不存在，请检查!
+2018-12-06 14:35:00 [com.thinkive.gateway.v2.config.BusConfig]-[INFO] 配置文件[BusConfig.xml]不存在，请检查!
+2018-12-06 14:35:03 [com.thinkive.gateway.v2.config.BusConfig]-[INFO] 配置文件[BusConfig.xml]不存在，请检查!
+2018-12-06 14:35:06 [com.thinkive.gateway.v2.config.BusConfig]-[INFO] 配置文件[BusConfig.xml]不存在，请检查!
+2018-12-06 14:35:09 [com.thinkive.gateway.v2.config.BusConfig]-[INFO] 配置文件[BusConfig.xml]不存在，请检查!
+2018-12-06 14:35:12 [com.thinkive.gateway.v2.config.BusConfig]-[INFO] 配置文件[BusConfig.xml]不存在，请检查!
+2018-12-06 14:35:15 [com.thinkive.gateway.v2.config.BusConfig]-[INFO] 配置文件[BusConfig.xml]不存在，请检查!
+2018-12-06 14:35:18 [com.thinkive.gateway.v2.config.BusConfig]-[INFO] 配置文件[BusConfig.xml]不存在，请检查!
+2018-12-06 14:35:21 [com.thinkive.gateway.v2.config.BusConfig]-[INFO] 配置文件[BusConfig.xml]不存在，请检查!
+2018-12-06 14:37:03 [com.project.listener.ApplicationLifecycleListener]-[INFO] Starting application......
+2018-12-06 14:37:03 [com.thinkive.gateway.v2.config.BusConfig]-[ERROR] 未找到配置文件[BusConfig.xml]
+2018-12-06 14:37:03 [com.thinkive.web.common.filter.SetCharacterEncodingFilter]-[INFO] SetCharacterEncodingFilter init ----------
+2018-12-06 14:37:06 [com.thinkive.gateway.v2.config.BusConfig]-[INFO] 配置文件[BusConfig.xml]不存在，请检查!
+2018-12-06 14:37:09 [com.thinkive.gateway.v2.config.BusConfig]-[INFO] 配置文件[BusConfig.xml]不存在，请检查!
+2018-12-06 14:37:12 [com.thinkive.gateway.v2.config.BusConfig]-[INFO] 配置文件[BusConfig.xml]不存在，请检查!
+2018-12-06 14:37:15 [com.thinkive.gateway.v2.config.BusConfig]-[INFO] 配置文件[BusConfig.xml]不存在，请检查!
+2018-12-06 14:37:18 [com.thinkive.gateway.v2.config.BusConfig]-[INFO] 配置文件[BusConfig.xml]不存在，请检查!
+2018-12-06 14:37:21 [com.thinkive.gateway.v2.config.BusConfig]-[INFO] 配置文件[BusConfig.xml]不存在，请检查!
+2018-12-06 15:42:10 [com.project.listener.ApplicationLifecycleListener]-[INFO] Starting application......
+2018-12-06 15:42:10 [com.thinkive.gateway.v2.config.BusConfig]-[ERROR] 未找到配置文件[BusConfig.xml]
+2018-12-06 15:42:10 [com.thinkive.web.common.filter.SetCharacterEncodingFilter]-[INFO] SetCharacterEncodingFilter init ----------
+2018-12-06 15:42:13 [com.thinkive.gateway.v2.config.BusConfig]-[INFO] 配置文件[BusConfig.xml]不存在，请检查!
+2018-12-11 14:52:25 [com.project.listener.ApplicationLifecycleListener]-[INFO] Starting application......
+2018-12-11 14:52:25 [com.thinkive.gateway.v2.config.BusConfig]-[ERROR] 未找到配置文件[BusConfig.xml]
+2018-12-11 14:52:25 [com.thinkive.web.common.filter.SetCharacterEncodingFilter]-[INFO] SetCharacterEncodingFilter init ----------
+2018-12-11 14:52:28 [com.thinkive.gateway.v2.config.BusConfig]-[INFO] 配置文件[BusConfig.xml]不存在，请检查!
+2018-12-13 11:09:44 [com.project.listener.ApplicationLifecycleListener]-[INFO] Starting application......
+2018-12-13 11:09:44 [com.thinkive.gateway.v2.config.BusConfig]-[ERROR] 未找到配置文件[BusConfig.xml]
+2018-12-13 11:09:44 [com.thinkive.web.common.filter.SetCharacterEncodingFilter]-[INFO] SetCharacterEncodingFilter init ----------
+2018-12-13 11:09:47 [com.thinkive.gateway.v2.config.BusConfig]-[INFO] 配置文件[BusConfig.xml]不存在，请检查!
+2018-12-13 11:09:50 [com.thinkive.gateway.v2.config.BusConfig]-[INFO] 配置文件[BusConfig.xml]不存在，请检查!
+2018-12-13 11:09:53 [com.thinkive.gateway.v2.config.BusConfig]-[INFO] 配置文件[BusConfig.xml]不存在，请检查!
+2018-12-13 11:09:56 [com.thinkive.gateway.v2.config.BusConfig]-[INFO] 配置文件[BusConfig.xml]不存在，请检查!
+2018-12-13 11:09:59 [com.thinkive.gateway.v2.config.BusConfig]-[INFO] 配置文件[BusConfig.xml]不存在，请检查!
+2018-12-13 11:10:02 [com.thinkive.gateway.v2.config.BusConfig]-[INFO] 配置文件[BusConfig.xml]不存在，请检查!
+2018-12-13 11:10:05 [com.thinkive.gateway.v2.config.BusConfig]-[INFO] 配置文件[BusConfig.xml]不存在，请检查!
+2018-12-13 11:10:08 [com.thinkive.gateway.v2.config.BusConfig]-[INFO] 配置文件[BusConfig.xml]不存在，请检查!
+2018-12-13 11:10:11 [com.thinkive.gateway.v2.config.BusConfig]-[INFO] 配置文件[BusConfig.xml]不存在，请检查!
+2018-12-13 11:10:14 [com.thinkive.gateway.v2.config.BusConfig]-[INFO] 配置文件[BusConfig.xml]不存在，请检查!
+2018-12-13 11:10:17 [com.thinkive.gateway.v2.config.BusConfig]-[INFO] 配置文件[BusConfig.xml]不存在，请检查!
+2018-12-13 11:10:20 [com.thinkive.gateway.v2.config.BusConfig]-[INFO] 配置文件[BusConfig.xml]不存在，请检查!
+2018-12-13 11:10:23 [com.thinkive.gateway.v2.config.BusConfig]-[INFO] 配置文件[BusConfig.xml]不存在，请检查!
+2018-12-13 11:10:26 [com.thinkive.gateway.v2.config.BusConfig]-[INFO] 配置文件[BusConfig.xml]不存在，请检查!
+2018-12-13 11:10:29 [com.thinkive.gateway.v2.config.BusConfig]-[INFO] 配置文件[BusConfig.xml]不存在，请检查!
+2018-12-13 11:10:32 [com.thinkive.gateway.v2.config.BusConfig]-[INFO] 配置文件[BusConfig.xml]不存在，请检查!
+2018-12-13 11:10:35 [com.thinkive.gateway.v2.config.BusConfig]-[INFO] 配置文件[BusConfig.xml]不存在，请检查!
+2018-12-13 11:10:38 [com.thinkive.gateway.v2.config.BusConfig]-[INFO] 配置文件[BusConfig.xml]不存在，请检查!
+2018-12-13 11:10:41 [com.thinkive.gateway.v2.config.BusConfig]-[INFO] 配置文件[BusConfig.xml]不存在，请检查!
+2018-12-13 11:10:44 [com.thinkive.gateway.v2.config.BusConfig]-[INFO] 配置文件[BusConfig.xml]不存在，请检查!
+2018-12-13 11:10:47 [com.thinkive.gateway.v2.config.BusConfig]-[INFO] 配置文件[BusConfig.xml]不存在，请检查!
+2018-12-13 11:10:50 [com.thinkive.gateway.v2.config.BusConfig]-[INFO] 配置文件[BusConfig.xml]不存在，请检查!
+2018-12-13 11:10:53 [com.thinkive.gateway.v2.config.BusConfig]-[INFO] 配置文件[BusConfig.xml]不存在，请检查!
+2018-12-13 11:10:56 [com.thinkive.gateway.v2.config.BusConfig]-[INFO] 配置文件[BusConfig.xml]不存在，请检查!
+2018-12-13 11:10:59 [com.thinkive.gateway.v2.config.BusConfig]-[INFO] 配置文件[BusConfig.xml]不存在，请检查!
+2018-12-13 11:10:59 [com.thinkive.workplat.web.action.PlatBaseAction]-[INFO] 开始执行 [root.Login.doDefault]
+2018-12-13 11:11:00 [com.thinkive.workplat.web.action.PlatBaseAction]-[INFO] 执行完成 [root.Login.doDefault] times=678 millisecond
+2018-12-13 11:11:02 [com.thinkive.gateway.v2.config.BusConfig]-[INFO] 配置文件[BusConfig.xml]不存在，请检查!
+2018-12-13 11:11:05 [com.thinkive.gateway.v2.config.BusConfig]-[INFO] 配置文件[BusConfig.xml]不存在，请检查!
+2018-12-13 11:11:05 [org.springframework.context.support.ClassPathXmlApplicationContext]-[INFO] Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@60666a53: startup date [Thu Dec 13 11:11:05 CST 2018]; root of context hierarchy
+2018-12-13 11:11:05 [org.springframework.beans.factory.xml.XmlBeanDefinitionReader]-[INFO] Loading XML bean definitions from class path resource [conf/com/thinkive/cache/spring_bean_cache.xml]
+2018-12-13 11:11:06 [com.thinkive.cache.service.impl.SysParameterServiceImpl]-[ERROR] 更新系统参数缓存异常！
+java.lang.NullPointerException
+	at com.thinkive.base.jdbc.connection.ConnManager.getConnection(ConnManager.java:44)
+	at com.thinkive.base.jdbc.session.SessionFactory.getSession(SessionFactory.java:31)
+	at com.thinkive.base.mybatis.v2.jdbc.MyBatisSession.getSession(MyBatisSession.java:420)
+	at com.thinkive.base.mybatis.v2.jdbc.MyBatisSession.<init>(MyBatisSession.java:38)
+	at com.thinkive.base.mybatis.v2.jdbc.MyBatisTemplate.query(MyBatisTemplate.java:34)
+	at com.thinkive.base.mybatis.v2.jdbc.MyBatisTemplate.query(MyBatisTemplate.java:26)
+	at com.thinkive.cache.dao.SysParameterDao.queryList(SysParameterDao.java:34)
+	at com.thinkive.cache.service.impl.SysParameterServiceImpl.queryList(SysParameterServiceImpl.java:33)
+	at com.thinkive.cache.service.impl.SysParameterServiceImpl.replaceData(SysParameterServiceImpl.java:46)
+	at com.thinkive.cache.sys.SysParameter.<clinit>(SysParameter.java:122)
+	at com.thinkive.workplat.util.ConvertParameterUtil.<clinit>(ConvertParameterUtil.java:27)
+	at com.thinkive.workplat.web.action.PlatBaseFunction.deserializeToMap(PlatBaseFunction.java:499)
+	at com.thinkive.workplat.web.action.PlatBaseFunction.checkSign(PlatBaseFunction.java:393)
+	at com.thinkive.workplat.web.action.PlatBaseFunction.execute(PlatBaseFunction.java:105)
+	at com.thinkive.web.base.FastServlet.invokeAction(FastServlet.java:111)
+	at com.thinkive.web.base.FastServlet.service(FastServlet.java:91)
+	at com.thinkive.workplat.PlatFastServlet.service(PlatFastServlet.java:39)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:820)
+	at org.mortbay.jetty.servlet.ServletHolder.handle(ServletHolder.java:511)
+	at org.mortbay.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1221)
+	at com.thinkive.web.common.filter.SetCharacterEncodingFilter.doFilter(SetCharacterEncodingFilter.java:60)
+	at org.mortbay.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1212)
+	at com.thetransactioncompany.cors.CORSFilter.doFilter(CORSFilter.java:168)
+	at com.thetransactioncompany.cors.CORSFilter.doFilter(CORSFilter.java:233)
+	at org.mortbay.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1212)
+	at org.mortbay.jetty.servlet.ServletHandler.handle(ServletHandler.java:399)
+	at org.mortbay.jetty.security.SecurityHandler.handle(SecurityHandler.java:216)
+	at org.mortbay.jetty.servlet.SessionHandler.handle(SessionHandler.java:182)
+	at org.mortbay.jetty.handler.ContextHandler.handle(ContextHandler.java:766)
+	at org.mortbay.jetty.webapp.WebAppContext.handle(WebAppContext.java:450)
+	at org.mortbay.jetty.handler.HandlerWrapper.handle(HandlerWrapper.java:152)
+	at org.mortbay.jetty.Server.handle(Server.java:326)
+	at org.mortbay.jetty.HttpConnection.handleRequest(HttpConnection.java:542)
+	at org.mortbay.jetty.HttpConnection$RequestHandler.content(HttpConnection.java:945)
+	at org.mortbay.jetty.HttpParser.parseNext(HttpParser.java:756)
+	at org.mortbay.jetty.HttpParser.parseAvailable(HttpParser.java:218)
+	at org.mortbay.jetty.HttpConnection.handle(HttpConnection.java:404)
+	at org.mortbay.io.nio.SelectChannelEndPoint.run(SelectChannelEndPoint.java:410)
+	at org.mortbay.thread.QueuedThreadPool$PoolThread.run(QueuedThreadPool.java:582)
+2018-12-13 11:11:06 [com.thinkive.workplat.web.action.PlatBaseFunction]-[INFO] 请求Function[root.function.GetRsaPubKey]开始,入参[{getrsapubkey:getRsaPubKey}],验签花费时间[1131]毫秒
+2018-12-13 11:11:06 [com.thinkive.cache.service.impl.SysParameterServiceImpl]-[ERROR] 更新系统参数缓存异常！
+java.lang.NullPointerException
+	at com.thinkive.base.jdbc.connection.ConnManager.getConnection(ConnManager.java:44)
+	at com.thinkive.base.jdbc.session.SessionFactory.getSession(SessionFactory.java:31)
+	at com.thinkive.base.mybatis.v2.jdbc.MyBatisSession.getSession(MyBatisSession.java:420)
+	at com.thinkive.base.mybatis.v2.jdbc.MyBatisSession.<init>(MyBatisSession.java:38)
+	at com.thinkive.base.mybatis.v2.jdbc.MyBatisTemplate.query(MyBatisTemplate.java:34)
+	at com.thinkive.base.mybatis.v2.jdbc.MyBatisTemplate.query(MyBatisTemplate.java:26)
+	at com.thinkive.cache.dao.SysParameterDao.queryList(SysParameterDao.java:34)
+	at com.thinkive.cache.service.impl.SysParameterServiceImpl.queryList(SysParameterServiceImpl.java:33)
+	at com.thinkive.cache.service.impl.SysParameterServiceImpl.replaceData(SysParameterServiceImpl.java:46)
+	at com.thinkive.cache.sys.SysParameterListener.run(SysParameterListener.java:33)
+2018-12-13 11:11:06 [com.thinkive.base.util.PropertiesHelper]-[ERROR] 读取输入流数据出错
+java.lang.NullPointerException
+	at java.util.Properties$LineReader.readLine(Properties.java:418)
+	at java.util.Properties.load0(Properties.java:337)
+	at java.util.Properties.load(Properties.java:325)
+	at com.thinkive.base.util.PropertiesHelper.loadProperties(PropertiesHelper.java:61)
+	at com.thinkive.workplat.util.SM2.<clinit>(SM2.java:29)
+	at root.function.GetRsaPubKey.execute(GetRsaPubKey.java:47)
+	at com.thinkive.workplat.web.action.PlatBaseFunction.execute(PlatBaseFunction.java:124)
+	at com.thinkive.web.base.FastServlet.invokeAction(FastServlet.java:111)
+	at com.thinkive.web.base.FastServlet.service(FastServlet.java:91)
+	at com.thinkive.workplat.PlatFastServlet.service(PlatFastServlet.java:39)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:820)
+	at org.mortbay.jetty.servlet.ServletHolder.handle(ServletHolder.java:511)
+	at org.mortbay.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1221)
+	at com.thinkive.web.common.filter.SetCharacterEncodingFilter.doFilter(SetCharacterEncodingFilter.java:60)
+	at org.mortbay.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1212)
+	at com.thetransactioncompany.cors.CORSFilter.doFilter(CORSFilter.java:168)
+	at com.thetransactioncompany.cors.CORSFilter.doFilter(CORSFilter.java:233)
+	at org.mortbay.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1212)
+	at org.mortbay.jetty.servlet.ServletHandler.handle(ServletHandler.java:399)
+	at org.mortbay.jetty.security.SecurityHandler.handle(SecurityHandler.java:216)
+	at org.mortbay.jetty.servlet.SessionHandler.handle(SessionHandler.java:182)
+	at org.mortbay.jetty.handler.ContextHandler.handle(ContextHandler.java:766)
+	at org.mortbay.jetty.webapp.WebAppContext.handle(WebAppContext.java:450)
+	at org.mortbay.jetty.handler.HandlerWrapper.handle(HandlerWrapper.java:152)
+	at org.mortbay.jetty.Server.handle(Server.java:326)
+	at org.mortbay.jetty.HttpConnection.handleRequest(HttpConnection.java:542)
+	at org.mortbay.jetty.HttpConnection$RequestHandler.content(HttpConnection.java:945)
+	at org.mortbay.jetty.HttpParser.parseNext(HttpParser.java:756)
+	at org.mortbay.jetty.HttpParser.parseAvailable(HttpParser.java:218)
+	at org.mortbay.jetty.HttpConnection.handle(HttpConnection.java:404)
+	at org.mortbay.io.nio.SelectChannelEndPoint.run(SelectChannelEndPoint.java:410)
+	at org.mortbay.thread.QueuedThreadPool$PoolThread.run(QueuedThreadPool.java:582)
+2018-12-13 11:11:06 [root.function.GetRsaPubKey]-[ERROR] 读取公钥信息失败，请检查sm2_key.properties文件是否存在
+2018-12-13 11:11:06 [com.thinkive.workplat.web.action.PlatBaseFunction]-[WARN] 请求Function[root.function.GetRsaPubKey],版本编号[],事件编号[],错误标识[1]发生业务异常,异常原因[读取公钥信息失败，请检查sm2_key.properties文件是否存在],null
+2018-12-13 11:11:06 [com.thinkive.workplat.web.action.PlatBaseFunction]-[INFO] 请求Function[root.LoginFunction]开始,入参[{loginid:admin,ticket:jadr,password:11|******}],验签花费时间[1]毫秒
+2018-12-13 11:11:06 [com.thinkive.workplat.web.action.PlatBaseFunction]-[ERROR] 请求Function[root.LoginFunction]发生系统异常,异常原因[No bean named 'UserService' is defined]
+org.springframework.beans.factory.NoSuchBeanDefinitionException: No bean named 'UserService' is defined
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.getBeanDefinition(DefaultListableBeanFactory.java:638)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getMergedLocalBeanDefinition(AbstractBeanFactory.java:1159)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:282)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:195)
+	at org.springframework.context.support.AbstractApplicationContext.getBean(AbstractApplicationContext.java:973)
+	at com.thinkive.base.util.SpringHelper.getBean(SpringHelper.java:179)
+	at root.LoginFunction.execute(LoginFunction.java:108)
+	at com.thinkive.workplat.web.action.PlatBaseFunction.execute(PlatBaseFunction.java:124)
+	at com.thinkive.web.base.FastServlet.invokeAction(FastServlet.java:111)
+	at com.thinkive.web.base.FastServlet.service(FastServlet.java:91)
+	at com.thinkive.workplat.PlatFastServlet.service(PlatFastServlet.java:39)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:820)
+	at org.mortbay.jetty.servlet.ServletHolder.handle(ServletHolder.java:511)
+	at org.mortbay.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1221)
+	at com.thinkive.web.common.filter.SetCharacterEncodingFilter.doFilter(SetCharacterEncodingFilter.java:60)
+	at org.mortbay.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1212)
+	at com.thetransactioncompany.cors.CORSFilter.doFilter(CORSFilter.java:168)
+	at com.thetransactioncompany.cors.CORSFilter.doFilter(CORSFilter.java:233)
+	at org.mortbay.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1212)
+	at org.mortbay.jetty.servlet.ServletHandler.handle(ServletHandler.java:399)
+	at org.mortbay.jetty.security.SecurityHandler.handle(SecurityHandler.java:216)
+	at org.mortbay.jetty.servlet.SessionHandler.handle(SessionHandler.java:182)
+	at org.mortbay.jetty.handler.ContextHandler.handle(ContextHandler.java:766)
+	at org.mortbay.jetty.webapp.WebAppContext.handle(WebAppContext.java:450)
+	at org.mortbay.jetty.handler.HandlerWrapper.handle(HandlerWrapper.java:152)
+	at org.mortbay.jetty.Server.handle(Server.java:326)
+	at org.mortbay.jetty.HttpConnection.handleRequest(HttpConnection.java:542)
+	at org.mortbay.jetty.HttpConnection$RequestHandler.content(HttpConnection.java:945)
+	at org.mortbay.jetty.HttpParser.parseNext(HttpParser.java:756)
+	at org.mortbay.jetty.HttpParser.parseAvailable(HttpParser.java:218)
+	at org.mortbay.jetty.HttpConnection.handle(HttpConnection.java:404)
+	at org.mortbay.io.nio.SelectChannelEndPoint.run(SelectChannelEndPoint.java:410)
+	at org.mortbay.thread.QueuedThreadPool$PoolThread.run(QueuedThreadPool.java:582)
+2018-12-13 11:11:08 [com.thinkive.gateway.v2.config.BusConfig]-[INFO] 配置文件[BusConfig.xml]不存在，请检查!
+2018-12-13 11:11:11 [com.thinkive.gateway.v2.config.BusConfig]-[INFO] 配置文件[BusConfig.xml]不存在，请检查!
+2018-12-13 11:11:14 [com.thinkive.gateway.v2.config.BusConfig]-[INFO] 配置文件[BusConfig.xml]不存在，请检查!
+2018-12-13 11:11:17 [com.thinkive.gateway.v2.config.BusConfig]-[INFO] 配置文件[BusConfig.xml]不存在，请检查!
+2018-12-13 11:11:20 [com.thinkive.gateway.v2.config.BusConfig]-[INFO] 配置文件[BusConfig.xml]不存在，请检查!
+2018-12-13 11:11:23 [com.thinkive.gateway.v2.config.BusConfig]-[INFO] 配置文件[BusConfig.xml]不存在，请检查!
+2018-12-13 11:11:26 [com.thinkive.gateway.v2.config.BusConfig]-[INFO] 配置文件[BusConfig.xml]不存在，请检查!
+2018-12-13 11:11:29 [com.thinkive.gateway.v2.config.BusConfig]-[INFO] 配置文件[BusConfig.xml]不存在，请检查!
+2018-12-13 11:11:32 [com.thinkive.gateway.v2.config.BusConfig]-[INFO] 配置文件[BusConfig.xml]不存在，请检查!
+2018-12-13 11:11:35 [com.thinkive.gateway.v2.config.BusConfig]-[INFO] 配置文件[BusConfig.xml]不存在，请检查!
+2018-12-13 11:11:38 [com.thinkive.gateway.v2.config.BusConfig]-[INFO] 配置文件[BusConfig.xml]不存在，请检查!
+2018-12-17 18:12:46 [com.project.listener.ApplicationLifecycleListener]-[INFO] Starting application......
+2018-12-17 18:12:46 [com.thinkive.gateway.v2.config.BusConfig]-[ERROR] 未找到配置文件[BusConfig.xml]
+2018-12-17 18:12:46 [com.thinkive.web.common.filter.SetCharacterEncodingFilter]-[INFO] SetCharacterEncodingFilter init ----------
+2018-12-17 18:36:28 [com.project.listener.ApplicationLifecycleListener]-[INFO] Starting application......
+2018-12-17 18:36:28 [com.thinkive.gateway.v2.config.BusConfig]-[ERROR] 未找到配置文件[BusConfig.xml]
+2018-12-17 18:36:28 [com.thinkive.web.common.filter.SetCharacterEncodingFilter]-[INFO] SetCharacterEncodingFilter init ----------
+2018-12-17 18:36:31 [com.thinkive.gateway.v2.config.BusConfig]-[INFO] 配置文件[BusConfig.xml]不存在，请检查!
+2018-12-17 18:36:34 [com.thinkive.gateway.v2.config.BusConfig]-[INFO] 配置文件[BusConfig.xml]不存在，请检查!
+2018-12-17 18:36:37 [com.thinkive.gateway.v2.config.BusConfig]-[INFO] 配置文件[BusConfig.xml]不存在，请检查!
+2018-12-18 17:09:08 [com.project.listener.ApplicationLifecycleListener]-[INFO] Starting application......
+2018-12-18 17:09:09 [com.thinkive.gateway.v2.config.BusConfig]-[ERROR] 未找到配置文件[BusConfig.xml]
+2018-12-18 17:09:09 [com.thinkive.web.common.filter.SetCharacterEncodingFilter]-[INFO] SetCharacterEncodingFilter init ----------
+2018-12-18 17:09:12 [com.thinkive.gateway.v2.config.BusConfig]-[INFO] 配置文件[BusConfig.xml]不存在，请检查!
+2019-01-03 17:44:00 [com.project.listener.ApplicationLifecycleListener]-[INFO] Starting application......
+2019-01-03 17:44:00 [com.thinkive.gateway.v2.config.BusConfig]-[ERROR] 未找到配置文件[BusConfig.xml]
+2019-01-03 17:44:00 [com.thinkive.web.common.filter.SetCharacterEncodingFilter]-[INFO] SetCharacterEncodingFilter init ----------
+2019-01-03 17:44:03 [com.thinkive.gateway.v2.config.BusConfig]-[INFO] 配置文件[BusConfig.xml]不存在，请检查!
+2019-01-03 17:44:06 [com.thinkive.gateway.v2.config.BusConfig]-[INFO] 配置文件[BusConfig.xml]不存在，请检查!
+2019-01-03 17:44:09 [com.thinkive.gateway.v2.config.BusConfig]-[INFO] 配置文件[BusConfig.xml]不存在，请检查!
+2019-01-03 17:44:12 [com.thinkive.gateway.v2.config.BusConfig]-[INFO] 配置文件[BusConfig.xml]不存在，请检查!
+2019-01-03 17:44:15 [com.thinkive.gateway.v2.config.BusConfig]-[INFO] 配置文件[BusConfig.xml]不存在，请检查!
+2019-01-03 17:44:18 [com.thinkive.gateway.v2.config.BusConfig]-[INFO] 配置文件[BusConfig.xml]不存在，请检查!
+2019-01-03 17:44:21 [com.thinkive.gateway.v2.config.BusConfig]-[INFO] 配置文件[BusConfig.xml]不存在，请检查!
+2019-01-03 17:44:24 [com.thinkive.gateway.v2.config.BusConfig]-[INFO] 配置文件[BusConfig.xml]不存在，请检查!
+2019-01-03 17:44:27 [com.thinkive.gateway.v2.config.BusConfig]-[INFO] 配置文件[BusConfig.xml]不存在，请检查!
+2019-01-03 17:44:30 [com.thinkive.gateway.v2.config.BusConfig]-[INFO] 配置文件[BusConfig.xml]不存在，请检查!
+2019-01-03 17:44:33 [com.thinkive.gateway.v2.config.BusConfig]-[INFO] 配置文件[BusConfig.xml]不存在，请检查!
+2019-01-03 17:44:36 [com.thinkive.gateway.v2.config.BusConfig]-[INFO] 配置文件[BusConfig.xml]不存在，请检查!
+2019-01-03 17:44:39 [com.thinkive.gateway.v2.config.BusConfig]-[INFO] 配置文件[BusConfig.xml]不存在，请检查!
+2019-01-03 17:44:42 [com.thinkive.gateway.v2.config.BusConfig]-[INFO] 配置文件[BusConfig.xml]不存在，请检查!
+2019-01-03 17:44:45 [com.thinkive.gateway.v2.config.BusConfig]-[INFO] 配置文件[BusConfig.xml]不存在，请检查!
+2019-01-03 17:44:48 [com.thinkive.gateway.v2.config.BusConfig]-[INFO] 配置文件[BusConfig.xml]不存在，请检查!
+2019-01-03 17:44:51 [com.thinkive.gateway.v2.config.BusConfig]-[INFO] 配置文件[BusConfig.xml]不存在，请检查!
+2019-01-03 17:44:54 [com.thinkive.gateway.v2.config.BusConfig]-[INFO] 配置文件[BusConfig.xml]不存在，请检查!
+2019-01-03 17:44:57 [com.thinkive.gateway.v2.config.BusConfig]-[INFO] 配置文件[BusConfig.xml]不存在，请检查!
+2019-01-03 17:45:00 [com.thinkive.gateway.v2.config.BusConfig]-[INFO] 配置文件[BusConfig.xml]不存在，请检查!
+2019-01-03 17:45:03 [com.thinkive.gateway.v2.config.BusConfig]-[INFO] 配置文件[BusConfig.xml]不存在，请检查!
+2019-01-03 17:45:06 [com.thinkive.gateway.v2.config.BusConfig]-[INFO] 配置文件[BusConfig.xml]不存在，请检查!
+2019-01-03 17:45:09 [com.thinkive.gateway.v2.config.BusConfig]-[INFO] 配置文件[BusConfig.xml]不存在，请检查!
+2019-01-03 17:45:12 [com.thinkive.gateway.v2.config.BusConfig]-[INFO] 配置文件[BusConfig.xml]不存在，请检查!
+2019-01-03 17:45:15 [com.thinkive.gateway.v2.config.BusConfig]-[INFO] 配置文件[BusConfig.xml]不存在，请检查!
+2019-01-03 17:45:18 [com.thinkive.gateway.v2.config.BusConfig]-[INFO] 配置文件[BusConfig.xml]不存在，请检查!
+2019-01-03 17:45:21 [com.thinkive.gateway.v2.config.BusConfig]-[INFO] 配置文件[BusConfig.xml]不存在，请检查!
+2019-01-03 17:45:24 [com.thinkive.gateway.v2.config.BusConfig]-[INFO] 配置文件[BusConfig.xml]不存在，请检查!
+2019-01-03 17:45:27 [com.thinkive.gateway.v2.config.BusConfig]-[INFO] 配置文件[BusConfig.xml]不存在，请检查!
+2019-01-03 17:45:30 [com.thinkive.gateway.v2.config.BusConfig]-[INFO] 配置文件[BusConfig.xml]不存在，请检查!
+2019-01-03 17:45:33 [com.thinkive.gateway.v2.config.BusConfig]-[INFO] 配置文件[BusConfig.xml]不存在，请检查!
+2019-01-03 17:45:36 [com.thinkive.gateway.v2.config.BusConfig]-[INFO] 配置文件[BusConfig.xml]不存在，请检查!
+2019-01-03 17:45:39 [com.thinkive.gateway.v2.config.BusConfig]-[INFO] 配置文件[BusConfig.xml]不存在，请检查!
+2019-01-03 17:45:42 [com.thinkive.gateway.v2.config.BusConfig]-[INFO] 配置文件[BusConfig.xml]不存在，请检查!
+2019-01-03 17:45:45 [com.thinkive.gateway.v2.config.BusConfig]-[INFO] 配置文件[BusConfig.xml]不存在，请检查!
+2019-01-03 17:45:48 [com.thinkive.gateway.v2.config.BusConfig]-[INFO] 配置文件[BusConfig.xml]不存在，请检查!
+2019-01-03 17:45:51 [com.thinkive.gateway.v2.config.BusConfig]-[INFO] 配置文件[BusConfig.xml]不存在，请检查!
+2019-01-03 17:45:53 [org.springframework.context.support.ClassPathXmlApplicationContext]-[INFO] Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@538eb7b8: startup date [Thu Jan 03 17:45:53 CST 2019]; root of context hierarchy
+2019-01-03 17:45:53 [org.springframework.beans.factory.xml.XmlBeanDefinitionReader]-[INFO] Loading XML bean definitions from class path resource [conf/com/thinkive/cache/spring_bean_cache.xml]
+2019-01-03 17:45:54 [com.thinkive.cache.service.impl.SysParameterServiceImpl]-[ERROR] 更新系统参数缓存异常！
+java.lang.NullPointerException
+	at com.thinkive.base.jdbc.connection.ConnManager.getConnection(ConnManager.java:44)
+	at com.thinkive.base.jdbc.session.SessionFactory.getSession(SessionFactory.java:31)
+	at com.thinkive.base.mybatis.v2.jdbc.MyBatisSession.getSession(MyBatisSession.java:420)
+	at com.thinkive.base.mybatis.v2.jdbc.MyBatisSession.<init>(MyBatisSession.java:38)
+	at com.thinkive.base.mybatis.v2.jdbc.MyBatisTemplate.query(MyBatisTemplate.java:34)
+	at com.thinkive.base.mybatis.v2.jdbc.MyBatisTemplate.query(MyBatisTemplate.java:26)
+	at com.thinkive.cache.dao.SysParameterDao.queryList(SysParameterDao.java:34)
+	at com.thinkive.cache.service.impl.SysParameterServiceImpl.queryList(SysParameterServiceImpl.java:33)
+	at com.thinkive.cache.service.impl.SysParameterServiceImpl.replaceData(SysParameterServiceImpl.java:46)
+	at com.thinkive.cache.sys.SysParameter.<clinit>(SysParameter.java:122)
+	at com.thinkive.workplat.util.RefererUtil.<clinit>(RefererUtil.java:21)
+	at com.thinkive.workplat.web.action.SecurityPlatBaseAction.execute(SecurityPlatBaseAction.java:31)
+	at com.thinkive.web.base.FastServlet.invokeAction(FastServlet.java:111)
+	at com.thinkive.web.base.FastServlet.service(FastServlet.java:91)
+	at com.thinkive.workplat.PlatFastServlet.service(PlatFastServlet.java:39)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:820)
+	at org.mortbay.jetty.servlet.ServletHolder.handle(ServletHolder.java:511)
+	at org.mortbay.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1221)
+	at com.thinkive.web.common.filter.SetCharacterEncodingFilter.doFilter(SetCharacterEncodingFilter.java:60)
+	at org.mortbay.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1212)
+	at com.thetransactioncompany.cors.CORSFilter.doFilter(CORSFilter.java:168)
+	at com.thetransactioncompany.cors.CORSFilter.doFilter(CORSFilter.java:233)
+	at org.mortbay.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1212)
+	at org.mortbay.jetty.servlet.ServletHandler.handle(ServletHandler.java:399)
+	at org.mortbay.jetty.security.SecurityHandler.handle(SecurityHandler.java:216)
+	at org.mortbay.jetty.servlet.SessionHandler.handle(SessionHandler.java:182)
+	at org.mortbay.jetty.handler.ContextHandler.handle(ContextHandler.java:766)
+	at org.mortbay.jetty.webapp.WebAppContext.handle(WebAppContext.java:450)
+	at org.mortbay.jetty.handler.HandlerWrapper.handle(HandlerWrapper.java:152)
+	at org.mortbay.jetty.Server.handle(Server.java:326)
+	at org.mortbay.jetty.HttpConnection.handleRequest(HttpConnection.java:542)
+	at org.mortbay.jetty.HttpConnection$RequestHandler.headerComplete(HttpConnection.java:928)
+	at org.mortbay.jetty.HttpParser.parseNext(HttpParser.java:549)
+	at org.mortbay.jetty.HttpParser.parseAvailable(HttpParser.java:212)
+	at org.mortbay.jetty.HttpConnection.handle(HttpConnection.java:404)
+	at org.mortbay.io.nio.SelectChannelEndPoint.run(SelectChannelEndPoint.java:410)
+	at org.mortbay.thread.QueuedThreadPool$PoolThread.run(QueuedThreadPool.java:582)
+2019-01-03 17:45:54 [com.thinkive.cache.service.impl.SysParameterServiceImpl]-[ERROR] 更新系统参数缓存异常！
+java.lang.NullPointerException
+	at com.thinkive.base.jdbc.connection.ConnManager.getConnection(ConnManager.java:44)
+	at com.thinkive.base.jdbc.session.SessionFactory.getSession(SessionFactory.java:31)
+	at com.thinkive.base.mybatis.v2.jdbc.MyBatisSession.getSession(MyBatisSession.java:420)
+	at com.thinkive.base.mybatis.v2.jdbc.MyBatisSession.<init>(MyBatisSession.java:38)
+	at com.thinkive.base.mybatis.v2.jdbc.MyBatisTemplate.query(MyBatisTemplate.java:34)
+	at com.thinkive.base.mybatis.v2.jdbc.MyBatisTemplate.query(MyBatisTemplate.java:26)
+	at com.thinkive.cache.dao.SysParameterDao.queryList(SysParameterDao.java:34)
+	at com.thinkive.cache.service.impl.SysParameterServiceImpl.queryList(SysParameterServiceImpl.java:33)
+	at com.thinkive.cache.service.impl.SysParameterServiceImpl.replaceData(SysParameterServiceImpl.java:46)
+	at com.thinkive.cache.sys.SysParameterListener.run(SysParameterListener.java:33)
+2019-01-03 17:45:54 [com.thinkive.workplat.util.ScriptUtil]-[INFO]  :: 您还未登录
+2019-01-03 17:45:54 [com.thinkive.workplat.web.action.PlatBaseAction]-[INFO] 开始执行 [root.Login.doDefault]
+2019-01-03 17:45:54 [com.thinkive.gateway.v2.config.BusConfig]-[INFO] 配置文件[BusConfig.xml]不存在，请检查!
+2019-01-03 17:45:54 [com.thinkive.workplat.web.action.PlatBaseAction]-[INFO] 执行完成 [root.Login.doDefault] times=673 millisecond
+2019-01-03 17:45:57 [com.thinkive.gateway.v2.config.BusConfig]-[INFO] 配置文件[BusConfig.xml]不存在，请检查!
+2019-01-03 17:46:00 [com.thinkive.gateway.v2.config.BusConfig]-[INFO] 配置文件[BusConfig.xml]不存在，请检查!
+2019-01-03 17:46:02 [com.thinkive.workplat.web.action.PlatBaseFunction]-[INFO] 请求Function[root.LoginFunction]开始,入参[{loginid:admin,ticket:9kan,r:-999,password:11|******}],验签花费时间[157]毫秒
+2019-01-03 17:46:02 [com.thinkive.workplat.web.action.PlatBaseFunction]-[ERROR] 请求Function[root.LoginFunction]发生系统异常,异常原因[No bean named 'UserService' is defined]
+org.springframework.beans.factory.NoSuchBeanDefinitionException: No bean named 'UserService' is defined
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.getBeanDefinition(DefaultListableBeanFactory.java:638)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getMergedLocalBeanDefinition(AbstractBeanFactory.java:1159)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:282)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:195)
+	at org.springframework.context.support.AbstractApplicationContext.getBean(AbstractApplicationContext.java:973)
+	at com.thinkive.base.util.SpringHelper.getBean(SpringHelper.java:179)
+	at root.LoginFunction.execute(LoginFunction.java:108)
+	at com.thinkive.workplat.web.action.PlatBaseFunction.execute(PlatBaseFunction.java:124)
+	at com.thinkive.web.base.FastServlet.invokeAction(FastServlet.java:111)
+	at com.thinkive.web.base.FastServlet.service(FastServlet.java:91)
+	at com.thinkive.workplat.PlatFastServlet.service(PlatFastServlet.java:39)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:820)
+	at org.mortbay.jetty.servlet.ServletHolder.handle(ServletHolder.java:511)
+	at org.mortbay.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1221)
+	at com.thinkive.web.common.filter.SetCharacterEncodingFilter.doFilter(SetCharacterEncodingFilter.java:60)
+	at org.mortbay.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1212)
+	at com.thetransactioncompany.cors.CORSFilter.doFilter(CORSFilter.java:168)
+	at com.thetransactioncompany.cors.CORSFilter.doFilter(CORSFilter.java:233)
+	at org.mortbay.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1212)
+	at org.mortbay.jetty.servlet.ServletHandler.handle(ServletHandler.java:399)
+	at org.mortbay.jetty.security.SecurityHandler.handle(SecurityHandler.java:216)
+	at org.mortbay.jetty.servlet.SessionHandler.handle(SessionHandler.java:182)
+	at org.mortbay.jetty.handler.ContextHandler.handle(ContextHandler.java:766)
+	at org.mortbay.jetty.webapp.WebAppContext.handle(WebAppContext.java:450)
+	at org.mortbay.jetty.handler.HandlerWrapper.handle(HandlerWrapper.java:152)
+	at org.mortbay.jetty.Server.handle(Server.java:326)
+	at org.mortbay.jetty.HttpConnection.handleRequest(HttpConnection.java:542)
+	at org.mortbay.jetty.HttpConnection$RequestHandler.content(HttpConnection.java:945)
+	at org.mortbay.jetty.HttpParser.parseNext(HttpParser.java:756)
+	at org.mortbay.jetty.HttpParser.parseAvailable(HttpParser.java:212)
+	at org.mortbay.jetty.HttpConnection.handle(HttpConnection.java:404)
+	at org.mortbay.io.nio.SelectChannelEndPoint.run(SelectChannelEndPoint.java:410)
+	at org.mortbay.thread.QueuedThreadPool$PoolThread.run(QueuedThreadPool.java:582)
+2019-01-03 17:46:03 [com.thinkive.gateway.v2.config.BusConfig]-[INFO] 配置文件[BusConfig.xml]不存在，请检查!
+2019-01-03 17:46:06 [com.thinkive.gateway.v2.config.BusConfig]-[INFO] 配置文件[BusConfig.xml]不存在，请检查!
+2019-01-03 17:46:09 [com.thinkive.gateway.v2.config.BusConfig]-[INFO] 配置文件[BusConfig.xml]不存在，请检查!
+2019-01-03 17:46:12 [com.thinkive.gateway.v2.config.BusConfig]-[INFO] 配置文件[BusConfig.xml]不存在，请检查!
+2019-01-03 17:46:15 [com.thinkive.gateway.v2.config.BusConfig]-[INFO] 配置文件[BusConfig.xml]不存在，请检查!
+2019-01-03 17:46:18 [com.thinkive.gateway.v2.config.BusConfig]-[INFO] 配置文件[BusConfig.xml]不存在，请检查!
+2019-01-03 17:46:21 [com.thinkive.gateway.v2.config.BusConfig]-[INFO] 配置文件[BusConfig.xml]不存在，请检查!
+2019-01-03 17:46:24 [com.thinkive.gateway.v2.config.BusConfig]-[INFO] 配置文件[BusConfig.xml]不存在，请检查!
+2019-01-03 17:46:27 [com.thinkive.gateway.v2.config.BusConfig]-[INFO] 配置文件[BusConfig.xml]不存在，请检查!
+2019-03-05 17:33:06 [com.project.listener.ApplicationLifecycleListener]-[INFO] Starting application......
+2019-03-05 17:33:06 [com.thinkive.gateway.v2.config.BusConfig]-[ERROR] 未找到配置文件[BusConfig.xml]
+2019-03-05 17:33:06 [com.thinkive.web.common.filter.SetCharacterEncodingFilter]-[INFO] SetCharacterEncodingFilter init ----------
+2019-03-05 17:33:15 [com.project.listener.ApplicationLifecycleListener]-[INFO] Starting application......
+2019-03-05 17:33:15 [com.thinkive.gateway.v2.config.BusConfig]-[ERROR] 未找到配置文件[BusConfig.xml]
+2019-03-05 17:33:15 [com.thinkive.web.common.filter.SetCharacterEncodingFilter]-[INFO] SetCharacterEncodingFilter init ----------
+2019-03-05 17:33:44 [com.project.listener.ApplicationLifecycleListener]-[INFO] Starting application......
+2019-03-05 17:33:44 [com.thinkive.gateway.v2.config.BusConfig]-[ERROR] 未找到配置文件[BusConfig.xml]
+2019-03-05 17:33:44 [com.thinkive.web.common.filter.SetCharacterEncodingFilter]-[INFO] SetCharacterEncodingFilter init ----------
+2019-03-05 17:33:47 [com.thinkive.gateway.v2.config.BusConfig]-[INFO] 配置文件[BusConfig.xml]不存在，请检查!
+2019-03-05 17:33:50 [com.thinkive.gateway.v2.config.BusConfig]-[INFO] 配置文件[BusConfig.xml]不存在，请检查!
+2019-03-05 17:33:53 [com.thinkive.gateway.v2.config.BusConfig]-[INFO] 配置文件[BusConfig.xml]不存在，请检查!
+2019-03-19 16:03:12 [com.project.listener.ApplicationLifecycleListener]-[INFO] Starting application......
+2019-03-19 16:03:12 [com.thinkive.gateway.v2.config.BusConfig]-[ERROR] 未找到配置文件[BusConfig.xml]
+2019-03-19 16:03:13 [com.thinkive.web.common.filter.SetCharacterEncodingFilter]-[INFO] SetCharacterEncodingFilter init ----------
+2019-03-19 16:03:16 [com.thinkive.gateway.v2.config.BusConfig]-[INFO] 配置文件[BusConfig.xml]不存在，请检查!
+2019-03-19 16:03:19 [com.thinkive.gateway.v2.config.BusConfig]-[INFO] 配置文件[BusConfig.xml]不存在，请检查!

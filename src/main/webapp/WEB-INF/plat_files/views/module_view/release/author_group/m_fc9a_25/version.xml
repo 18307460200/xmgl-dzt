@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="GBK"?>
+
+<versions>
+  <version version_id="5084f8b179e6431f910d6da5026aa6fa">
+    <publish_date>2018-08-22 16:51:28</publish_date>
+    <publish_by>admin</publish_by>
+    <module_id>cdddd89c3c8f44d0b0a1ccf3dfcefc9a</module_id>
+    <version_type>1</version_type>
+    <update_content>422</update_content>
+    <remarks>422</remarks>
+    <module_no>m_fc9a_25</module_no>
+    <module_name>数据权限要素管理</module_name>
+    <module_type_id>4744dcfbfa8c4bb4adf75b3feb9a965e</module_type_id>
+    <version>412</version>
+  </version>
+  <version version_id="216eee3f79e344c8a943a21b172dda80">
+    <publish_date></publish_date>
+    <publish_by></publish_by>
+    <module_id>cdddd89c3c8f44d0b0a1ccf3dfcefc9a</module_id>
+    <version_type>0</version_type>
+    <update_content></update_content>
+    <remarks>412</remarks>
+    <module_no>m_fc9a_25</module_no>
+    <module_name>数据权限要素管理</module_name>
+    <module_type_id>4744dcfbfa8c4bb4adf75b3feb9a965e</module_type_id>
+    <version>413</version>
+  </version>
+</versions>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="GBK"?>
+
+<versions>
+  <version version_id="af174b1bd0b74616b6fbff935722a559">
+    <publish_date>2018-08-22 16:51:28</publish_date>
+    <publish_by>admin</publish_by>
+    <module_id>C6C9413EA0FC4EB1B777884DFA8B62D6</module_id>
+    <version_type>1</version_type>
+    <update_content>422</update_content>
+    <remarks>422</remarks>
+    <module_no>user_manage</module_no>
+    <module_name>用户管理</module_name>
+    <module_type_id>4744dcfbfa8c4bb4adf75b3feb9a965e</module_type_id>
+    <version>412</version>
+  </version>
+  <version version_id="F3255C5AF0CE4202984A191864FF752E">
+    <publish_date></publish_date>
+    <publish_by></publish_by>
+    <module_id>C6C9413EA0FC4EB1B777884DFA8B62D6</module_id>
+    <version_type>0</version_type>
+    <update_content></update_content>
+    <remarks>412</remarks>
+    <module_no>user_manage</module_no>
+    <module_name>用户管理</module_name>
+    <module_type_id>4744dcfbfa8c4bb4adf75b3feb9a965e</module_type_id>
+    <version>413</version>
+  </version>
+</versions>

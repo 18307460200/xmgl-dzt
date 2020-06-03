@@ -1,0 +1,30 @@
+<script type="text/javascript">
+	function getUrlParam(urlStr) {
+		var index = urlStr.indexOf("?");
+		if (index > -1) {
+			index++;
+			urlStr = urlStr.substring(index, urlStr.length);
+		}
+		if (urlStr.indexOf("=") == -1) {
+			return {};
+		}
+		// 通过&拆分成数组name=value，保存为String类型数据
+		var params = urlStr.split("&");
+		if (params === null || params.length === 0) {
+			return {};
+		}
+		var paramObj = {};
+		for ( var i = 0; i < params.length; i++) {
+			var keyValue = params[i].split("=");
+			var key = keyValue[0];
+			var value = params[i].replace(key + "=", "");
+			paramObj[key] = value;
+		}
+		return paramObj;
+	}
+	var queryParamStr = window.location.href;
+	var param = getUrlParam(queryParamStr);
+	var data = param.data;
+	data = decodeURIComponent(data);
+	document.write(data);
+</script>

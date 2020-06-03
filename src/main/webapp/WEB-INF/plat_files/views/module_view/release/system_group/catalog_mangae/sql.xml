@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="GBK"?>
+
+<sqls>
+  <sql sql_id="b30c72eb444d45cd8f61f18a8a2600a5">
+    <sql_type>5</sql_type>
+    <result_type>2</result_type>
+    <orderline>1494849527853</orderline>
+    <modified_date></modified_date>
+    <create_by></create_by>
+    <state></state>
+    <event_id></event_id>
+    <result_number>0</result_number>
+    <version_id>daeecdb673bf4a1aa04229c3dd925c51</version_id>
+    <create_date></create_date>
+    <module_id>6B6C3F43E51242E9BB8AF721BF83BE0E</module_id>
+    <sql_value><![CDATA[sqls/b30c72eb444d45cd8f61f18a8a2600a5.sql]]></sql_value>
+    <modified_by></modified_by>
+    <sql_no></sql_no>
+    <datasource>plat</datasource>
+  </sql>
+  <sql sql_id="ff3afcc102094c0ea89f42b5ca91aa50">
+    <sql_type>5</sql_type>
+    <result_type>0</result_type>
+    <orderline>1494849527956</orderline>
+    <modified_date></modified_date>
+    <create_by></create_by>
+    <state></state>
+    <event_id></event_id>
+    <result_number>0</result_number>
+    <version_id>daeecdb673bf4a1aa04229c3dd925c51</version_id>
+    <create_date></create_date>
+    <module_id>6B6C3F43E51242E9BB8AF721BF83BE0E</module_id>
+    <sql_value><![CDATA[sqls/ff3afcc102094c0ea89f42b5ca91aa50.sql]]></sql_value>
+    <modified_by></modified_by>
+    <sql_no></sql_no>
+    <datasource>plat</datasource>
+  </sql>
+</sqls>

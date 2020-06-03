@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="GBK"?>
+
+<templates>
+  <template template_id="DEA0BA6A16C44A0BA99D4A8CE8EF6EF6">
+    <template_no>m_catalog_rights_manage</template_no>
+    <publish_date></publish_date>
+    <modified_date>2016-11-21 16:51:52</modified_date>
+    <publish_by></publish_by>
+    <create_by>wanzj</create_by>
+    <template_status>0</template_status>
+    <file_publish_path><![CDATA[/WEB-INF/plat_files/views/module_view/author_group/m_7df7_63//publish/m_catalog_rights_manage.ftl]]></file_publish_path>
+    <template_url>/conf/plat/module/rights_manage/template/m_catalog_rights_manage.ftl</template_url>
+    <version_id>d3a96eef58e74479a34672f90c853c55</version_id>
+    <template_type>1</template_type>
+    <publish_status>0</publish_status>
+    <parse_type>0</parse_type>
+    <file_type>1</file_type>
+    <content><![CDATA[template/m_catalog_rights_manage.ftl]]></content>
+    <template_name>栏目权限管理</template_name>
+    <window_width></window_width>
+    <create_date>2016-11-21 16:51:52</create_date>
+    <module_id>874e8cf42dac42a4be0346d1b5e47df7</module_id>
+    <file_encoding>UTF-8</file_encoding>
+    <modified_by>wanzj</modified_by>
+    <window_height></window_height>
+    <template_brief>权限管理中心首页</template_brief>
+    <is_index>1</is_index>
+  </template>
+  <template template_id="ba7f1769c48a486c9c69e10169ee168f">
+    <template_no>m_rights_copy</template_no>
+    <publish_date></publish_date>
+    <modified_date>2018-06-06 17:28:12</modified_date>
+    <publish_by></publish_by>
+    <create_by>admin</create_by>
+    <template_status>0</template_status>
+    <file_publish_path><![CDATA[/WEB-INF/plat_files/views/module_view/author_group/m_7df7_63//publish/m_rights_copy.ftl]]></file_publish_path>
+    <template_url>/conf/plat/module/rights_manage/template/m_rights_copy.ftl</template_url>
+    <version_id>d3a96eef58e74479a34672f90c853c55</version_id>
+    <template_type>1</template_type>
+    <publish_status>0</publish_status>
+    <parse_type>0</parse_type>
+    <file_type>1</file_type>
+    <content><![CDATA[template/m_rights_copy.ftl]]></content>
+    <template_name>岗位权限复制模板</template_name>
+    <window_width></window_width>
+    <create_date>2018-06-06 17:28:12</create_date>
+    <module_id>874e8cf42dac42a4be0346d1b5e47df7</module_id>
+    <file_encoding>UTF-8</file_encoding>
+    <modified_by>admin</modified_by>
+    <window_height></window_height>
+    <template_brief></template_brief>
+    <is_index>0</is_index>
+  </template>
+</templates>

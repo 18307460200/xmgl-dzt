@@ -1,0 +1,718 @@
+<?xml version="1.0" encoding="GBK"?>
+
+<events>
+  <event event_id="8DFC7175830F4F1CBD7F05735C89AD52">
+    <event_value><![CDATA[[{"func_impl":"com.thinkive.workplat.event.action.impl.event.AddEventAction"}]]]></event_value>
+    <orderline>1524725608836</orderline>
+    <modified_date>2016-10-19 14:41:21</modified_date>
+    <create_by></create_by>
+    <event_type>2</event_type>
+    <version_id>b2e8961ff06546feb1875a4912ce91e9</version_id>
+    <data_rights></data_rights>
+    <window_width></window_width>
+    <create_date></create_date>
+    <module_id>9A3E1C18B37E48F48D1A194B564AE952</module_id>
+    <modified_by></modified_by>
+    <data_type></data_type>
+    <description></description>
+    <window_height></window_height>
+    <is_audit></is_audit>
+    <event_no>e_add_event</event_no>
+    <event_name>添加事件</event_name>
+    <is_rights>1</is_rights>
+    <is_index></is_index>
+  </event>
+  <event event_id="d5ac09a518274164bf53449880905058">
+    <event_value><![CDATA[[{"func_impl":"com.thinkive.workplat.event.action.impl.event.AddJSAction"}]]]></event_value>
+    <orderline>1477981660727</orderline>
+    <modified_date>2016-11-01 14:50:02</modified_date>
+    <create_by>admin</create_by>
+    <event_type>2</event_type>
+    <version_id>b2e8961ff06546feb1875a4912ce91e9</version_id>
+    <data_rights>0</data_rights>
+    <window_width></window_width>
+    <create_date>2016-11-01 14:27:40</create_date>
+    <module_id>9A3E1C18B37E48F48D1A194B564AE952</module_id>
+    <modified_by>admin</modified_by>
+    <data_type></data_type>
+    <description>添加和修改js都可以调用</description>
+    <window_height></window_height>
+    <is_audit></is_audit>
+    <event_no>e_add_js</event_no>
+    <event_name>添加JS脚本</event_name>
+    <is_rights>1</is_rights>
+    <is_index></is_index>
+  </event>
+  <event event_id="79CBB00A37004AEB82BCE402CADE57DF">
+    <event_value><![CDATA[[{"func_impl":"com.thinkive.workplat.event.action.impl.module.AddModuleTypeAction"}]]]></event_value>
+    <orderline>1524725608888</orderline>
+    <modified_date>2016-10-19 14:41:21</modified_date>
+    <create_by></create_by>
+    <event_type>2</event_type>
+    <version_id>b2e8961ff06546feb1875a4912ce91e9</version_id>
+    <data_rights></data_rights>
+    <window_width></window_width>
+    <create_date></create_date>
+    <module_id>9A3E1C18B37E48F48D1A194B564AE952</module_id>
+    <modified_by></modified_by>
+    <data_type></data_type>
+    <description></description>
+    <window_height></window_height>
+    <is_audit></is_audit>
+    <event_no>e_add_moudletype</event_no>
+    <event_name>添加模块类型</event_name>
+    <is_rights>1</is_rights>
+    <is_index></is_index>
+  </event>
+  <event event_id="3535E432962440FFA4BCF672785336A1">
+    <event_value><![CDATA[[{"func_impl":"com.thinkive.workplat.event.action.impl.module.AddModuleAction"}]]]></event_value>
+    <orderline>1524725608900</orderline>
+    <modified_date>2016-10-19 14:41:21</modified_date>
+    <create_by></create_by>
+    <event_type>2</event_type>
+    <version_id>b2e8961ff06546feb1875a4912ce91e9</version_id>
+    <data_rights></data_rights>
+    <window_width></window_width>
+    <create_date></create_date>
+    <module_id>9A3E1C18B37E48F48D1A194B564AE952</module_id>
+    <modified_by></modified_by>
+    <data_type></data_type>
+    <description></description>
+    <window_height></window_height>
+    <is_audit></is_audit>
+    <event_no>e_add_moudletypeinfo</event_no>
+    <event_name>添加模块信息</event_name>
+    <is_rights>1</is_rights>
+    <is_index></is_index>
+  </event>
+  <event event_id="C25113CB350C4F62BF611E0BBC406A97">
+    <event_value><![CDATA[[{"func_impl":"com.thinkive.workplat.event.action.impl.event.AddSqlAction"}]]]></event_value>
+    <orderline>1524725608923</orderline>
+    <modified_date>2016-10-19 14:41:21</modified_date>
+    <create_by></create_by>
+    <event_type>2</event_type>
+    <version_id>b2e8961ff06546feb1875a4912ce91e9</version_id>
+    <data_rights></data_rights>
+    <window_width></window_width>
+    <create_date></create_date>
+    <module_id>9A3E1C18B37E48F48D1A194B564AE952</module_id>
+    <modified_by></modified_by>
+    <data_type></data_type>
+    <description></description>
+    <window_height></window_height>
+    <is_audit></is_audit>
+    <event_no>e_add_sql</event_no>
+    <event_name>添加sql</event_name>
+    <is_rights>1</is_rights>
+    <is_index></is_index>
+  </event>
+  <event event_id="B745923B20054385BB43BCE088F8566B">
+    <event_value><![CDATA[[{"func_impl":"com.thinkive.workplat.event.action.impl.template.AddTemplateAction"}]]]></event_value>
+    <orderline>1524725608932</orderline>
+    <modified_date>2016-10-19 14:41:21</modified_date>
+    <create_by></create_by>
+    <event_type>2</event_type>
+    <version_id>b2e8961ff06546feb1875a4912ce91e9</version_id>
+    <data_rights></data_rights>
+    <window_width></window_width>
+    <create_date></create_date>
+    <module_id>9A3E1C18B37E48F48D1A194B564AE952</module_id>
+    <modified_by></modified_by>
+    <data_type></data_type>
+    <description></description>
+    <window_height></window_height>
+    <is_audit></is_audit>
+    <event_no>e_add_template</event_no>
+    <event_name>添加模板</event_name>
+    <is_rights>1</is_rights>
+    <is_index></is_index>
+  </event>
+  <event event_id="3b8195dda1664548996f4f985a3698cf">
+    <event_value><![CDATA[[{"func_impl":"com.thinkive.workplat.event.action.impl.module.BackupModuleAction"}]]]></event_value>
+    <orderline>1524725608948</orderline>
+    <modified_date>2016-10-19 14:41:21</modified_date>
+    <create_by>admin</create_by>
+    <event_type>2</event_type>
+    <version_id>b2e8961ff06546feb1875a4912ce91e9</version_id>
+    <data_rights></data_rights>
+    <window_width></window_width>
+    <create_date>2016-10-19 14:41:21</create_date>
+    <module_id>9A3E1C18B37E48F48D1A194B564AE952</module_id>
+    <modified_by>admin</modified_by>
+    <data_type></data_type>
+    <description></description>
+    <window_height></window_height>
+    <is_audit></is_audit>
+    <event_no>e_backup_module</event_no>
+    <event_name>备份所有模块</event_name>
+    <is_rights>1</is_rights>
+    <is_index></is_index>
+  </event>
+  <event event_id="285156db5bf6485c9d46c9d98eb59992">
+    <event_value><![CDATA[[{"func_impl":"com.thinkive.workplat.event.action.impl.module.BackModuleTypeAction"}]]]></event_value>
+    <orderline>1487585413555</orderline>
+    <modified_date>2017-02-20 18:10:13</modified_date>
+    <create_by>admin</create_by>
+    <event_type>2</event_type>
+    <version_id>b2e8961ff06546feb1875a4912ce91e9</version_id>
+    <data_rights>0</data_rights>
+    <window_width></window_width>
+    <create_date>2017-02-20 18:10:13</create_date>
+    <module_id>9A3E1C18B37E48F48D1A194B564AE952</module_id>
+    <modified_by>admin</modified_by>
+    <data_type></data_type>
+    <description></description>
+    <window_height></window_height>
+    <is_audit></is_audit>
+    <event_no>e_back_moduletype</event_no>
+    <event_name>导出当前目录下所有的模块</event_name>
+    <is_rights>1</is_rights>
+    <is_index></is_index>
+  </event>
+  <event event_id="a068bc3618f0464693c750e77be56caf">
+    <event_value><![CDATA[[{"func_impl":"com.thinkive.workplat.event.action.impl.module.CreateEventIDAction"}]]]></event_value>
+    <orderline>1478240852179</orderline>
+    <modified_date>2016-11-04 14:27:32</modified_date>
+    <create_by>admin</create_by>
+    <event_type>2</event_type>
+    <version_id>b2e8961ff06546feb1875a4912ce91e9</version_id>
+    <data_rights>0</data_rights>
+    <window_width></window_width>
+    <create_date>2016-11-04 14:27:32</create_date>
+    <module_id>9A3E1C18B37E48F48D1A194B564AE952</module_id>
+    <modified_by>admin</modified_by>
+    <data_type></data_type>
+    <description></description>
+    <window_height></window_height>
+    <is_audit></is_audit>
+    <event_no>e_create_event</event_no>
+    <event_name>生成事件ID</event_name>
+    <is_rights>1</is_rights>
+    <is_index></is_index>
+  </event>
+  <event event_id="C2CDA74A6AA64733BB8B9F90BF441718">
+    <event_value><![CDATA[[{"func_impl":"com.thinkive.workplat.event.action.impl.event.DeleteEventAction"}]]]></event_value>
+    <orderline>1524725608964</orderline>
+    <modified_date>2016-10-19 14:41:21</modified_date>
+    <create_by></create_by>
+    <event_type>2</event_type>
+    <version_id>b2e8961ff06546feb1875a4912ce91e9</version_id>
+    <data_rights></data_rights>
+    <window_width></window_width>
+    <create_date></create_date>
+    <module_id>9A3E1C18B37E48F48D1A194B564AE952</module_id>
+    <modified_by></modified_by>
+    <data_type></data_type>
+    <description>删除事件</description>
+    <window_height></window_height>
+    <is_audit></is_audit>
+    <event_no>e_delete_event</event_no>
+    <event_name>删除事件</event_name>
+    <is_rights>1</is_rights>
+    <is_index></is_index>
+  </event>
+  <event event_id="3D390CA1EA924F15AE0776C2433A3781">
+    <event_value><![CDATA[[{"func_impl":"com.thinkive.workplat.event.action.impl.module.DeleteModuleTypeAction"}]]]></event_value>
+    <orderline>1524725608974</orderline>
+    <modified_date>2016-10-19 14:41:21</modified_date>
+    <create_by></create_by>
+    <event_type>2</event_type>
+    <version_id>b2e8961ff06546feb1875a4912ce91e9</version_id>
+    <data_rights></data_rights>
+    <window_width></window_width>
+    <create_date></create_date>
+    <module_id>9A3E1C18B37E48F48D1A194B564AE952</module_id>
+    <modified_by></modified_by>
+    <data_type></data_type>
+    <description></description>
+    <window_height></window_height>
+    <is_audit></is_audit>
+    <event_no>e_delete_moudletype</event_no>
+    <event_name>删除模块类型</event_name>
+    <is_rights>1</is_rights>
+    <is_index></is_index>
+  </event>
+  <event event_id="5BEC688B8F9945558C6E3A7AB5C86160">
+    <event_value><![CDATA[[{"func_impl":"com.thinkive.workplat.event.action.impl.module.DeleteModuleAction"}]]]></event_value>
+    <orderline>1524725608982</orderline>
+    <modified_date>2016-10-19 14:41:21</modified_date>
+    <create_by></create_by>
+    <event_type>2</event_type>
+    <version_id>b2e8961ff06546feb1875a4912ce91e9</version_id>
+    <data_rights></data_rights>
+    <window_width></window_width>
+    <create_date></create_date>
+    <module_id>9A3E1C18B37E48F48D1A194B564AE952</module_id>
+    <modified_by></modified_by>
+    <data_type></data_type>
+    <description></description>
+    <window_height></window_height>
+    <is_audit></is_audit>
+    <event_no>e_delete_moudletypeinfo</event_no>
+    <event_name>删除模块信息</event_name>
+    <is_rights>1</is_rights>
+    <is_index></is_index>
+  </event>
+  <event event_id="caaf229e42fc413f9b814ec1267f0a62">
+    <event_value><![CDATA[[{"func_impl":"com.thinkive.workplat.event.action.impl.event.DeleteSqlByIdAction"}]]]></event_value>
+    <orderline>1524725608990</orderline>
+    <modified_date>2016-10-20 11:01:30</modified_date>
+    <create_by>admin</create_by>
+    <event_type>2</event_type>
+    <version_id>b2e8961ff06546feb1875a4912ce91e9</version_id>
+    <data_rights></data_rights>
+    <window_width></window_width>
+    <create_date>2016-10-20 11:01:30</create_date>
+    <module_id>9A3E1C18B37E48F48D1A194B564AE952</module_id>
+    <modified_by>admin</modified_by>
+    <data_type></data_type>
+    <description></description>
+    <window_height></window_height>
+    <is_audit></is_audit>
+    <event_no>e_delete_sql</event_no>
+    <event_name>删除sql</event_name>
+    <is_rights>1</is_rights>
+    <is_index></is_index>
+  </event>
+  <event event_id="82CF3E50A6344CDC88BAB7D1D84CAC50">
+    <event_value><![CDATA[[{"func_impl":"com.thinkive.workplat.event.action.impl.template.DeleteTemplateByIdAction"}]]]></event_value>
+    <orderline>1524725608998</orderline>
+    <modified_date>2016-10-19 14:41:21</modified_date>
+    <create_by></create_by>
+    <event_type>2</event_type>
+    <version_id>b2e8961ff06546feb1875a4912ce91e9</version_id>
+    <data_rights></data_rights>
+    <window_width></window_width>
+    <create_date></create_date>
+    <module_id>9A3E1C18B37E48F48D1A194B564AE952</module_id>
+    <modified_by></modified_by>
+    <data_type></data_type>
+    <description></description>
+    <window_height></window_height>
+    <is_audit></is_audit>
+    <event_no>e_delete_template</event_no>
+    <event_name>删除模板</event_name>
+    <is_rights>1</is_rights>
+    <is_index></is_index>
+  </event>
+  <event event_id="095D27D9FDE8420EA65B7809D906A301">
+    <event_value><![CDATA[[{"func_impl":"com.thinkive.workplat.event.action.impl.event.UpdateEventAction"}]]]></event_value>
+    <orderline>1524725609021</orderline>
+    <modified_date>2016-10-19 14:41:21</modified_date>
+    <create_by></create_by>
+    <event_type>2</event_type>
+    <version_id>b2e8961ff06546feb1875a4912ce91e9</version_id>
+    <data_rights></data_rights>
+    <window_width></window_width>
+    <create_date></create_date>
+    <module_id>9A3E1C18B37E48F48D1A194B564AE952</module_id>
+    <modified_by></modified_by>
+    <data_type></data_type>
+    <description>修改事件</description>
+    <window_height></window_height>
+    <is_audit></is_audit>
+    <event_no>e_edite_event</event_no>
+    <event_name>修改事件</event_name>
+    <is_rights>1</is_rights>
+    <is_index></is_index>
+  </event>
+  <event event_id="A56BC019DF6F44BDA143E806FAC988DB">
+    <event_value><![CDATA[[{"func_impl":"com.thinkive.workplat.event.action.impl.template.UpdateTemplateAction"}]]]></event_value>
+    <orderline>1524725609028</orderline>
+    <modified_date>2016-10-19 14:41:21</modified_date>
+    <create_by></create_by>
+    <event_type>2</event_type>
+    <version_id>b2e8961ff06546feb1875a4912ce91e9</version_id>
+    <data_rights></data_rights>
+    <window_width></window_width>
+    <create_date></create_date>
+    <module_id>9A3E1C18B37E48F48D1A194B564AE952</module_id>
+    <modified_by></modified_by>
+    <data_type></data_type>
+    <description></description>
+    <window_height></window_height>
+    <is_audit></is_audit>
+    <event_no>e_edite_template</event_no>
+    <event_name>修改模板</event_name>
+    <is_rights>1</is_rights>
+    <is_index></is_index>
+  </event>
+  <event event_id="55D85FF0B6D84BDFBE47B8FB7B7A6299">
+    <event_value><![CDATA[[{"func_impl":"com.thinkive.workplat.event.action.impl.module.UpdateModuleTypeAction"}]]]></event_value>
+    <orderline>1524725609007</orderline>
+    <modified_date>2016-10-19 14:41:21</modified_date>
+    <create_by></create_by>
+    <event_type>2</event_type>
+    <version_id>b2e8961ff06546feb1875a4912ce91e9</version_id>
+    <data_rights></data_rights>
+    <window_width></window_width>
+    <create_date></create_date>
+    <module_id>9A3E1C18B37E48F48D1A194B564AE952</module_id>
+    <modified_by></modified_by>
+    <data_type></data_type>
+    <description></description>
+    <window_height></window_height>
+    <is_audit></is_audit>
+    <event_no>e_edit_moudletype</event_no>
+    <event_name>修改模块类型</event_name>
+    <is_rights>1</is_rights>
+    <is_index></is_index>
+  </event>
+  <event event_id="B30DD6D0B71B4768B2C1CE21114F1108">
+    <event_value><![CDATA[[{"func_impl":"com.thinkive.workplat.event.action.impl.module.UpdateModuleAction"}]]]></event_value>
+    <orderline>1524725609014</orderline>
+    <modified_date>2016-10-19 14:41:21</modified_date>
+    <create_by></create_by>
+    <event_type>2</event_type>
+    <version_id>b2e8961ff06546feb1875a4912ce91e9</version_id>
+    <data_rights></data_rights>
+    <window_width></window_width>
+    <create_date></create_date>
+    <module_id>9A3E1C18B37E48F48D1A194B564AE952</module_id>
+    <modified_by></modified_by>
+    <data_type></data_type>
+    <description></description>
+    <window_height></window_height>
+    <is_audit></is_audit>
+    <event_no>e_edit_moudletypeinfo</event_no>
+    <event_name>修改模块信息</event_name>
+    <is_rights>1</is_rights>
+    <is_index></is_index>
+  </event>
+  <event event_id="372c1694847d4a8290449b62869656ac">
+    <event_value><![CDATA[[{"func_impl":"com.thinkive.workplat.event.action.impl.enumAction.ExportDictAction"}]]]></event_value>
+    <orderline>1507863315630</orderline>
+    <modified_date>2017-10-13 11:01:28</modified_date>
+    <create_by>admin</create_by>
+    <event_type>2</event_type>
+    <version_id>b2e8961ff06546feb1875a4912ce91e9</version_id>
+    <data_rights>0</data_rights>
+    <window_width></window_width>
+    <create_date>2017-10-13 10:55:15</create_date>
+    <module_id>9A3E1C18B37E48F48D1A194B564AE952</module_id>
+    <modified_by>admin</modified_by>
+    <data_type></data_type>
+    <description></description>
+    <window_height></window_height>
+    <is_audit></is_audit>
+    <event_no>e_exp_module_dicts</event_no>
+    <event_name>导出模块数据字典</event_name>
+    <is_rights>1</is_rights>
+    <is_index></is_index>
+  </event>
+  <event event_id="D267CA2C531D49758AB4E1D95434B743">
+    <event_value><![CDATA[[{"func_impl":"com.thinkive.workplat.event.action.impl.module.ExportModuleAction"}]]]></event_value>
+    <orderline>1524725609044</orderline>
+    <modified_date>2016-10-19 14:41:21</modified_date>
+    <create_by></create_by>
+    <event_type>2</event_type>
+    <version_id>b2e8961ff06546feb1875a4912ce91e9</version_id>
+    <data_rights></data_rights>
+    <window_width></window_width>
+    <create_date></create_date>
+    <module_id>9A3E1C18B37E48F48D1A194B564AE952</module_id>
+    <modified_by></modified_by>
+    <data_type></data_type>
+    <description></description>
+    <window_height></window_height>
+    <is_audit></is_audit>
+    <event_no>e_exp_moudule</event_no>
+    <event_name>导出模块</event_name>
+    <is_rights>1</is_rights>
+    <is_index></is_index>
+  </event>
+  <event event_id="2F1DF8AA8645450988D34E3A2F4AEA5E">
+    <event_value><![CDATA[[{"func_impl":"com.thinkive.workplat.event.action.impl.GengerSqlAction"}]]]></event_value>
+    <orderline>1524725609055</orderline>
+    <modified_date>2016-10-19 14:41:21</modified_date>
+    <create_by></create_by>
+    <event_type>2</event_type>
+    <version_id>b2e8961ff06546feb1875a4912ce91e9</version_id>
+    <data_rights></data_rights>
+    <window_width></window_width>
+    <create_date></create_date>
+    <module_id>9A3E1C18B37E48F48D1A194B564AE952</module_id>
+    <modified_by></modified_by>
+    <data_type></data_type>
+    <description></description>
+    <window_height></window_height>
+    <is_audit></is_audit>
+    <event_no>e_genrate_sql</event_no>
+    <event_name>一键生成sql</event_name>
+    <is_rights>1</is_rights>
+    <is_index></is_index>
+  </event>
+  <event event_id="174001be24db48ecafa1500467875039">
+    <event_value><![CDATA[[{"func_impl":"com.thinkive.workplat.event.action.impl.GengerJSAction"}]]]></event_value>
+    <orderline>1478071183117</orderline>
+    <modified_date>2016-11-02 15:19:43</modified_date>
+    <create_by>admin</create_by>
+    <event_type>2</event_type>
+    <version_id>b2e8961ff06546feb1875a4912ce91e9</version_id>
+    <data_rights>0</data_rights>
+    <window_width></window_width>
+    <create_date>2016-11-02 15:19:43</create_date>
+    <module_id>9A3E1C18B37E48F48D1A194B564AE952</module_id>
+    <modified_by>admin</modified_by>
+    <data_type></data_type>
+    <description></description>
+    <window_height></window_height>
+    <is_audit></is_audit>
+    <event_no>e_genter_js</event_no>
+    <event_name>一键生成JS脚本</event_name>
+    <is_rights>1</is_rights>
+    <is_index></is_index>
+  </event>
+  <event event_id="8d3a5828273d4a42a948c63eba5d56c4">
+    <event_value><![CDATA[[{"func_impl":"com.thinkive.workplat.event.action.impl.module.ImportModuleAction"}]]]></event_value>
+    <orderline>1524725609069</orderline>
+    <modified_date>2016-10-19 14:41:21</modified_date>
+    <create_by></create_by>
+    <event_type>2</event_type>
+    <version_id>b2e8961ff06546feb1875a4912ce91e9</version_id>
+    <data_rights></data_rights>
+    <window_width></window_width>
+    <create_date></create_date>
+    <module_id>9A3E1C18B37E48F48D1A194B564AE952</module_id>
+    <modified_by></modified_by>
+    <data_type></data_type>
+    <description></description>
+    <window_height></window_height>
+    <is_audit></is_audit>
+    <event_no>e_imp_moudule</event_no>
+    <event_name>导入模块</event_name>
+    <is_rights>1</is_rights>
+    <is_index></is_index>
+  </event>
+  <event event_id="1036AC2784DB46369DF349A0E19DD2D7">
+    <event_value><![CDATA[[{"func_impl":"com.thinkive.workplat.event.action.impl.module.PublishModuleAction"}]]]></event_value>
+    <orderline>1524725609077</orderline>
+    <modified_date>2016-10-19 14:41:21</modified_date>
+    <create_by></create_by>
+    <event_type>2</event_type>
+    <version_id>b2e8961ff06546feb1875a4912ce91e9</version_id>
+    <data_rights></data_rights>
+    <window_width></window_width>
+    <create_date></create_date>
+    <module_id>9A3E1C18B37E48F48D1A194B564AE952</module_id>
+    <modified_by></modified_by>
+    <data_type></data_type>
+    <description></description>
+    <window_height></window_height>
+    <is_audit></is_audit>
+    <event_no>e_publish_moudletype</event_no>
+    <event_name>发布模板</event_name>
+    <is_rights>1</is_rights>
+    <is_index></is_index>
+  </event>
+  <event event_id="C86A301363414FC29EF5B9820F49BD20">
+    <event_value><![CDATA[[{"func_impl":"com.thinkive.workplat.event.action.impl.template.QueryTemplateInfoAction"}]]]></event_value>
+    <orderline>1524725609086</orderline>
+    <modified_date>2016-10-19 14:41:21</modified_date>
+    <create_by></create_by>
+    <event_type>2</event_type>
+    <version_id>b2e8961ff06546feb1875a4912ce91e9</version_id>
+    <data_rights></data_rights>
+    <window_width></window_width>
+    <create_date></create_date>
+    <module_id>9A3E1C18B37E48F48D1A194B564AE952</module_id>
+    <modified_by></modified_by>
+    <data_type></data_type>
+    <description></description>
+    <window_height></window_height>
+    <is_audit></is_audit>
+    <event_no>e_query_alltemplateinfo</event_no>
+    <event_name>查询所有模板信息</event_name>
+    <is_rights>1</is_rights>
+    <is_index></is_index>
+  </event>
+  <event event_id="F97623B7513449FBAC556ABAB9F4F52A">
+    <event_value><![CDATA[[{"func_impl":"com.thinkive.workplat.event.action.impl.event.QueryEventInfoByIdAction"}]]]></event_value>
+    <orderline>1524725609095</orderline>
+    <modified_date>2016-10-19 14:41:21</modified_date>
+    <create_by></create_by>
+    <event_type>2</event_type>
+    <version_id>b2e8961ff06546feb1875a4912ce91e9</version_id>
+    <data_rights></data_rights>
+    <window_width></window_width>
+    <create_date></create_date>
+    <module_id>9A3E1C18B37E48F48D1A194B564AE952</module_id>
+    <modified_by></modified_by>
+    <data_type></data_type>
+    <description>查询指定事件信息</description>
+    <window_height></window_height>
+    <is_audit></is_audit>
+    <event_no>e_query_eventbyid</event_no>
+    <event_name>查询指定事件信息</event_name>
+    <is_rights>1</is_rights>
+    <is_index></is_index>
+  </event>
+  <event event_id="8BFF91FFAC1A4F20A35DA34A39C785B1">
+    <event_value><![CDATA[[{"func_impl":"com.thinkive.workplat.event.action.impl.template.QueryTemplateAction"}]]]></event_value>
+    <orderline>1524725609103</orderline>
+    <modified_date>2016-10-19 14:41:21</modified_date>
+    <create_by></create_by>
+    <event_type>2</event_type>
+    <version_id>b2e8961ff06546feb1875a4912ce91e9</version_id>
+    <data_rights></data_rights>
+    <window_width></window_width>
+    <create_date></create_date>
+    <module_id>9A3E1C18B37E48F48D1A194B564AE952</module_id>
+    <modified_by></modified_by>
+    <data_type></data_type>
+    <description></description>
+    <window_height></window_height>
+    <is_audit></is_audit>
+    <event_no>e_query_eventbymoduleid</event_no>
+    <event_name>查询模块下的事件信息</event_name>
+    <is_rights>1</is_rights>
+    <is_index></is_index>
+  </event>
+  <event event_id="21d130c49de44294b245c7b8fef120b6">
+    <event_value><![CDATA[[{"func_impl":"com.thinkive.workplat.event.action.impl.event.GetJSByIdAction"}]]]></event_value>
+    <orderline>1477982993496</orderline>
+    <modified_date>2016-11-01 14:56:20</modified_date>
+    <create_by>admin</create_by>
+    <event_type>2</event_type>
+    <version_id>b2e8961ff06546feb1875a4912ce91e9</version_id>
+    <data_rights>0</data_rights>
+    <window_width></window_width>
+    <create_date>2016-11-01 14:49:53</create_date>
+    <module_id>9A3E1C18B37E48F48D1A194B564AE952</module_id>
+    <modified_by>admin</modified_by>
+    <data_type></data_type>
+    <description></description>
+    <window_height></window_height>
+    <is_audit></is_audit>
+    <event_no>e_query_js</event_no>
+    <event_name>查询JS信息</event_name>
+    <is_rights>1</is_rights>
+    <is_index></is_index>
+  </event>
+  <event event_id="A5DE88EA8C5144B9AA186D65BD46D725">
+    <event_value><![CDATA[[{"func_impl":"com.thinkive.workplat.event.action.impl.module.QueryModuleTypeInfoByIdAction"}]]]></event_value>
+    <orderline>1524725609120</orderline>
+    <modified_date>2016-10-19 14:41:21</modified_date>
+    <create_by></create_by>
+    <event_type>2</event_type>
+    <version_id>b2e8961ff06546feb1875a4912ce91e9</version_id>
+    <data_rights></data_rights>
+    <window_width></window_width>
+    <create_date></create_date>
+    <module_id>9A3E1C18B37E48F48D1A194B564AE952</module_id>
+    <modified_by></modified_by>
+    <data_type></data_type>
+    <description></description>
+    <window_height></window_height>
+    <is_audit></is_audit>
+    <event_no>e_query_moudletypebyid</event_no>
+    <event_name>根据id查询模块类型</event_name>
+    <is_rights>1</is_rights>
+    <is_index></is_index>
+  </event>
+  <event event_id="A4781DC6200142998209C1C49281DEDE">
+    <event_value><![CDATA[[{"func_impl":"com.thinkive.workplat.event.action.impl.module.QueryModuleInfoAction"}]]]></event_value>
+    <orderline>1524725609129</orderline>
+    <modified_date>2016-10-19 14:41:21</modified_date>
+    <create_by></create_by>
+    <event_type>2</event_type>
+    <version_id>b2e8961ff06546feb1875a4912ce91e9</version_id>
+    <data_rights></data_rights>
+    <window_width></window_width>
+    <create_date></create_date>
+    <module_id>9A3E1C18B37E48F48D1A194B564AE952</module_id>
+    <modified_by></modified_by>
+    <data_type></data_type>
+    <description></description>
+    <window_height></window_height>
+    <is_audit></is_audit>
+    <event_no>e_query_moudletypeinfo</event_no>
+    <event_name>查询模块信息</event_name>
+    <is_rights>1</is_rights>
+    <is_index></is_index>
+  </event>
+  <event event_id="5D384C08DC304EB6AFFEAD4478ABBCF9">
+    <event_value><![CDATA[[{"func_impl":"com.thinkive.workplat.event.action.impl.module.GetMoudleTypeTreeAction"}]]]></event_value>
+    <orderline>1524725609137</orderline>
+    <modified_date>2016-10-19 14:41:21</modified_date>
+    <create_by></create_by>
+    <event_type>2</event_type>
+    <version_id>b2e8961ff06546feb1875a4912ce91e9</version_id>
+    <data_rights></data_rights>
+    <window_width></window_width>
+    <create_date></create_date>
+    <module_id>9A3E1C18B37E48F48D1A194B564AE952</module_id>
+    <modified_by></modified_by>
+    <data_type></data_type>
+    <description></description>
+    <window_height></window_height>
+    <is_audit></is_audit>
+    <event_no>e_query_moudletypetree</event_no>
+    <event_name>查询模块树</event_name>
+    <is_rights>1</is_rights>
+    <is_index></is_index>
+  </event>
+  <event event_id="9bd372ec4831463da7faeb344ee4d1c6">
+    <event_value><![CDATA[[{"func_impl":"com.thinkive.workplat.event.action.impl.event.GetSqlByIdAction"}]]]></event_value>
+    <orderline>1524725609146</orderline>
+    <modified_date>2016-10-19 20:19:30</modified_date>
+    <create_by>admin</create_by>
+    <event_type>2</event_type>
+    <version_id>b2e8961ff06546feb1875a4912ce91e9</version_id>
+    <data_rights></data_rights>
+    <window_width></window_width>
+    <create_date>2016-10-19 20:19:30</create_date>
+    <module_id>9A3E1C18B37E48F48D1A194B564AE952</module_id>
+    <modified_by>admin</modified_by>
+    <data_type></data_type>
+    <description></description>
+    <window_height></window_height>
+    <is_audit></is_audit>
+    <event_no>e_query_sqlevent</event_no>
+    <event_name>根据sql_id查询sql</event_name>
+    <is_rights>1</is_rights>
+    <is_index></is_index>
+  </event>
+  <event event_id="2a82fd53c8a24613a296d6addfcbcb81">
+    <event_value><![CDATA[[{"func_impl":"com.thinkive.workplat.event.action.impl.event.QuerySqlByEventAction"}]]]></event_value>
+    <orderline>1478251618519</orderline>
+    <modified_date>2016-11-04 17:26:58</modified_date>
+    <create_by>admin</create_by>
+    <event_type>2</event_type>
+    <version_id>b2e8961ff06546feb1875a4912ce91e9</version_id>
+    <data_rights>0</data_rights>
+    <window_width></window_width>
+    <create_date>2016-11-04 17:26:58</create_date>
+    <module_id>9A3E1C18B37E48F48D1A194B564AE952</module_id>
+    <modified_by>admin</modified_by>
+    <data_type></data_type>
+    <description></description>
+    <window_height></window_height>
+    <is_audit></is_audit>
+    <event_no>e_query_sqllist</event_no>
+    <event_name>查询sql列表</event_name>
+    <is_rights>1</is_rights>
+    <is_index></is_index>
+  </event>
+  <event event_id="56CADA198CC746C992B1353EFDE536B7">
+    <event_value><![CDATA[[{"func_impl":"com.thinkive.workplat.event.action.impl.template.GetTemplateInfoByIdAction"}]]]></event_value>
+    <orderline>1524725609164</orderline>
+    <modified_date>2016-11-16 10:29:02</modified_date>
+    <create_by></create_by>
+    <event_type>2</event_type>
+    <version_id>b2e8961ff06546feb1875a4912ce91e9</version_id>
+    <data_rights>0</data_rights>
+    <window_width></window_width>
+    <create_date></create_date>
+    <module_id>9A3E1C18B37E48F48D1A194B564AE952</module_id>
+    <modified_by>wanzj</modified_by>
+    <data_type></data_type>
+    <description></description>
+    <window_height></window_height>
+    <is_audit></is_audit>
+    <event_no>e_query_templateinfo</event_no>
+    <event_name>根据模板ID查询模板信息</event_name>
+    <is_rights>1</is_rights>
+    <is_index></is_index>
+  </event>
+</events>
